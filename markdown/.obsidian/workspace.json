@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "af659f99c8a0ad72",
+    "type": "split",
+    "children": [
+      {
+        "id": "892a5eafc5c7a328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac5595861fda70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.ULTRAVIOLET.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9.ULTRAVIOLET"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85bafc20f5e38d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c7418b41bed115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bbdbbedc67eb188",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "36e21bbb82bce0da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04ca000920ab0f2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7623892db0ba8a8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "392f7ab19ee3f335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1aabb0cfdadcbd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.BEIGE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.BEIGE"
+            }
+          },
+          {
+            "id": "7906340e07bfbf65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.BEIGE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.BEIGE"
+            }
+          },
+          {
+            "id": "b5b3f3485a9f8c12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3557b088c226d9e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.BEIGE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.BEIGE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "eac5595861fda70b",
+  "lastOpenFiles": [
+    "meta/metrics.md",
+    "meta",
+    "10.CLEARLIGHT.md",
+    "1.BEIGE.md",
+    "4.BLUE.md",
+    "3.RED.md",
+    "2.PURPLE.md",
+    "5.ORANGE.md",
+    "6.GREEN.md",
+    "8.TEAL.md",
+    "9.ULTRAVIOLET.md",
+    "7.YELLOW.md",
+    "Image Descriptions.md",
+    "images/images/image1.jpg",
+    "images/images/image1.png"
+  ]
+}
