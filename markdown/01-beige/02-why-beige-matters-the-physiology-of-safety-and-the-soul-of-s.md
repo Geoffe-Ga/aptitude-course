@@ -65,7 +65,7 @@ Plus, learning about a model of development has been shown to improve an individ
 
 Some of the most innovative models of development of our time are Integral Theory and Spiral Dynamics. But discovering them was more of an experience of validation than of inspiration. I had also identified the necessity of the basic agency available at this foundational level according to a system of my own: the Aspects of Adepthood Wholeness, in which it is referred to as the Agentic Aspect of Yes-And-Ness, which we’ll cover in greater detail in the next chapter, once were introduced to the “Yes.”
 
-For now, take this seriously. Until your root is stable, your higher pursuits—intuition, compassion, insight, transcendence—are built on shaky ground. You can’t fake that kind of stability. Your nervous system knows.
+For now, take this seriously. Until your root is stable, other capacities—intuition, compassion, insight—lack grounding. You can't fake that kind of stability. Your nervous system knows.
 
 > Some of you seek to fly. You see a trajectory where there is no mooring on this plane. But you must hold a mooring while in physical form. Not only to the body, but to all things which vibrate at the level of tone at which the body does.
 

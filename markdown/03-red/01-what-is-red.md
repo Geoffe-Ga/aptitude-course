@@ -12,7 +12,7 @@ We’re not denying that Red includes the shadow of domination. On the contrary�
 
 But here in APTITUDE, Red gets a second look. We approach it with the awareness that true Self-Love heals the shame that drives dominance in the first place. We recognize that power, when rooted in a healthy self-image and firm boundaries, no longer needs to stomp or shout. It stands tall. It radiates. It becomes resonant, not aggressive.
 
-That’s why the Adepthood Aspect of Red isn’t just “Power.” It’s Self-Love. The type of Self-Love that quiets the inner critic. That allows you to say no without guilt. That removes the craving to be feared or admired, because you already know you’re worthy. You’ve outgrown the need to prove it.
+That’s why the Adepthood Aspect of Red isn’t just “Power.” It’s Self-Love. The type of Self-Love that quiets the inner critic. That allows you to say no without guilt. That removes the craving to be feared or admired, because you already know you’re worthy. You no longer need to prove it.
 
 We’ll go deeper into that distinction in later sections. But for now, know this: while APTITUDE borrows its color-coding from Spiral Dynamics, it doesn’t treat the Stages as identical. Each color here is recast as a quality of Wholeness to be reclaimed. So don’t confuse our Red with the Red you’ve read about in other models. This isn’t just ego. It’s integration.
 

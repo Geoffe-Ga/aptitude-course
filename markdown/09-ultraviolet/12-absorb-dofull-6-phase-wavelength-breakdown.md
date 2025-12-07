@@ -4,13 +4,13 @@ Ultraviolet's Wavelength is the rhythm of deepening realization. Each phase is a
 
 ### 1. RISING
 
-**Rx: Ascending | OD: Transcending**
+**Rx: Deepening | OD: Transcending**
 
-Rising at Ultraviolet is about *going deeper*. Not trying something new—refining what you already know. You're ascending into subtler states, more refined concentration, clearer seeing.
+Rising at Ultraviolet is about *going deeper*. Not trying something new—refining what you already know. You're deepening into subtler states, more refined concentration, clearer seeing.
 
-**Ascending** is the natural deepening that comes from sustained practice. You sit every day. You go on retreat. And slowly, inevitably, the mind becomes more subtle. The jhanas become accessible. Insight becomes more frequent.
+**Deepening** is the natural refinement that comes from sustained practice. You sit every day. You go on retreat. And slowly, inevitably, the mind becomes more subtle. The jhanas become accessible. Insight becomes more frequent.
 
-This is not forced. It's the fruit of consistency. You're ascending because the path naturally leads upward when you walk it faithfully.
+This is not forced. It's the fruit of consistency. You're deepening because the path naturally develops subtlety when you walk it faithfully.
 
 But when the desire to transcend becomes compulsive, Rising tips into **Transcending**.
 
@@ -34,7 +34,7 @@ But when Clarity becomes identification, Peaking tips into **Superiority**.
 
 **Superiority** is the ego saying, "I've figured it out. I'm awake. I'm beyond." It's using your realization as proof that you're better than others. It's the most toxic shadow Ultraviolet has.
 
-You see this in the teacher who can't be questioned. The practitioner who looks down on anyone at an "earlier stage." The person who's weaponized their clarity.
+You see this in the teacher who can't be questioned. The practitioner who looks down on anyone expressing a different stage. The person who's weaponized their clarity.
 
 The antidote is remembering: the one who sees clearly is empty. There's no "you" who's superior. There's just seeing. And that seeing is available to everyone—it's not your personal achievement.
 
@@ -52,7 +52,7 @@ Discernment is necessary. It's what allows you to navigate complexity without ge
 
 But when Discernment hardens, Withdrawal tips into **Judgment**.
 
-**Judgment** is using your clarity to condemn. To dismiss. To reject. You see someone at an earlier stage and you think they're "wrong." You hear a teaching that doesn't resonate and you label it "inferior."
+**Judgment** is using your clarity to condemn. To dismiss. To reject. You see someone expressing Red or Orange and you think they're "wrong." You hear a teaching that doesn't resonate and you label it "inferior."
 
 This is the shadow of hierarchy. Instead of honoring the spiral, you're using it to elevate yourself and diminish others.
 

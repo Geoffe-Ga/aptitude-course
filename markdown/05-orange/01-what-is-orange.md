@@ -18,6 +18,6 @@ This is the stage where you learn to work *with* energy, not against it. Where y
 
 So yes, Orange is about achievement. But not the hollow kind. The kind that builds something real. The kind that makes you better, sharper, more capable—not so you can prove your worth, but because you already *know* it, and now you're ready to *use* it.
 
-You're not here to climb someone else's ladder. You're here to build your own rocket. Let's get to work.
+You're not here to follow someone else's formula. You're here to experiment, iterate, and discover what works for you. Let's get to work.
 
 ---

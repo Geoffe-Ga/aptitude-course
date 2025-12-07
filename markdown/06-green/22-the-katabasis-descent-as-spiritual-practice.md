@@ -8,6 +8,6 @@ Inanna's journey is part of a larger mythic pattern called *katabasis*—the des
 - Dante's journey through the Inferno before reaching Paradise
 - The Buddha sitting under the Bodhi tree, confronting Mara (the demon of delusion)
 
-Every wisdom tradition knows: you can't ascend until you've descended. You can't reach the heights until you've plumbed the depths. You can't be whole until you've integrated what you've disowned.
+Every wisdom tradition knows: expansion requires contraction first. You can't experience the peaks until you've explored the valleys. You can't be whole until you've integrated what you've disowned.
 
 Green is the modern resurrection of this ancient practice. Shadow work is katabasis. And the underworld is not a place—it's the basement of your own psyche.

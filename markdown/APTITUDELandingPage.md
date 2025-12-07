@@ -3,9 +3,7 @@
 Adepthood is what comes after adulthood, but only for those who choose
 to wake up. It’s a state expressed by those who have jettisoned
 conditioning and now express <span class="c1">Free
-Will.</span><span class="c0"> It’s knowing you’ve outgrown the
-self-imposed oppression of cycles, habits, patterns, or seemingly
-inescapable self-sabotage. </span>
+Will.</span><span class="c0"> It’s knowing you can choose differently—that you're no longer trapped by cycles, habits, patterns, or seemingly inescapable self-sabotage. </span>
 
 <span class="c0">You found your way here—you might already have done
 some research, some self-work, some intermittent practice.</span>

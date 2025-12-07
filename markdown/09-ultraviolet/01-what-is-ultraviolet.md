@@ -10,13 +10,15 @@ Ultraviolet is the penultimate stage before Clear Light. It's where the scaffold
 
 In Ken Wilber's Integral Theory, this corresponds to the "transpersonal" or "unified" stages—where you've integrated all previous levels and you're beginning to touch non-dual awareness. Not as a peak experience, but as a *stage*. A stable plateau.
 
-APTITUDE calls this **Wholeness**, and specifically the recognition of **Hierarchy**—not in the oppressive, dominating sense, but in the natural, developmental sense. Some capacities are more complex than others. Some perspectives include and transcend what came before. Some stages of consciousness *are* more whole than others.
+APTITUDE calls this **Wholeness**, and specifically the recognition of **Developmental Complexity**—not hierarchy in the sense of "better than," but complexity in the sense of "requires more scaffolding." Some capacities are more complex than others. Some include more notes in the chord. Complexity describes the scaffolding required, not the value of the capacity.
 
-Ultraviolet is where you can finally say that without flinching. Without guilt. Without the Green fear that recognizing hierarchy means devaluing what came before.
+Ultraviolet is where you stop flinching at this truth. Without guilt. Without the Green fear that recognizing complexity means devaluing simplicity.
 
-Because here's the truth: a child is not "less than" an adult. But an adult *can do more*. They have more capacity. More complexity. More freedom. And the same is true for stages of consciousness. Beige is not "bad." But Yellow can do things Beige can't. That's not judgment. That's just *what is*.
+Because here's what's true: playing a complex jazz chord isn't "better than" playing a single note. But it *requires more practice*. More foundations laid. More notes learned. The single note isn't inferior—it's essential. You can't play the chord until you can play each note clearly. And sometimes, the single note is exactly what the moment needs.
 
-Ultraviolet is where you become a **Hierarchical Organizer**—someone who can see the nested levels of development, honor each for what it contributes, and know precisely which level a given situation calls for. You're not flattening all perspectives into relativism (Green's trap). You're recognizing their appropriate place in the whole.
+The same is true for stages. Beige (survival) isn't "less evolved" than Yellow (integration). But Yellow *can access more of the scale*. That's not superiority. That's just complexity. And you never stop needing Beige—you need your body grounded no matter how refined your meditation practice becomes.
+
+Ultraviolet is where you become a **Skillful Composer**—someone who can see the full range of capacities available, honor each for what it contributes, and know precisely which notes (or chords) a given situation calls for. You're not flattening all perspectives into relativism (Green's trap). You're recognizing that different moments ask for different expressions of the full scale.
 
 And you're doing the deep, sustained contemplative practice required to stabilize this recognition. This is the stage of **meditation retreats**—not weekend workshops, but serious, extended sits. Seven days. Ten days. Thirty days. The kind of practice that rewires you at the level of consciousness itself.
 

@@ -1,6 +1,6 @@
 # APTITUDE Course
 
-**Adepthood: Praxis and Theory for Integrating, Transcending, and Unbridling from Determinism Effectively**
+**Adepthood: Praxis and Theory for Integrating, Tuning, and Unbridling from Determinism Effectively**
 
 ---
 
@@ -10,15 +10,17 @@ You found your way here. Maybe through the polycrisis. Maybe through spiritual b
 
 **APTITUDE is a ten-stage, 36-week rite of passage** from Liminal Creep to Whole Adept. From insight to embodiment. From temporary enlightenment to sustainable practice.
 
-This isn't a crash course in transcendence. It's not Good Vibes Only spiritual bypassing.
+This isn't a ladder you climb. It's not about "transcending" early stages or chasing permanent enlightenment. It's not Good Vibes Only spiritual bypassing.
 
-This is about **integration**. About reclaiming Free Will. About learning to ride the Archetypal Wavelength—the inevitable cycles of rising and falling, expansion and contraction—with equanimity, awareness, and intention instead of getting battered by the waves.
+This is about **integration**. About reclaiming Free Will. About learning that the ten stages are like **notes on a musical scale**—and Wholeness emerges from playing the right chords for each moment. Sometimes you need a Beige-Orange chord (survival + achievement). Sometimes Blue-Green (community + shadow work). All ten notes remain available.
+
+You learn to ride the Archetypal Wavelength—the inevitable cycles of rising and falling, expansion and contraction—with equanimity, awareness, and intention instead of getting battered by the waves.
 
 ---
 
-## The Ten Stages
+## The Ten Stages (Notes on the Scale)
 
-Each stage represents a developmental capacity to integrate. Not a ladder to climb and leave behind—a **full spectrum of human wholeness** to embody:
+Each stage is a capacity, a note you learn to play. Not a rung to climb past—a **color in the palette of human wholeness**. You don't graduate from Beige when you reach Clear Light. You learn to express each healthily as life demands:
 
 1. **BEIGE** - Yes-And-Ness (Agency): Ground in your body and the physical world
 2. **PURPLE** - Yes-And-Ness (Receptivity): Welcome beauty and archetypal wisdom
@@ -105,7 +107,7 @@ This is how you go from "I should meditate" to 90-minute daily sits.
 
 A critical distinction in the later stages:
 
-- **TEAL (Stage 8)** is about discovering the **True Self**—the eternal Monad, the Higher Self, the "I AM" that transcends incarnation. This is **not** dissolution. This is connection to your transcendent nature.
+- **TEAL (Stage 8)** is about discovering the **True Self**—the eternal Monad, the Higher Self, the "I AM" beyond incarnation. This is **not** dissolution. This is connection to your transcendent nature.
 
 - **CLEAR LIGHT (Stage 10)** is about recognizing **Emptiness (śūnyatā)**—the direct seeing that all phenomena, including the self, are empty of inherent existence. "Form is emptiness, emptiness is form."
 
@@ -141,10 +143,13 @@ If you're **neurodivergent**, **traumatized**, **othered**, and have glimpsed th
 ## What Makes APTITUDE Different?
 
 ### NO GURU
-I am nothing special. Your journey is yours. APTITUDE gives you the blueprints for a staircase, but **you choose what materials**—what uniquely resonant habits and practices—you use to construct it.
+I am nothing special. Your journey is yours. APTITUDE gives you the musical theory, but **you choose what songs to play**—what uniquely resonant habits and practices—work for your life.
+
+### STAGES AS CHORDS, NOT RUNGS
+Wilber and Graves want constant upward growth. APTITUDE recognizes contraction is inevitable. You don't "outgrow" Beige (survival) when you reach Clear Light (emptiness). **Wholeness = the ability to play any note healthily** as the moment demands. Sometimes you need a Blue-Orange chord. Sometimes Red-Green. All ten remain available.
 
 ### INTEGRATIVE, NOT ESCAPIST
-Many spiritual paths prioritize transcendence over embodiment. They preach "integrate *and* transcend" but only criticize the shadows of early stages. Here, we **embrace the full human experience**. All ten stages. Fully integrated. Fully whole.
+Many spiritual paths prioritize transcendence over embodiment. They preach "integrate *and* transcend" but treat earlier stages as inferior. Here, we **honor the full spectrum**. Beige is as essential as Ultraviolet. All ten stages. Fully integrated. Fully whole.
 
 ### CYCLICAL, NOT CLIMACTIC
 There is no spiritual retirement. There is no enlightenment you can rest in forever. **There will always be ups and downs**—but APTITUDE teaches you to be present with them without unneeded suffering.

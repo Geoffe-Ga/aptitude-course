@@ -1,6 +1,6 @@
 ## What is Teal?
 
-If Yellow was about integrating *through* the mind—using analysis, systems thinking, and disciplined attention to synthesize all the previous stages—Teal is about integrating *beyond* the mind by connecting to something *transcendent*. This is where the small self meets the **True Self**. Where the conditioned personality discovers the **Higher Self**. Where Free Will (Yellow) expands into **True Self Connection** (Teal).
+If Yellow was about integrating *through* the mind—using analysis, systems thinking, and disciplined attention to see all stages as a system—Teal is about integrating *through the soul* by connecting to something beyond the conditioned personality: the **True Self**. This is where the small self meets the **Higher Self**. Where Free Will (Yellow) expands into **True Self Connection** (Teal).
 
 Teal is the shift from the Intentional Actor to the **True Self Embodier**—from someone who consciously chooses their response to someone who *channels* wisdom from their transcendent nature, their Monad, what some traditions call the Holy Guardian Angel or the Higher Self.
 

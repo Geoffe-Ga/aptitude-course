@@ -6,7 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is the **APTITUDE Course** repository - a 10-stage, 9-month transformational curriculum teaching developmental psychology, meditation practices, and "vibrational intelligence" through the lens of the Archetypal Wavelength. The course is designed for neurodivergent spiritual seekers ("Liminal Creeps") who struggle with embodiment despite having mystical insights.
 
-**Core acronym:** *Adepthood: Praxis and Theory for Integrating, Transcending, and Unbridling from Determinism Effectively*
+**Core acronym:** *Adepthood: Praxis and Theory for Integrating, Tuning, and Unbridling from Determinism Effectively*
+
+**Note on the model:** APTITUDE reframes Wilber/Graves developmental models. Rather than a ladder to climb, the ten stages are like **notes on a musical scale**—you learn to play the right chords for each moment. Wholeness = the ability to express any stage healthily as the situation demands.
 
 ## Architecture & Content Structure
 
@@ -154,11 +156,12 @@ git push origin main
 
 ### Core Principles
 
-1. **Integration over transcendence** - All stages are aspects of Wholeness, not rungs to climb past
-2. **No guru model** - Geoff explicitly rejects being a guru; encourage customization
-3. **Embodiment for neurodivergent mystics** - Target "drowning mystics" who have insights but struggle with structure
-4. **Energy Scaffolding** - One new habit every 21 days, sustainable momentum
-5. **Cyclical not climactic** - No permanent enlightenment; learning to surf the Wavelength
+1. **Stages as chords, not rungs** - All ten stages are like notes on a musical scale; Wholeness emerges from playing the right chords for each moment. You don't climb past stages—you learn to express any stage healthily as the situation demands.
+2. **Integration, not transcendence** - No stage is "higher" or "better." Each is an essential capacity. Beige (survival) is as vital as Clear Light (emptiness).
+3. **No guru model** - Geoff explicitly rejects being a guru; encourage customization
+4. **Embodiment for neurodivergent mystics** - Target "drowning mystics" who have insights but struggle with structure
+5. **Energy Scaffolding** - One new habit every 21 days, sustainable momentum
+6. **Cyclical not climactic** - No permanent enlightenment; contraction is as inevitable as expansion. Learning to surf the Wavelength means honoring both.
 
 ### Voice & Tone
 

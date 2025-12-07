@@ -10,7 +10,7 @@ But APTITUDE asks you to look closer. Because while Orange grants you agency, it
 
 You're chasing things: money, prestige, recognition, achievement. And you believe you're choosing these things freely. But are you? Or are you just executing the programming of a meritocratic, capitalist, hyper-individualist society that told you from birth that your worth is measured by what you accomplish?
 
-At Orange, Free Will is still uninteresting. You're too busy achieving to question whether achievement itself is the right metric. You're climbing the ladder without asking whether it's leaned against the right wall—or whether you even need a ladder at all.
+At Orange, Free Will is still uninteresting. You're too busy achieving to question whether achievement itself is the right metric. You're optimizing without asking whether you're optimizing the right things.
 
 The Status Seeker is not evil. They're not even wrong. They're just… incomplete. They've figured out how to play the game, but they haven't yet asked whether the game is worth playing. They're free to pursue their goals, but they're not free *from* the need to pursue them.
 

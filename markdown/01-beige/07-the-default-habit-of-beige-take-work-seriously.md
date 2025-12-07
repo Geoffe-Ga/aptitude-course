@@ -14,7 +14,7 @@ This is a waste. A terrible waste.
 
 A better attitude would be to find ways to use work as a learning experience for your human incarnation.
 
-You’re in soul school, take the curriculum!
+> You’re in soul school, take the curriculum!
 
 ~ Ram Dass
 
@@ -40,16 +40,11 @@ And the same occupation can be any of the three.
 
 A janitor who sees cleaning the floors of a hospital as a necessary drudgery to feed his family has a Job.
 
-
-
 The same janitor might shift into a mindset where he takes meticulous care, determined to prove himself to his boss so he can be promoted.
 This is someone who treats his work as a step in his Career: an opportunity to build safety and security.
 
-
-
 Meanwhile, one of that janitor’s coworkers who does the exact same work can see his contribution to the hospital as a vital service to the complex system that helps save lives. This janitor has adopted the mindset of a Calling.
+
 Her work is meaningful. She takes pleasure and pride in bringing her complete self to every shift.
 
-------------------------------------------------------------------------
-
-##
+----------------------------------------------------------------------

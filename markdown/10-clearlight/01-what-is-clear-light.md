@@ -2,7 +2,7 @@
 
 You've arrived. And paradoxically, you've discovered there was never anything to arrive to. Because there was never anyone arriving.
 
-Clear Light is the final stage of APTITUDE—and it's not a stage at all. It's the recognition of **Emptiness** (śūnyatā)—the direct seeing that all phenomena, including the self, are empty of inherent, independent existence. Nothing was ever solid. Nothing was ever separate. You were always empty. You just forgot.
+Clear Light is the tenth stage of APTITUDE—and paradoxically, it's not a stage at all. It's the recognition of **Emptiness** (śūnyatā)—the direct seeing that all phenomena, including the self, are empty of inherent, independent existence. Nothing was ever solid. Nothing was ever separate. You were always empty. You just forgot.
 
 And now you remember.
 
@@ -16,7 +16,7 @@ APTITUDE calls this **Wholeness**, specifically **Emptiness-Realized Wholeness**
 
 The archetype here is the **Adept**—not someone who has mastered the path, but someone who has *become* the path. Who embodies the teachings so fully that their life *is* the practice. Who moves through the world as a living demonstration of what's possible when you stop resisting what is.
 
-But here's the paradox Clear Light asks you to hold: enlightenment doesn't mean you stop being human. It doesn't mean you transcend pain, or never make mistakes, or float above the mess of ordinary life. As Jack Kornfield writes in *After the Ecstasy, the Laundry*, awakening doesn't grant you immunity from the human condition. You still have to do the laundry. You still get triggered. You still cycle through the Archetypal Wavelength.
+But here's the paradox Clear Light asks you to hold: enlightenment doesn't mean you stop being human. It doesn't mean you rise above pain, or never make mistakes, or float beyond the mess of ordinary life. As Jack Kornfield writes in *After the Ecstasy, the Laundry*, awakening doesn't grant you immunity from the human condition. You still have to do the laundry. You still get triggered. You still cycle through the Archetypal Wavelength. You still need all ten stages—Beige through Clear Light—as the moment demands.
 
 The difference is: you're no longer *identified* with it. You're the space in which it all happens. And from that space, you're free. Not free *from* life, but free *as* life.
 

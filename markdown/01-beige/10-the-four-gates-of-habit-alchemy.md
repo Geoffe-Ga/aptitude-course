@@ -25,8 +25,7 @@ If you want to eat more fruit, leave the apples on the counter, not in the cupbo
 
 Pro tip: Stack it. “After I brush my teeth, I’ll do 3 minutes of breathwork.” The Cue is something obvious: a habit you’ve already mastered. That’s habit piggybacking. No new routines—just new passengers.
 
-2. Make it Attractive
-(Craving)
+### 2. Make it Attractive (Craving)
 
 We’ve all got that part that sighs: “Ooooh, yeah. I want that.” It’s a pressure in the chest, like the tension before a sneeze. All habits are driven by desire. Even, and in many cases especially, the bad ones. So how do you lure your nervous system toward the good stuff?
 
@@ -52,15 +51,13 @@ Celebrate every win. Smile. Fist pump. Say your Aspirational Identity out loud:
 
 The surest way I’ve found to associate pleasure with an activity is to thank yourself for following through on it like you’re treat-training a Golden Retriever. Take a big luxuriant sigh, like you’re sinking into a hot tub, and say to yourself, “Whoosa good human?!”
 
-When you congratulate yourself, note any present wholesome or pleasant sensations, like a gentle breeze, a comfortable seat, or a feeling of accomplishment. Once you’ve identified a few, make an intentional effort to associate them with the task you just succeeded at. Eventually your brain will generate those feel-good chemicals automatically whenever you complete your chosen task.
+When you congratulate yourself, note any present-moment wholesome or pleasant sensations. Stimuli like a gentle breeze, a comfortable seat, or a feeling of accomplishment. Once you’ve identified a few, make an intentional effort to associate them with the task you just succeeded at. Eventually your brain will generate those feel-good chemicals automatically whenever you complete your chosen task.
 
 Pro tip: Create a visual tracker. A calendar, a spreadsheet, an app, a string of beads on your altar—something that gives you the joy of watching progress accumulate. Momentum is a sacred drug; why not get addicted to something that improves your life?
 
 ------------------------------------------------------------------------
 
-
-
-Now flip it: Want to break a habit?
+### Now flip it: Want to break a habit?
 
 - Make it invisible.
 - Make it unattractive.

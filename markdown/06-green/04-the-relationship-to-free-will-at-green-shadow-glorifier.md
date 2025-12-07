@@ -6,7 +6,7 @@ On one hand, Green is the first stage that begins to see *conditioning*. You sta
 
 This is powerful. This is the beginning of awakening.
 
-But Green has a shadow: it can get *stuck* there. It can mistake recognizing conditioning for transcending it. It can glorify the wound instead of healing it. It can become so identified with victimhood that it never claims its agency.
+But Green has a shadow: it can get *stuck* there. It can mistake recognizing conditioning for *healing* it. It can glorify the wound instead of integrating it. It can become so identified with victimhood that it never claims its agency.
 
 The archetype that emerges here is the **Shadow Glorifier**—someone who has done enough inner work to *name* their shadow, but not enough to *integrate* it. They wear their trauma like a badge. They use their sensitivity as a weapon. They demand that the world accommodate their triggers without doing the work to expand their capacity.
 
