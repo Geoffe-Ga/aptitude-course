@@ -28,7 +28,7 @@ In short, doing what needs to be done so that your nervous system can trust you
 
 In Spiral Dynamics, Beige is the pre-conceptual layer. The animal instinct. The fundamental orientation toward staying alive. In APTITUDE, we evolve it. It is the Agency Aspect of Yes-And-Ness. The “And”—that sacred sense that you can do things, and those things matter.
 
-You may not think you need Beige. You might feel like you're already far beyond it. But let me ask you:
+You may not think you need Beige. You might feel like you've moved past this stage. But Beige never stops being relevant—it's a note you'll play throughout your life. Let me ask you:
 
 - Are you drinking water regularly?
 - Do you move your body daily?

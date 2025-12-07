@@ -1,10 +1,10 @@
 ## What is Yellow?
 
-You've climbed through the stages. You've grounded (Beige), received (Purple), asserted (Red), connected (Blue), achieved (Orange), and descended (Green). You've built competence and met your shadow. You've learned to do and to feel, to rise and to fall, to individuate and to belong.
+You've practiced the stages. You've grounded (Beige), received (Purple), asserted (Red), connected (Blue), achieved (Orange), and descended (Green). You've built competence and met your shadow. You've learned to do and to feel, to rise and to fall, to individuate and to belong.
 
 And now, at Yellow, you're being asked to do something that might feel impossible: *hold it all at once*.
 
-Yellow is where the spiral turns inward on itself. Where you stop seeing the stages as a ladder to climb and start seeing them as a *system* to navigate. Where you recognize that each previous stage wasn't a mistake to transcend—it was a *capacity* to integrate.
+Yellow is where you see the whole scale. Where you stop treating the stages like steps you leave behind and start seeing them as **notes you can play together**. Where you recognize that each stage isn't something you outgrow—it's a *capacity* that remains available. You learn to play chords, not just single notes.
 
 In Spiral Dynamics, Yellow is the first "second-tier" stage. It's where the entire spiral becomes visible as a whole. You can see why Beige matters (grounding is foundational). Why Purple matters (symbolism and intuition are real). Why Red matters (agency and power are necessary). Why Blue matters (order and belonging stabilize). Why Orange matters (progress and innovation move us forward). Why Green matters (empathy and shadow work heal the wounds). And you no longer need to reject one to embrace another. You can *access* them all, contextually, as needed.
 

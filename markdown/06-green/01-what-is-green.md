@@ -1,6 +1,6 @@
 ## What is Green?
 
-If Orange was the ascent—building, achieving, optimizing your way toward mastery—Green is the descent. The exhale. The moment you stop climbing and ask: *At what cost?*
+If Orange is the building phase—achieving, optimizing, expanding your way toward mastery—Green is the integration phase. The exhale. The moment you stop pushing outward and turn inward to ask: *At what cost?*
 
 This is the stage where you turn around and look at all the parts of yourself you left behind in the pursuit of achievement. The messy parts. The vulnerable parts. The parts that don't perform well, that can't be optimized, that refuse to fit into neat categories. The parts you've been taught to hide.
 
@@ -14,7 +14,7 @@ Because Green, in its shadow, can become paralyzed by its own sensitivity. It gl
 
 But Green in its light? It's **Embodied Understanding**. It's the recognition that true knowledge doesn't live in the head—it lives in the body, in the heart, in the spaces between people. It's the capacity to *feel* your way into truth, to sense what's happening beneath the surface, to integrate the parts of yourself that intellect alone can't reach.
 
-Green teaches you that shadow work is not optional. That the parts of yourself you've disowned don't disappear—they just go underground, where they run the show from the dark. That healing is not about transcending your wounds but about *including* them. Welcoming them home.
+Green teaches you that shadow work is not optional. That the parts of yourself you've disowned don't disappear—they just go underground, where they run the show from the dark. That healing is not about rising above your wounds but about *including* them. Welcoming them home.
 
 This is the stage where Understanding stops being abstract and becomes *lived*. Where you learn that you can't think your way to Wholeness. You have to *feel* your way there. And that means descending into the places you've been avoiding.
 
