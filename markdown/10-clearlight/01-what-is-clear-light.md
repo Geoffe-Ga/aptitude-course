@@ -2,7 +2,7 @@
 
 You've arrived. And paradoxically, you've discovered there was never anything to arrive to. Because there was never anyone arriving.
 
-Clear Light is the final stage of APTITUDE—and it's not a stage at all. It's the recognition of **Emptiness** (śūnyatā)—the direct seeing that all phenomena, including the self, are empty of inherent, independent existence. Nothing was ever solid. Nothing was ever separate. You were always empty. You just forgot.
+Clear Light is the tenth stage of APTITUDE—and paradoxically, it's not a stage at all. It's the recognition of **Emptiness** (śūnyatā)—the direct seeing that all phenomena, including the self, are empty of inherent, independent existence. Nothing was ever solid. Nothing was ever separate. You were always empty. You just forgot.
 
 And now you remember.
 

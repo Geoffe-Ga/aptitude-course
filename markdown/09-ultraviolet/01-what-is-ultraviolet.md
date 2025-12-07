@@ -10,7 +10,7 @@ Ultraviolet is the penultimate stage before Clear Light. It's where the scaffold
 
 In Ken Wilber's Integral Theory, this corresponds to the "transpersonal" or "unified" stages—where you've integrated all previous levels and you're beginning to touch non-dual awareness. Not as a peak experience, but as a *stage*. A stable plateau.
 
-APTITUDE calls this **Wholeness**, and specifically the recognition of **Developmental Complexity**—not hierarchy in the sense of "better than," but complexity in the sense of "requires more scaffolding." Some capacities are more complex than others. Some include more notes in the chord.
+APTITUDE calls this **Wholeness**, and specifically the recognition of **Developmental Complexity**—not hierarchy in the sense of "better than," but complexity in the sense of "requires more scaffolding." Some capacities are more complex than others. Some include more notes in the chord. Complexity describes the scaffolding required, not the value of the capacity.
 
 Ultraviolet is where you stop flinching at this truth. Without guilt. Without the Green fear that recognizing complexity means devaluing simplicity.
 
