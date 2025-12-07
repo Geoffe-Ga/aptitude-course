@@ -40,11 +40,11 @@ Yet domination is inherently reactive. It isn’t Free Will—it’s counterwill
 
 
 
-APTITUDE teaches that Free Will only becomes real when you move beyond the need to control. The Dominator believes they are acting freely, but in truth, they are ruled by fear and shame. Their “choices” are reactions. Their “power” is armor.
+APTITUDE teaches that Free Will only becomes real when you learn to express power differently. The Dominator believes they are acting freely, but in truth, they are ruled by fear and shame. Their "choices" are reactions. Their "power" is armor.
 
 
 
-The Red stage must be met, honored, and outgrown—not repressed, not bypassed, but reintegrated. On your first unconscious trip through Red, you don’t get a say. You pick up the programming of your environment, often downloading domination as the only viable expression of power. But now, as an emerging Adept, you get to revisit Red consciously. You get to choose what belongs.
+The Red stage must be met, honored, and *integrated healthily*—not repressed, not bypassed, but reintegrated. On your first unconscious trip through Red, you don't get a say. You pick up the programming of your environment, often downloading domination as the only viable expression of power. But now, as an emerging Adept, you get to revisit Red consciously. You get to choose what belongs. And Red itself—the capacity for healthy assertion, boundaries, and personal power—remains available to you always.
 
 
 

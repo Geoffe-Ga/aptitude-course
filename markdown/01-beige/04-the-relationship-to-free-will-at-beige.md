@@ -10,7 +10,7 @@ It’s not something to feel guilty about.
 
 In fact, your first step to true Agency is to recognize whether you have either an allergy or an addiction to physical or financial security that comes at the expense of a Whole human experience.
 
-While the material of this course teaches you to integrate the lessons of what Spiral Dynamics calls Tier 1 stages (the first six, in which the very philosophical concept of Free Will isn’t typically a primary concern) it is also important to note that if you do not also transcend them, Free Will is impossible.
+While the material of this course teaches you to integrate the lessons of what Spiral Dynamics calls Tier 1 stages (the first six, in which the very philosophical concept of Free Will isn’t typically a primary concern) it is also important to note that if you do not also *learn to express them healthily*, Free Will is impossible. You don't transcend Beige—you learn when to play that note and when to play others.
 
 That means having the discernment to figure out what pragmatically serves when it comes to our basic biological needs, and when to let go of obsessing about safety and security because you’ve done enough to ground yourself.
 

@@ -9,7 +9,7 @@ We’ll go into this deeper in a moment, so don’t worry about memorizing this 
 
 Each Phase has both a “Prescribed Dosage,” an “Rx” that is healthy, skillful and effective, and an “Overdose,” an “OD” that will have you spinning your wheels, wrecking your friendships, and forever chasing—but never catching—the life you want and deserve.
 
-For the “Do”-ing aspect of the Internalize wavelength, the Phases look like this:
+For the “Do”-ing aspect of the Inhabit wavelength, the Phases look like this:
 
 Rising Rx: Commitment — A grounded promise to begin showing up.
 OD: Over-commitment — Taking on too much too fast.

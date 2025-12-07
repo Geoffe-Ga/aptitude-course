@@ -12,7 +12,7 @@ This is what the **Intentional Actor** represents: someone who can *notice* the 
 
 Example: You're triggered. Someone criticizes you. The Red pattern would be to defend aggressively. The Green pattern would be to collapse into shame. At Yellow, you *see both options arise*, and you choose a third: "Thank you for the feedback. Let me sit with that."
 
-That's Free Will. Not because you transcended the conditioning, but because you saw it clearly enough to respond differently.
+That's Free Will. Not because you escaped the conditioning, but because you saw it clearly enough to respond differently.
 
 The Intentional Actor is not free from context. They're not operating outside cause and effect. They're just *awake* within it. And that wakefulness grants them a kind of agency that earlier stages don't have.
 

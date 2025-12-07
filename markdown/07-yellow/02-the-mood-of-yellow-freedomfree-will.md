@@ -6,7 +6,7 @@ Let's be clear: this is not the philosophical debate about whether free will "ex
 
 And here's the twist: for most of your life, you *haven't* been free. You've been executing programs. React when triggered. Perform when praised. Withdraw when shamed. Optimize when anxious. These are conditioned responses. Automatic. Unconscious.
 
-Yellow is where you start to notice the gap between stimulus and response. Where you see the old pattern arising—and you choose differently. Not because you've transcended the pattern (you haven't), but because you've developed enough *awareness* to catch it in real time.
+Yellow is where you start to notice the gap between stimulus and response. Where you see the old pattern arising—and you choose differently. Not because the pattern is gone (it isn't), but because you've developed enough *awareness* to catch it in real time.
 
 When Free Will is **Integrated**, you are an **Intentional Actor**—someone who can pause, reflect, and choose. You're not reactive. You're not rigid. You're *responsive*. You see the situation clearly, draw on the full range of your capacities (all the previous stages), and act from alignment.
 
