@@ -22,7 +22,6 @@
 
 [“INHABIT (Do)”](#inhabit-do)
 
-[In Summary](#in-summary)
 
 [The Sacred High—and the Temptation to Stay There Forever](#the-sacred-highand-the-temptation-to-stay-there-forever)
 

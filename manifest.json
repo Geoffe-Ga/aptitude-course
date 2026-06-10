@@ -134,18 +134,6 @@
       "path": "markdown/01-beige/11-internalize-do.md"
     },
     {
-      "id": "beige-12",
-      "stage": 1,
-      "chapter": 12,
-      "order": 12,
-      "slug": "in-summary",
-      "title": "In Summary",
-      "content_type": "chapter",
-      "release_day": 11,
-      "media": [],
-      "path": "markdown/01-beige/12-in-summary.md"
-    },
-    {
       "id": "beige-13",
       "stage": 1,
       "chapter": 13,

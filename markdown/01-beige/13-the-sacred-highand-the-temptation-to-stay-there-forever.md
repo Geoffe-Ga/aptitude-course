@@ -12,6 +12,26 @@ media: []
 
 ## The Sacred High—and the Temptation to Stay There Forever
 
+![](../images/images/image1.png)
+
+The temptation to not embrace the cycle is less of a slippery slope, and more of a slippery loop.
+
+This is the definition of spiraling out of control.
+It’s like the psychedelic funhouse mirror of the Inhabit Wavelength when you go so far past the Overdose that you end up in the land of psychosis, paranoia, or self-destruction.
+
+Apart from my experience with DBT, I’ve never seen this quality of the search mentioned in spiritual or self-help books: the part that starts with voraciously chowing down on too much light… and ends cramped up in way too much darkness.
+
+But you—my unknown Adept friend—you’ve seen the map now. You don’t have to let this pattern control you. A thing understood is a thing that you are “standing” on “top” of.
+
+Like a conquering hero.
+
+Maybe you recognize this pattern in your own experience. Maybe you don’t. But let’s walk through it together one bubble beat at a time. You might just get something out of it regardless.
+
+Let’s learn how to Ground to Embrace the Cycle.
+
+------------------------------------------------------------------------
+
+
 Sometimes it truly starts innocently. Perhaps I’ve been diligent. My habit stack is locked in. I’m starting to vibe in that sweet Peak energy. But then, the Overdose. Thriving rather than persisting with Diligence.
 
 Suddenly I’m unmoored from the earth. Flying. I look in the mirror at clear skin, at my Google Calendar’s perfect organization, at my breathwork game—perfectly on point. But then I take the Overdose energy too far. I end up convinced I could totally start a side business, fix my family dynamics, and reach enlightenment this month.
