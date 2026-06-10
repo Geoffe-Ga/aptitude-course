@@ -8,6 +8,9 @@ repo-internal target exists on disk. External targets (``https://``,
 which CI deliberately avoids. Pure-fragment links (``#anchor``) are skipped
 as well; heading-anchor validation is out of scope here.
 
+Frontmatter ``media[]`` entries are checked too (issue #25): every relative
+``path``/``poster`` must resolve on disk.
+
 Relative targets are resolved against the containing file's directory.
 Exits non-zero listing every broken reference.
 
@@ -22,6 +25,11 @@ import re
 import sys
 from pathlib import Path
 from urllib.parse import unquote
+
+try:
+    import yaml
+except ImportError:  # media[] checks need PyYAML (scripts/requirements.txt)
+    yaml = None
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 MARKDOWN_DIR = REPO_ROOT / "markdown"
@@ -58,12 +66,40 @@ def iter_targets(text: str):
             yield lineno, m.group(1)
 
 
+def iter_media_targets(text: str):
+    """Yield (label, target) for relative media[] path/poster entries (issue #25)."""
+    if yaml is None or not text.startswith("---"):
+        return
+    parts = text.split("---", 2)
+    if len(parts) < 3:
+        return
+    try:
+        fm = yaml.safe_load(parts[1]) or {}
+    except yaml.YAMLError:
+        return  # malformed frontmatter is the manifest build's failure to report
+    media = fm.get("media")
+    if not isinstance(media, list):
+        return
+    for i, item in enumerate(media):
+        if not isinstance(item, dict):
+            continue
+        for field in ("path", "poster"):
+            value = item.get(field)
+            if isinstance(value, str) and value and not EXTERNAL_RE.match(value):
+                yield f"media[{i}].{field}", value
+
+
 def main() -> int:
     broken: list[str] = []
     checked = 0
 
+    if yaml is None:
+        print("warning: PyYAML not installed — skipping media[] checks",
+              file=sys.stderr)
+
     for path in iter_markdown_files():
         text = path.read_text(encoding="utf-8")
+        rel = path.relative_to(REPO_ROOT).as_posix()
         for lineno, target in iter_targets(text):
             if EXTERNAL_RE.match(target):
                 continue
@@ -73,8 +109,11 @@ def main() -> int:
             checked += 1
             resolved = (path.parent / target_path).resolve()
             if not resolved.exists():
-                rel = path.relative_to(REPO_ROOT).as_posix()
                 broken.append(f"{rel}:{lineno}: broken link '{target}'")
+        for label, target in iter_media_targets(text):
+            checked += 1
+            if not (path.parent / target).resolve().exists():
+                broken.append(f"{rel}: {label}: broken asset path '{target}'")
 
     if broken:
         print(f"link check FAILED — {len(broken)} broken reference(s):",

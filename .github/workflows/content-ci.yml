@@ -68,7 +68,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Stdlib-only: verifies every internal link and image target in
-      # markdown/** resolves on disk. External URLs are skipped (no network).
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install tooling
+        run: pip install -r scripts/requirements.txt
+
+      # Verifies every internal link and image target in markdown/** resolves
+      # on disk, including frontmatter media[] path/poster entries (issue #25).
+      # External URLs are skipped (no network).
       - name: Check internal links + images
         run: python3 scripts/check_links.py
