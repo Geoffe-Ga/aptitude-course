@@ -12,7 +12,7 @@
 
 [The Practice of Purple: A Daily Tarot Draw](#the-practice-of-purple-a-daily-tarot-draw)
 
-[Alternative Practice Examples: I-Ching, Traffic Lights, Bibliomancy, Synchronicity](#alternative-practice-examples-i-ching-traffic-lights-bibliomancy-synchronicity)
+[Alternative Purple Practices: Eight Five-Minute Receptivity Meditations](#alternative-purple-practices-eight-five-minute-receptivity-meditations)
 
 [The Default Habit of Purple: Vitamins, Probiotics, and Water](#the-default-habit-of-purple-vitamins-probiotics-and-water)
 
