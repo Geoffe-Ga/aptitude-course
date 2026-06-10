@@ -1,6 +1,6 @@
 ## Archetypal Gender: Masculine, Feminine, and Baphomet
 
-<img src="../markdown/images/images/image1.png"
+![](../markdown/images/images/image1.png)
 
 Take a look at the spiral above and notice the pattern: warm colors alternate with cool ones as you move upward through the ten stages of APTITUDE. This isn’t just aesthetic—it maps an energetic rhythm. The warm tones represent the Divine Masculine:
 assertive, agentic, outward-moving. The cool tones embody the Divine Feminine: receptive, intuitive, inward-facing. Each stage expresses one of these poles as part of a larger dialectic—doing and being, self-expressing and self-sacrificing, the “I” and the “We.”
@@ -31,7 +31,6 @@ Each of the four Masculine stages explores a different facet of this archetype:
 - Yellow lets go of egoic power and shifts toward
   wisdom-infused action—building and analyzing systems to be of service.
 
-
 These are the self-expressing stages—the ones that push outward. They are the inhale. The muscle. The reach. They are necessary for growth, but not sufficient on their own. Without the balancing current of the Feminine, Masculine energy calcifies into domination, rigidity, or burnout.
 
 But when integrated, the Divine Masculine becomes the part of you that can say, “I choose.” And mean it.
@@ -58,7 +57,6 @@ Each Feminine stage in APTITUDE explores a different mode of this sacred “We�
 
 - Teal dissolves personal identity in favor of
   alignment with Source, trusting intuition, channeling wisdom, and acting as a vessel for collective healing.
-
 
 These are the self-sacrificing stages—the ones that allow ego to soften so communion can arise. They are the exhale. The womb. The stillness. The surrender. They teach us how to feel without flinching, to include without collapsing, to receive without grasping.
 

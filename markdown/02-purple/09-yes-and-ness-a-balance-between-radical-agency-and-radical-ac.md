@@ -27,7 +27,7 @@ That’s the power of Yes-and-ness. It gives you a way to belong to your life an
 
 ### YES: Purple as a Form of Sacred Photosynthesis—Prana-synthesis?
 
-<img src="../markdown/images/images/image4.png"
+![](../markdown/images/images/image4.png)
 
 “YES” is the lower half of the Archetypal Wavelength—the sacred descent, the valley between peaks, the quiet underworld where Receptivity lives. If you glance at the image above, you’ll see the soft arc of this phase winding from Diminishing, through Bottoming Out, and into the first flickers of Restoration. It’s low-energy territory. But that doesn’t mean lifelessness. Quite the opposite.
 
@@ -58,7 +58,7 @@ This is the power of Purple.
 
 This is the photosynthesis of the soul.
 
-### AND: Embracing Paradox—Everything is Perfect AND We Must Fight to Improve it<img src="../markdown/images/images/image5.png"
+### AND: Embracing Paradox—Everything is Perfect AND We Must Fight to Improve it![](../markdown/images/images/image5.png)
 
 “And” is the top half of the Archetypal Wavelength—the High Energy phase, the arc where agency returns, momentum gathers, and potential brims. If you look at the diagram above, you’ll see it clearly: the wave rises through Rising, crests at Peaking, and begins to slope through Withdrawal. These are moments of capacity. Of motion. Of outward orientation. But most importantly—they’re moments of paradox.
 
