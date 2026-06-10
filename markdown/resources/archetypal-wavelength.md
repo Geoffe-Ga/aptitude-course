@@ -1,4 +1,12 @@
-![](images/images/image1.png)
+---
+slug: archetypal-wavelength
+title: "Archetypal Wavelength Intro"
+content_type: essay
+description: "The six-phase wave underlying every cycle, and how Whole Adepts surf it."
+media: []
+---
+
+![](../images/images/image1.png)
 
 ### Whole Adepts Surf the Archetypal Wavelength
 
@@ -57,7 +65,7 @@ Granted, as with most Ken Wilber-style Integral theories, sometimes you
 have to squint your eyes a bit—and yet,
 everything seems to fit.
 
-[Wilber founded Integral Philosophy](https://www.google.com/url?q=https://kenwilber.com/&sa=D&source=editors&ust=1764912844304192&usg=AOvVaw2upgwlHK2CcJoOKXhGnV4Z) to
+[Wilber founded Integral Philosophy](https://kenwilber.com/) to
 describe the similarities between the core tenets of an incredibly wide
 spectrum of intellectual, spiritual and social arenas. Working like a
 madman locked in his house with pages and pages of handwritten notes
@@ -109,7 +117,7 @@ alternation of gain and loss, pleasure and pain. For each of us, even
 the Buddha, it is only by letting go into this truth that we awaken to
 that which is timeless, the reality of freedom.
 
-~ Jack Kornfield, [After the Ecstasy the Laundry](https://www.google.com/url?q=https://jackkornfield.com/after-the-ecstasy-the-laundry/&sa=D&source=editors&ust=1764912844308245&usg=AOvVaw0SJ1Ome0gDbQPWGrxnOEVB)
+~ Jack Kornfield, [After the Ecstasy the Laundry](https://jackkornfield.com/after-the-ecstasy-the-laundry/)
 
 #### Rising
 

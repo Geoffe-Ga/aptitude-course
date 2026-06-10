@@ -1,3 +1,11 @@
+---
+slug: about
+title: "APTITUDE Intro"
+content_type: essay
+description: "Welcome to the APTITUDE Course: what Adepthood is and what the course offers."
+media: []
+---
+
 Welcome to the APTITUDE Course
 
 Adepthood is what comes after adulthood, but only for those who choose

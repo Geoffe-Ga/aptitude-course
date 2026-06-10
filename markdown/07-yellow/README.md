@@ -36,7 +36,7 @@ This folder contains the modular sections for the YELLOW stage of the APTITUDE c
 
 - **Previous Stage**: [Stage 6](../06-green/)
 - **Next Stage**: [Stage 8](../08-teal/)
-- **Course Overview**: [../APTITUDEStagesDeepDive.md](../APTITUDEStagesDeepDive.md)
+- **Course Overview**: [APTITUDE Stages Deep Dive](../resources/aptitude-stages.md)
 
 ## Source
 

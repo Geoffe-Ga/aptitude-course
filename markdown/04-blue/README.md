@@ -24,7 +24,7 @@ This folder contains the modular sections for the BLUE stage of the APTITUDE cou
 
 - **Previous Stage**: [Stage 3](../03-red/)
 - **Next Stage**: [Stage 5](../05-orange/)
-- **Course Overview**: [../APTITUDEStagesDeepDive.md](../APTITUDEStagesDeepDive.md)
+- **Course Overview**: [APTITUDE Stages Deep Dive](../resources/aptitude-stages.md)
 
 ## Source
 

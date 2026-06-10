@@ -25,7 +25,7 @@ This folder contains the modular sections for the PURPLE stage of the APTITUDE c
 
 - **Previous Stage**: [Stage 1](../01-beige/)
 - **Next Stage**: [Stage 3](../03-red/)
-- **Course Overview**: [../APTITUDEStagesDeepDive.md](../APTITUDEStagesDeepDive.md)
+- **Course Overview**: [APTITUDE Stages Deep Dive](../resources/aptitude-stages.md)
 
 ## Source
 

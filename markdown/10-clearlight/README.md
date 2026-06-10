@@ -33,7 +33,7 @@ This folder contains the modular sections for the CLEARLIGHT stage of the APTITU
 ## Navigation
 
 - **Previous Stage**: [Stage 9](../09-ultraviolet/)
-- **Course Overview**: [../APTITUDEStagesDeepDive.md](../APTITUDEStagesDeepDive.md)
+- **Course Overview**: [APTITUDE Stages Deep Dive](../resources/aptitude-stages.md)
 
 ## Source
 

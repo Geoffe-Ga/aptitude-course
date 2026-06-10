@@ -2510,5 +2510,34 @@
       "path": "markdown/10-clearlight/24-the-complete-integration-living-all-ten-stages.md"
     }
   ],
-  "site_resources": []
+  "site_resources": [
+    {
+      "slug": "about",
+      "title": "APTITUDE Intro",
+      "description": "Welcome to the APTITUDE Course: what Adepthood is and what the course offers.",
+      "media": [],
+      "path": "markdown/resources/about.md"
+    },
+    {
+      "slug": "aptitude-stages",
+      "title": "APTITUDE Stages",
+      "description": "A deep dive into the ten stages of Adepthood, from Beige to Clear Light.",
+      "media": [],
+      "path": "markdown/resources/aptitude-stages.md"
+    },
+    {
+      "slug": "archetypal-wavelength",
+      "title": "Archetypal Wavelength Intro",
+      "description": "The six-phase wave underlying every cycle, and how Whole Adepts surf it.",
+      "media": [],
+      "path": "markdown/resources/archetypal-wavelength.md"
+    },
+    {
+      "slug": "liminal-creep",
+      "title": "Who Benefits?",
+      "description": "From Liminal Creep to Whole Adept: who this course is for.",
+      "media": [],
+      "path": "markdown/resources/liminal-creep.md"
+    }
+  ]
 }
