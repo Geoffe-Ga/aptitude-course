@@ -1,3 +1,15 @@
+---
+id: yellow-20
+stage: 7
+chapter: 20
+order: 20
+slug: yellows-shadow-paralysis-by-analysis
+title: "Yellow's Shadow: Paralysis by Analysis"
+content_type: chapter
+release_day: 19
+media: []
+---
+
 ## Yellow's Shadow: Paralysis by Analysis
 
 Yellow's shadow is the curse of seeing too much.

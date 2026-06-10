@@ -1,3 +1,15 @@
+---
+id: orange-22
+stage: 5
+chapter: 22
+order: 22
+slug: how-to-find-your-intersection
+title: "How to Find Your Intersection"
+content_type: chapter
+release_day: 21
+media: []
+---
+
 ## How to Find Your Intersection
 
 You don't find it by thinking harder. You find it by *doing the prompts*.

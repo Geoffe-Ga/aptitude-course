@@ -1,3 +1,15 @@
+---
+id: green-12
+stage: 6
+chapter: 12
+order: 12
+slug: the-rhythm-of-yang-and-yin
+title: "The Rhythm of Yang and Yin"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## The Rhythm of Yang and Yin
 
 Orange taught you Yang: effort, intensity, building capacity. Green teaches you Yin: softening, receiving, allowing recovery.

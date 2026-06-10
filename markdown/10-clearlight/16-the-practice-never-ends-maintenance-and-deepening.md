@@ -1,3 +1,15 @@
+---
+id: clearlight-16
+stage: 10
+chapter: 16
+order: 16
+slug: the-practice-never-ends-maintenance-and-deepening
+title: "The Practice Never Ends: Maintenance and Deepening"
+content_type: chapter
+release_day: 15
+media: []
+---
+
 ## The Practice Never Ends: Maintenance and Deepening
 
 Let me be clear: Clear Light is not the finish line. It's a plateau. A stable resting place. But the practice continues.

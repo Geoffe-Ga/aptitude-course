@@ -1,3 +1,15 @@
+---
+id: clearlight-5
+stage: 10
+chapter: 5
+order: 5
+slug: the-vibe-wavelength-of-clear-light-be-neitherall
+title: "The Vibe Wavelength of Clear Light: Be (Neither/All)"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Vibe Wavelength of Clear Light: Be (Neither/All)
 
 Clear Light introduces the sixth and final Mode: **Be (Neither/All)**.

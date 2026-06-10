@@ -1,3 +1,15 @@
+---
+id: blue-12
+stage: 4
+chapter: 12
+order: 12
+slug: blues-shadow-the-drama-triangle-victim-villain-savior
+title: "Blue's Shadow: The Drama Triangle (Victim, Villain, Savior)"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## Blue's Shadow: The Drama Triangle (Victim, Villain, Savior)
 
 Every light casts a shadow. And Blue's shadow is one of the most insidious, because it *looks* like love but *feels* like poison.

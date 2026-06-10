@@ -1,3 +1,15 @@
+---
+id: green-20
+stage: 6
+chapter: 20
+order: 20
+slug: what-the-myth-teaches-about-green
+title: "What the Myth Teaches About Green"
+content_type: chapter
+release_day: 19
+media: []
+---
+
 ## What the Myth Teaches About Green
 
 **You Must Descend**

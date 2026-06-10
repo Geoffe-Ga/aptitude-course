@@ -1,3 +1,15 @@
+---
+id: red-4
+stage: 3
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-red-dominator
+title: "The Relationship to Free Will at Red: Dominator"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Red: Dominator
 
 Let’s clarify something right away: The Dominator is not the goal.

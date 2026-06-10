@@ -1,3 +1,15 @@
+---
+id: teal-10
+stage: 8
+chapter: 10
+order: 10
+slug: advanced-dog-walkin-sensory-gating-practice
+title: "Advanced Dog Walkin': Sensory Gating Practice"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## Advanced Dog Walkin': Sensory Gating Practice
 
 Once you've established the basic 60-minute walk, you can deepen it with **sensory gating**—the practice of sequentially opening and closing each sense.

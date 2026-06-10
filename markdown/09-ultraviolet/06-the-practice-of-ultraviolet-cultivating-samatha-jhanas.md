@@ -1,3 +1,15 @@
+---
+id: ultraviolet-6
+stage: 9
+chapter: 6
+order: 6
+slug: the-practice-of-ultraviolet-cultivating-samatha-jhanas
+title: "The Practice of Ultraviolet: Cultivating Samatha Jhanas"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Practice of Ultraviolet: Cultivating Samatha Jhanas
 
 Ultraviolet's practice is the most advanced formal meditation in the APTITUDE sequence: **Cultivating the Samatha Jhanas**.

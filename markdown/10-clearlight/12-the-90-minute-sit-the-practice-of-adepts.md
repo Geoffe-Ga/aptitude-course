@@ -1,3 +1,15 @@
+---
+id: clearlight-12
+stage: 10
+chapter: 12
+order: 12
+slug: the-90-minute-sit-the-practice-of-adepts
+title: "The 90-Minute Sit: The Practice of Adepts"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## The 90-Minute Sit: The Practice of Adepts
 
 90 minutes is not for beginners. It's not even for advanced practitioners. It's for Adepts—those who've completed the full spiral and are now deepening into mastery.

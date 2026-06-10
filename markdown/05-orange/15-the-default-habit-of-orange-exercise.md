@@ -1,3 +1,15 @@
+---
+id: orange-15
+stage: 5
+chapter: 15
+order: 15
+slug: the-default-habit-of-orange-exercise
+title: "The Default Habit of Orange: Exercise"
+content_type: chapter
+release_day: 14
+media: []
+---
+
 ## The Default Habit of Orange: Exercise
 
 Every stage has a default habit—the behavior that naturally supports (or undermines) that stage's work. For Orange, it's **Exercise**.

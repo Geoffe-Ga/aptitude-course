@@ -1,3 +1,15 @@
+---
+id: green-16
+stage: 6
+chapter: 16
+order: 16
+slug: the-pattern-from-shadow-to-gift
+title: "The Pattern: From Shadow to Gift"
+content_type: chapter
+release_day: 15
+media: []
+---
+
 ## The Pattern: From Shadow to Gift
 
 Notice the structure:

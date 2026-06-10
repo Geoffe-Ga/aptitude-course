@@ -1,3 +1,15 @@
+---
+id: teal-24
+stage: 8
+chapter: 24
+order: 24
+slug: the-default-habit-deepened-baby-waterfall-conventions-as-lif
+title: "The Default Habit Deepened: Baby Waterfall Conventions as Life Design"
+content_type: chapter
+release_day: 23
+media: []
+---
+
 ## The Default Habit Deepened: Baby Waterfall Conventions as Life Design
 
 Let's go deeper into why Baby Waterfall Conventions are revolutionary.

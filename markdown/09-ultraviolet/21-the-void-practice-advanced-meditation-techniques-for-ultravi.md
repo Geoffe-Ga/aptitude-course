@@ -1,3 +1,15 @@
+---
+id: ultraviolet-21
+stage: 9
+chapter: 21
+order: 21
+slug: the-void-practice-advanced-meditation-techniques-for-ultravi
+title: "The Void Practice: Advanced Meditation Techniques for Ultraviolet"
+content_type: chapter
+release_day: 20
+media: []
+---
+
 ## The Void Practice: Advanced Meditation Techniques for Ultraviolet
 
 At 75 minutes, you're ready for more advanced methods. Here's one that's particularly suited to Ultraviolet: **Void Practice**.

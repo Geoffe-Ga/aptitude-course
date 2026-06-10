@@ -1,3 +1,15 @@
+---
+id: orange-3
+stage: 5
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-orange
+title: "The Journaling Prompts of Orange"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Orange
 
 Orange is the stage of synthesis—of taking the raw materials of your life (curiosities, problems, skills, desires) and alchemizing them into something coherent. The journaling prompts here are designed to help you do exactly that. They're not reflections for the sake of navel-gazing. They're diagnostic tools. Strategic inquiries. Ways of mapping the territory of your own becoming.

@@ -1,3 +1,15 @@
+---
+id: orange-19
+stage: 5
+chapter: 19
+order: 19
+slug: oranges-divine-gender-divine-masculineachievement-and-curios
+title: "Orange's Divine Gender: Divine Masculine—Achievement and Curiosity"
+content_type: chapter
+release_day: 18
+media: []
+---
+
 ## Orange's Divine Gender: Divine Masculine—Achievement and Curiosity
 
 Orange swings back to the **Divine Masculine**—the archetypal force of directed action, goal-orientation, and outward expression. Where Purple was receptive (Divine Feminine) and Red was assertive (Divine Masculine) and Blue was devotional (Divine Feminine), Orange is *instrumental*. It's about leveraging your agency to build, test, and achieve.

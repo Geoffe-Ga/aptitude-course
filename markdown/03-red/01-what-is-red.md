@@ -1,3 +1,15 @@
+---
+id: red-1
+stage: 3
+chapter: 1
+order: 1
+slug: what-is-red
+title: "What is Red?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Red?
 
 Welcome to Red, the third stage in your conscious traversal of the spiral. It’s not the first time you’ve been here, of course—but it may be the first time you’ve seen it clearly. The first time you’ve recognized this mode of being not as your default lens, but as a developmental station—something you can observe, understand, and integrate. That move, from subject to object, is where Free Will begins.

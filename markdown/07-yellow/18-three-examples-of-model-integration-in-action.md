@@ -1,3 +1,15 @@
+---
+id: yellow-18
+stage: 7
+chapter: 18
+order: 18
+slug: three-examples-of-model-integration-in-action
+title: "Three Examples of Model Integration in Action"
+content_type: chapter
+release_day: 17
+media: []
+---
+
 ## Three Examples of Model Integration in Action
 
 Let's get concrete. Here's how Yellow actually uses multiple frameworks without getting paralyzed.

@@ -1,3 +1,15 @@
+---
+id: clearlight-20
+stage: 10
+chapter: 20
+order: 20
+slug: the-final-invitation
+title: "The Final Invitation"
+content_type: chapter
+release_day: 19
+media: []
+---
+
 ## The Final Invitation
 
 APTITUDE has brought you here. Through Beige's grounding. Purple's receiving. Red's assertion. Blue's connection. Orange's achievement. Green's descent. Yellow's integration. Teal's witnessing. Ultraviolet's devotion. And Clear Light's radiance.

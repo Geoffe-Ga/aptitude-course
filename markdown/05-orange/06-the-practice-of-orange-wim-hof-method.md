@@ -1,3 +1,15 @@
+---
+id: orange-6
+stage: 5
+chapter: 6
+order: 6
+slug: the-practice-of-orange-wim-hof-method
+title: "The Practice of Orange: Wim Hof Method"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Practice of Orange: Wim Hof Method
 
 If Purple was 5 minutes and Red was 10, Orange asks for 20. We're scaffolding your capacity for sustained attention, physiological regulation, and energetic resilience. And the practice that does this most powerfully—while also teaching you to collaborate with your own nervous system—is the **Wim Hof Method**.

@@ -1,3 +1,15 @@
+---
+id: ultraviolet-19
+stage: 9
+chapter: 19
+order: 19
+slug: the-dark-night-ultraviolets-inevitable-passage
+title: "The Dark Night: Ultraviolet's Inevitable Passage"
+content_type: chapter
+release_day: 18
+media: []
+---
+
 ## The Dark Night: Ultraviolet's Inevitable Passage
 
 At some point in Ultraviolet, you will hit what St. John of the Cross called "the dark night of the soul." This is not metaphor. This is a predictable stage of advanced practice.

@@ -1,3 +1,15 @@
+---
+id: purple-3
+stage: 2
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-purple
+title: "The Journaling Prompts of Purple"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Purple
 
 To further embody the energy of Purple and the Mood of Receptivity, this Stage invites you into journaling practices designed not to assert or control, but to listen. To feel into your life. To receive its messages. These prompts are not meant to extract insight through force of will, but to open a channel for it. Your role here is not to “figure it out,” but to soften enough that something true might rise up on its own.

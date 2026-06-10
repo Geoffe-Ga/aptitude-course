@@ -1,3 +1,15 @@
+---
+id: green-18
+stage: 6
+chapter: 18
+order: 18
+slug: collaborate-feelfull-6-phase-wavelength-breakdown
+title: "\"COLLABORATE (Feel)\"—Full 6-Phase Wavelength Breakdown"
+content_type: chapter
+release_day: 17
+media: []
+---
+
 ## "COLLABORATE (Feel)"—Full 6-Phase Wavelength Breakdown
 
 Now we descend into Green's full Wavelength—the rhythm of deep relational work. This is slower than Orange, softer than Red, more embodied than anything you've encountered so far. Each phase asks you to *feel* your way through, trusting the intelligence of emotion and body.

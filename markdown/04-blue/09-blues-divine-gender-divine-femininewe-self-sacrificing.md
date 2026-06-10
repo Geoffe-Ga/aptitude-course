@@ -1,3 +1,15 @@
+---
+id: blue-9
+stage: 4
+chapter: 9
+order: 9
+slug: blues-divine-gender-divine-femininewe-self-sacrificing
+title: "Blue's Divine Gender: Divine Feminine—We, Self-Sacrificing"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## Blue's Divine Gender: Divine Feminine—We, Self-Sacrificing
 
 Blue swings back to the **Divine Feminine**—the archetypal force of receptivity, relationality, and care. Where Red was the Divine Masculine (assertive, individualistic, self-expressing), Blue is the Divine Feminine (attuned, collective, self-sacrificing).

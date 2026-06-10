@@ -1,3 +1,15 @@
+---
+id: beige-2
+stage: 1
+chapter: 2
+order: 2
+slug: why-beige-matters-the-physiology-of-safety-and-the-soul-of-s
+title: "Why Beige Matters: The Physiology of Safety and the Soul of Stability"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## Why Beige Matters: The Physiology of Safety and the Soul of Stability
 
 Beige is not just a metaphorical stage of development.

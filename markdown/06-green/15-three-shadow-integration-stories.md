@@ -1,3 +1,15 @@
+---
+id: green-15
+stage: 6
+chapter: 15
+order: 15
+slug: three-shadow-integration-stories
+title: "Three Shadow Integration Stories"
+content_type: chapter
+release_day: 14
+media: []
+---
+
 ## Three Shadow Integration Stories
 
 Let's get specific. Here are three real patterns of shadow integration—how the coal becomes gold.

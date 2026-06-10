@@ -1,3 +1,15 @@
+---
+id: orange-27
+stage: 5
+chapter: 27
+order: 27
+slug: the-lever-and-the-fulcrum-archimedes-and-the-power-of-unders
+title: "The Lever and the Fulcrum: Archimedes and the Power of Understanding"
+content_type: chapter
+release_day: 26
+media: []
+---
+
 ## The Lever and the Fulcrum: Archimedes and the Power of Understanding
 
 "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."

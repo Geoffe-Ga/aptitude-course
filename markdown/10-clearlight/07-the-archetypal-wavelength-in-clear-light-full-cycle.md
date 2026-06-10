@@ -1,3 +1,15 @@
+---
+id: clearlight-7
+stage: 10
+chapter: 7
+order: 7
+slug: the-archetypal-wavelength-in-clear-light-full-cycle
+title: "The Archetypal Wavelength in Clear Light: Full Cycle"
+content_type: chapter
+release_day: 6
+media: []
+---
+
 ## The Archetypal Wavelength in Clear Light: Full Cycle
 
 At Clear Light, you don't transcend the Wavelength. You *master* it. You see the full cycle—Rising, Peaking, Withdrawal, Diminishing, Bottoming Out, Restoration—and you know how to work with each phase skillfully.

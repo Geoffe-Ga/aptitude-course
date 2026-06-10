@@ -1,3 +1,15 @@
+---
+id: purple-15
+stage: 2
+chapter: 15
+order: 15
+slug: tarot-in-the-foxhole-inviting-in-source-via-divination
+title: "Tarot in the Foxhole: Inviting in Source via Divination"
+content_type: chapter
+release_day: 14
+media: []
+---
+
 ## Tarot in the Foxhole: Inviting in Source via Divination
 
 There’s a moment, in the low fog of depression, when your body has finally been tended to—enough water has touched your cells, your blood sugar has stabilized, you’re no longer physically clenched or freezing. The most basic Beige needs have been met, and yet, the light hasn’t returned. You’re functional, but barely animate. The world still feels a few layers removed.

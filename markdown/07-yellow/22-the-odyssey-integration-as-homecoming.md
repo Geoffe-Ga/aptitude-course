@@ -1,3 +1,15 @@
+---
+id: yellow-22
+stage: 7
+chapter: 22
+order: 22
+slug: the-odyssey-integration-as-homecoming
+title: "The Odyssey: Integration as Homecoming"
+content_type: chapter
+release_day: 21
+media: []
+---
+
 ## The Odyssey: Integration as Homecoming
 
 Let me tell you about the original story of integration. It's Greek. Three thousand years old. And it maps Yellow's journey with startling precision.

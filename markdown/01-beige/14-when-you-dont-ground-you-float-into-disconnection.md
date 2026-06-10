@@ -1,3 +1,15 @@
+---
+id: beige-14
+stage: 1
+chapter: 14
+order: 14
+slug: when-you-dont-ground-you-float-into-disconnection
+title: "When You Don't Ground, You Float Into Disconnection"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## When You Don't Ground, You Float Into Disconnection
 
 The Overconsumption Offramp leads to a high-frequency feedback loop. I have learned to recognize the feeling of being lifted too far from my body. Synchronicities abound at first, but then I get to looking for them too intensely. I end up with the psychotic obsessions with coincidence that the psychiatrists call delusions of reference.

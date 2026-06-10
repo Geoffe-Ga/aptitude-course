@@ -1,3 +1,15 @@
+---
+id: green-23
+stage: 6
+chapter: 23
+order: 23
+slug: the-compost-heap-death-as-fertilizer
+title: "The Compost Heap: Death as Fertilizer"
+content_type: chapter
+release_day: 22
+media: []
+---
+
 ## The Compost Heap: Death as Fertilizer
 
 In permaculture, there's a principle: waste is food. What dies becomes the soil for what grows next. The rotting apple feeds the tree.

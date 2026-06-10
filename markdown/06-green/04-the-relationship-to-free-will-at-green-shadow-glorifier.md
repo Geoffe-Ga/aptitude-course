@@ -1,3 +1,15 @@
+---
+id: green-4
+stage: 6
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-green-shadow-glorifier
+title: "The Relationship to Free Will at Green: Shadow Glorifier"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Green: Shadow Glorifier
 
 At Green, the relationship to Free Will gets… complicated.

@@ -1,3 +1,15 @@
+---
+id: ultraviolet-8
+stage: 9
+chapter: 8
+order: 8
+slug: the-default-habit-of-ultraviolet-meditation-retreats
+title: "The Default Habit of Ultraviolet: Meditation Retreats"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## The Default Habit of Ultraviolet: Meditation Retreats
 
 At Ultraviolet, daily practice is no longer enough. You need *retreat*.

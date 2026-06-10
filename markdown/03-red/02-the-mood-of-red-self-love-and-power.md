@@ -1,3 +1,15 @@
+---
+id: red-2
+stage: 3
+chapter: 2
+order: 2
+slug: the-mood-of-red-self-love-and-power
+title: "The Mood of Red: Self-Love and Power"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Red: Self-Love and Power
 
 Red falls within the second category of APTITUDE:

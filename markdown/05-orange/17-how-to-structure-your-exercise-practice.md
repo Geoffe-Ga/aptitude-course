@@ -1,3 +1,15 @@
+---
+id: orange-17
+stage: 5
+chapter: 17
+order: 17
+slug: how-to-structure-your-exercise-practice
+title: "How to Structure Your Exercise Practice"
+content_type: chapter
+release_day: 16
+media: []
+---
+
 ## How to Structure Your Exercise Practice
 
 Orange loves systems, so here's a simple framework.

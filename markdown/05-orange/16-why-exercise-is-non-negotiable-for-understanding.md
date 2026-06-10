@@ -1,3 +1,15 @@
+---
+id: orange-16
+stage: 5
+chapter: 16
+order: 16
+slug: why-exercise-is-non-negotiable-for-understanding
+title: "Why Exercise is Non-Negotiable for Understanding"
+content_type: chapter
+release_day: 15
+media: []
+---
+
 ## Why Exercise is Non-Negotiable for Understanding
 
 Here's what most people miss about exercise: it's not just physical. It's *cognitive*.

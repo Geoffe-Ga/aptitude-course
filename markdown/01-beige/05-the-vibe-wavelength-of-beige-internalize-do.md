@@ -1,3 +1,15 @@
+---
+id: beige-5
+stage: 1
+chapter: 5
+order: 5
+slug: the-vibe-wavelength-of-beige-internalize-do
+title: "The Vibe Wavelength of Beige: Internalize (Do)"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Vibe Wavelength of Beige: Internalize (Do)
 
 This stage also builds on the introduction to the Archetypal Wavelength that you should have picked up from the <a href="https://www.google.com/url?q=https://aptitude.guru/philosophy/archetypal-wavelength&sa=D&source=editors&ust=1764912627500309&usg=AOvVaw2E0uWn4AqXvS3EHHDuBcVy"

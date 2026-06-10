@@ -1,3 +1,15 @@
+---
+id: ultraviolet-7
+stage: 9
+chapter: 7
+order: 7
+slug: alternatives-for-ultraviolet-practice
+title: "Alternatives for Ultraviolet Practice"
+content_type: chapter
+release_day: 6
+media: []
+---
+
 ## Alternatives for Ultraviolet Practice
 
 If jhana practice isn't accessible or resonant for you, here are other advanced practices that cultivate the same depth of absorption:

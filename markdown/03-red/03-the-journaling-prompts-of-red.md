@@ -1,3 +1,15 @@
+---
+id: red-3
+stage: 3
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-red
+title: "The Journaling Prompts of Red"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Red
 
 Before we dive into the Red journaling prompts, let’s recall what we introduced back in Beige. Journaling, in the APTITUDE sense, isn’t some precious, self-important artform. It’s a tool. A form of embodied, verbal meditation. The practice is simple but potent: set a timer for fifteen minutes, pick up a pen (not a pencil—no erasing), and don’t stop moving your hand. If you stall out, write “I don’t know what to write” until something else comes.

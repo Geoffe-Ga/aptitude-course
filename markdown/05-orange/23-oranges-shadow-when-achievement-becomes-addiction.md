@@ -1,3 +1,15 @@
+---
+id: orange-23
+stage: 5
+chapter: 23
+order: 23
+slug: oranges-shadow-when-achievement-becomes-addiction
+title: "Orange's Shadow: When Achievement Becomes Addiction"
+content_type: chapter
+release_day: 22
+media: []
+---
+
 ## Orange's Shadow: When Achievement Becomes Addiction
 
 Orange's shadow is seductive. It whispers: *You are what you accomplish*. And if you're not vigilant, you believe it.

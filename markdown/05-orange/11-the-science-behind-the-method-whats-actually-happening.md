@@ -1,3 +1,15 @@
+---
+id: orange-11
+stage: 5
+chapter: 11
+order: 11
+slug: the-science-behind-the-method-whats-actually-happening
+title: "The Science Behind the Method: What's Actually Happening"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## The Science Behind the Method: What's Actually Happening
 
 Let's get granular. Because Orange loves to understand *how* things work, not just that they work.

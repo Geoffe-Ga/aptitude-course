@@ -1,3 +1,15 @@
+---
+id: teal-8
+stage: 8
+chapter: 8
+order: 8
+slug: the-practice-decoded-what-dog-walkin-shamanism-actually-is
+title: "The Practice Decoded: What Dog Walkin' Shamanism Actually Is"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## The Practice Decoded: What Dog Walkin' Shamanism Actually Is
 
 This practice has an unusual name for a reason. It's not "walking meditation" or "nature contemplation." It's **Dog Walkin' Shamanism**—and that matters.

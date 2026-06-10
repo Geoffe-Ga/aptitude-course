@@ -1,3 +1,15 @@
+---
+id: orange-26
+stage: 5
+chapter: 26
+order: 26
+slug: orange-as-the-theft-of-fire
+title: "Orange as the Theft of Fire"
+content_type: chapter
+release_day: 25
+media: []
+---
+
 ## Orange as the Theft of Fire
 
 Orange is the stage where you steal fire from the gods. Where you stop waiting for salvation, for permission, for the universe to hand you what you need—and you *take* it. Not through domination (that's Red). Through *understanding*.

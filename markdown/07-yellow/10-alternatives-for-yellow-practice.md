@@ -1,3 +1,15 @@
+---
+id: yellow-10
+stage: 7
+chapter: 10
+order: 10
+slug: alternatives-for-yellow-practice
+title: "Alternatives for Yellow Practice"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## Alternatives for Yellow Practice
 
 If sitting meditation for 45 minutes isn't accessible—due to physical limitations, trauma history, or neurodivergence—there are other ways to cultivate sustained, integrative attention. The key is that whatever practice you choose must be *at least 45 minutes* and must train both concentration and awareness.

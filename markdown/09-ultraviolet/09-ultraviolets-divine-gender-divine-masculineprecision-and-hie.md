@@ -1,3 +1,15 @@
+---
+id: ultraviolet-9
+stage: 9
+chapter: 9
+order: 9
+slug: ultraviolets-divine-gender-divine-masculineprecision-and-hie
+title: "Ultraviolet's Divine Gender: Divine Masculine—Precision and Hierarchy"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## Ultraviolet's Divine Gender: Divine Masculine—Precision and Hierarchy
 
 Ultraviolet returns to the **Divine Masculine**—but this is the Masculine at its most refined. This is not the dominating force of Red or the achieving drive of Orange or the analytical mind of Yellow. This is the Masculine as *precision*. As discernment. As the capacity to see clearly and organize complexity into coherence.

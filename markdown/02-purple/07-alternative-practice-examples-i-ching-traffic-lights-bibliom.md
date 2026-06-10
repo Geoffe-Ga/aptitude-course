@@ -1,3 +1,15 @@
+---
+id: purple-7
+stage: 2
+chapter: 7
+order: 7
+slug: alternative-practice-examples-i-ching-traffic-lights-bibliom
+title: "Alternative Practice Examples: I-Ching, Traffic Lights, Bibliomancy, Synchronicity"
+content_type: chapter
+release_day: 6
+media: []
+---
+
 ## Alternative Practice Examples: I-Ching, Traffic Lights, Bibliomancy, Synchronicity
 
 While the Daily Tarot Draw is the recommended Practice for Purple, APTITUDE is not dogma—it’s a compass, not a commandment. If Tarot doesn’t vibe with you, or if you feel called to experiment with other forms of symbolic receptivity, you’re absolutely encouraged to do so. This is your path. The practice is not sacred. The attunement is.

@@ -1,3 +1,15 @@
+---
+id: orange-20
+stage: 5
+chapter: 20
+order: 20
+slug: oranges-gift-the-alchemy-of-problems-and-curiosities
+title: "Orange's Gift: The Alchemy of Problems and Curiosities"
+content_type: chapter
+release_day: 19
+media: []
+---
+
 ## Orange's Gift: The Alchemy of Problems and Curiosities
 
 The deepest gift of Orange is the realization that *your life's work lives at the intersection of what fascinates you and what breaks your heart*.

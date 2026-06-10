@@ -1,3 +1,15 @@
+---
+id: blue-6
+stage: 4
+chapter: 6
+order: 6
+slug: the-practice-of-blue-metta-meditation
+title: "The Practice of Blue: Metta Meditation"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Practice of Blue: Metta Meditation
 
 If Purple was 5 minutes and Red was 10, Blue asks for **15 minutes of daily Metta meditation**—also known as loving-kindness practice. This is the foundational heart-opening practice of Buddhism, and it's *perfectly* suited to Blue's work: training your nervous system to extend love, first to yourself, then to others, then to the entire world.

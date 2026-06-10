@@ -1,3 +1,15 @@
+---
+id: beige-12
+stage: 1
+chapter: 12
+order: 12
+slug: in-summary
+title: "In Summary"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## In Summary
 
 This expression of the Archetypal Wavelength shows us the trap of trying to “change everything at once” and the magic of letting momentum accrue through consistency. Energy Scaffolding isn't about burning bright and fast—it's about building energy slowly, habit by habit, the tortoise whose consistent, temperate strategy wins the race.

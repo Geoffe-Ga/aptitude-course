@@ -1,3 +1,15 @@
+---
+id: blue-4
+stage: 4
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-blue-victim
+title: "The Relationship to Free Will at Blue: Victim"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Blue: Victim
 
 At Blue, the relationship to Free Will gets complicated—and painful.

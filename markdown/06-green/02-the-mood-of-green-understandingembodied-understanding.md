@@ -1,3 +1,15 @@
+---
+id: green-2
+stage: 6
+chapter: 2
+order: 2
+slug: the-mood-of-green-understandingembodied-understanding
+title: "The Mood of Green: Understanding—Embodied Understanding"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Green: Understanding—Embodied Understanding
 
 Green is the second expression of **Understanding**, but where Orange approached it intellectually, Green approaches it *somatically*. This is understanding that lives in the gut, in the throat, in the heart. It's the kind of knowing that can't be proven but can't be denied. The kind that makes you say, "I don't have the words for it, but I *feel* it."

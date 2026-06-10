@@ -1,3 +1,15 @@
+---
+id: yellow-16
+stage: 7
+chapter: 16
+order: 16
+slug: yellows-divine-gender-divine-masculinesystems-integration
+title: "Yellow's Divine Gender: Divine Masculine—Systems Integration"
+content_type: chapter
+release_day: 15
+media: []
+---
+
 ## Yellow's Divine Gender: Divine Masculine—Systems Integration
 
 Yellow returns to the **Divine Masculine**—the archetypal force of structure, analysis, and synthesis. But this is not the dominating masculine of Red or the achieving masculine of Orange. This is the *integrative* masculine—the part of consciousness that can hold complexity without collapsing it into simplicity.

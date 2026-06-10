@@ -1,3 +1,15 @@
+---
+id: orange-4
+stage: 5
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-orange-status-seeker
+title: "The Relationship to Free Will at Orange: Status Seeker"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Orange: Status Seeker
 
 At Orange, the illusion of Free Will gets a serious upgrade—and a serious test.

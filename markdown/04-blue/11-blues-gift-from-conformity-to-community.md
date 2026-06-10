@@ -1,3 +1,15 @@
+---
+id: blue-11
+stage: 4
+chapter: 11
+order: 11
+slug: blues-gift-from-conformity-to-community
+title: "Blue's Gift: From Conformity to Community"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## Blue's Gift: From Conformity to Community
 
 The deepest gift of Blue is the recognition that **belonging is not the same as conformity**.

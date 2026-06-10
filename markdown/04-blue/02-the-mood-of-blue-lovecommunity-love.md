@@ -1,3 +1,15 @@
+---
+id: blue-2
+stage: 4
+chapter: 2
+order: 2
+slug: the-mood-of-blue-lovecommunity-love
+title: "The Mood of Blue: Love—Community Love"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Blue: Love—Community Love
 
 Blue falls within the second category of APTITUDE: **Love**. If Yes-And-Ness (Beige and Purple) taught you to trust yourself and your intuition, Love is where you learn to extend that trust outward. To open your heart not just to yourself, but to others.

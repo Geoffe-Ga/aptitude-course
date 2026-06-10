@@ -1,3 +1,15 @@
+---
+id: teal-22
+stage: 8
+chapter: 22
+order: 22
+slug: the-long-game-what-happens-after-a-year-at-teal
+title: "The Long Game: What Happens After a Year at Teal"
+content_type: chapter
+release_day: 21
+media: []
+---
+
 ## The Long Game: What Happens After a Year at Teal
 
 After 365 days of Dog Walkin' Shamanism (60 min, 4x/week) and Baby Waterfall Conventions (daily), here's what typically shifts:

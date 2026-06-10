@@ -1,3 +1,15 @@
+---
+id: yellow-12
+stage: 7
+chapter: 12
+order: 12
+slug: the-default-habit-of-yellow-daily-meditation
+title: "The Default Habit of Yellow: Daily Meditation"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## The Default Habit of Yellow: Daily Meditation
 
 At Yellow, the habit *is* the practice. **Daily Meditation**—45 minutes, minimum, every day.

@@ -1,3 +1,15 @@
+---
+id: purple-6
+stage: 2
+chapter: 6
+order: 6
+slug: the-practice-of-purple-a-daily-tarot-draw
+title: "The Practice of Purple: A Daily Tarot Draw"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Practice of Purple: A Daily Tarot Draw
 
 ![](../markdown/images/images/image6.png)

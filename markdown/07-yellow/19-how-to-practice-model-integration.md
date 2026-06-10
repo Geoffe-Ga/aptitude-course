@@ -1,3 +1,15 @@
+---
+id: yellow-19
+stage: 7
+chapter: 19
+order: 19
+slug: how-to-practice-model-integration
+title: "How to Practice Model Integration"
+content_type: chapter
+release_day: 18
+media: []
+---
+
 ## How to Practice Model Integration
 
 Here's the practice:

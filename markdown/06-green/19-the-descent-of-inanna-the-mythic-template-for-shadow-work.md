@@ -1,3 +1,15 @@
+---
+id: green-19
+stage: 6
+chapter: 19
+order: 19
+slug: the-descent-of-inanna-the-mythic-template-for-shadow-work
+title: "The Descent of Inanna: The Mythic Template for Shadow Work"
+content_type: chapter
+release_day: 18
+media: []
+---
+
 ## The Descent of Inanna: The Mythic Template for Shadow Work
 
 Let me tell you the oldest recorded myth about shadow work. It's Sumerian. Four thousand years old. And it maps Green's journey with eerie precision.

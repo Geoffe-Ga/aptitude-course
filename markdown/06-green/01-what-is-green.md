@@ -1,3 +1,15 @@
+---
+id: green-1
+stage: 6
+chapter: 1
+order: 1
+slug: what-is-green
+title: "What is Green?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Green?
 
 If Orange is the building phase—achieving, optimizing, expanding your way toward mastery—Green is the integration phase. The exhale. The moment you stop pushing outward and turn inward to ask: *At what cost?*

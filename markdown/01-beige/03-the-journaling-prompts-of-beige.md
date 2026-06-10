@@ -1,3 +1,15 @@
+---
+id: beige-3
+stage: 1
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-beige
+title: "The Journaling Prompts of Beige"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Beige
 
 To further anchor this learning, Beige invites you into two core journaling practices. Some basic rules first:

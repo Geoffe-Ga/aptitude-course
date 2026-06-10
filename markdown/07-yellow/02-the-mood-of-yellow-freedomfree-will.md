@@ -1,3 +1,15 @@
+---
+id: yellow-2
+stage: 7
+chapter: 2
+order: 2
+slug: the-mood-of-yellow-freedomfree-will
+title: "The Mood of Yellow: Freedom—Free Will"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Yellow: Freedom—Free Will
 
 Yellow marks a shift from **Understanding** (Orange and Green) to **Freedom**. And the specific quality of Freedom we're cultivating here is **Free Will**—the capacity to act from choice rather than compulsion.

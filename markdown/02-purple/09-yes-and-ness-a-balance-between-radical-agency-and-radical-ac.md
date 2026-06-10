@@ -1,3 +1,15 @@
+---
+id: purple-9
+stage: 2
+chapter: 9
+order: 9
+slug: yes-and-ness-a-balance-between-radical-agency-and-radical-ac
+title: "Yes-And-Ness: A balance between Radical Agency and Radical Acceptance"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## Yes-And-Ness: A balance between Radical Agency and Radical Acceptance
 
 “Yes-and-ness” is a term I coined to capture the delicate, alchemical balance between two spiritual instincts that have long pulled at me: the Eastern embrace of Radical Acceptance and the Western drive for Radical Agency.

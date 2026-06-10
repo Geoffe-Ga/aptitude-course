@@ -1,3 +1,15 @@
+---
+id: clearlight-17
+stage: 10
+chapter: 17
+order: 17
+slug: the-ecology-of-practice-sustaining-90-minutes-for-life
+title: "The Ecology of Practice: Sustaining 90 Minutes for Life"
+content_type: chapter
+release_day: 16
+media: []
+---
+
 ## The Ecology of Practice: Sustaining 90 Minutes for Life
 
 Let's be practical. How do you actually maintain 90-minute sits, 4x/week, for the rest of your life?

@@ -1,3 +1,15 @@
+---
+id: yellow-15
+stage: 7
+chapter: 15
+order: 15
+slug: the-long-game-what-happens-after-a-year
+title: "The Long Game: What Happens After a Year"
+content_type: chapter
+release_day: 14
+media: []
+---
+
 ## The Long Game: What Happens After a Year
 
 After 365 days of 45-minute sits, you'll have logged ~275 hours of meditation. That's not mastery—Culadasa estimates 10,000 hours for full awakening—but it's a foundation.

@@ -1,3 +1,15 @@
+---
+id: green-22
+stage: 6
+chapter: 22
+order: 22
+slug: the-katabasis-descent-as-spiritual-practice
+title: "The Katabasis: Descent as Spiritual Practice"
+content_type: chapter
+release_day: 21
+media: []
+---
+
 ## The Katabasis: Descent as Spiritual Practice
 
 Inanna's journey is part of a larger mythic pattern called *katabasis*—the descent into the underworld. It shows up everywhere:

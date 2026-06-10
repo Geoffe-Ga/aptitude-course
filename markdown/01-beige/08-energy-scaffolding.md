@@ -1,3 +1,15 @@
+---
+id: beige-8
+stage: 1
+chapter: 8
+order: 8
+slug: energy-scaffolding
+title: "Energy Scaffolding"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## Energy Scaffolding
 
 If you aren’t called to stick with the default Habits, your APTITUDE journey hinges on the process of Energy Scaffolding: the sacred art of building your life one Habit at a time. Every 21 days, you’ll add a new behavior to your stack—a Habit that gives more energy back to you than it takes to engage with it. You choose habits that feed you.

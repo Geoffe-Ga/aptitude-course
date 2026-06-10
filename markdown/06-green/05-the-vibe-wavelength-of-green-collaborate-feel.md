@@ -1,3 +1,15 @@
+---
+id: green-5
+stage: 6
+chapter: 5
+order: 5
+slug: the-vibe-wavelength-of-green-collaborate-feel
+title: "The Vibe Wavelength of Green: Collaborate (Feel)"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Vibe Wavelength of Green: Collaborate (Feel)
 
 Green continues the Collaborate Mode, but shifts from **Do** (Orange) to **Feel**. Where Orange collaborated through strategic action, Green collaborates through *emotional attunement*. You're learning to work with others not by dividing tasks, but by sensing the field. By feeling into what's needed. By letting the relational space inform the work.

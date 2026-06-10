@@ -1,3 +1,15 @@
+---
+id: clearlight-18
+stage: 10
+chapter: 18
+order: 18
+slug: the-transmission-how-realization-spreads
+title: "The Transmission: How Realization Spreads"
+content_type: chapter
+release_day: 17
+media: []
+---
+
 ## The Transmission: How Realization Spreads
 
 There's a phenomenon in contemplative traditions called *transmission*—the non-verbal passing of realization from teacher to student.

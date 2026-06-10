@@ -1,3 +1,15 @@
+---
+id: purple-12
+stage: 2
+chapter: 12
+order: 12
+slug: purples-shadow-delusions-of-reference-and-magical-thinking
+title: "Purple’s Shadow: Delusions of Reference and Magical Thinking"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## Purple’s Shadow: Delusions of Reference and Magical Thinking
 
 Every light casts a shadow, and in Purple, the radiant gift of Receptivity can tip into something overwhelming, seductive, and ultimately destabilizing. When this stage becomes pathological, it’s not because it lacks power—but because its power is ungrounded. The very sensitivity that allows you to hear whispers from the universe can, without anchoring, become a cacophony of ghosts.

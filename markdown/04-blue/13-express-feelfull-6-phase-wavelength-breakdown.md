@@ -1,3 +1,15 @@
+---
+id: blue-13
+stage: 4
+chapter: 13
+order: 13
+slug: express-feelfull-6-phase-wavelength-breakdown
+title: "\"EXPRESS (Feel)\"—Full 6-Phase Wavelength Breakdown"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## "EXPRESS (Feel)"—Full 6-Phase Wavelength Breakdown
 
 Now we map the full cycle of Blue's Wavelength. This is the rhythm of emotional expression in relationship—how we rise into connection, peak in attunement, withdraw to discern, sink into conviction or rage, surrender or spiral into misery, and release through catharsis or repress it all. Each phase has its medicine (Rx) and its poison (OD). Learn to recognize both.

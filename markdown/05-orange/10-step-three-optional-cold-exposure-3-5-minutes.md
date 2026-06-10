@@ -1,3 +1,15 @@
+---
+id: orange-10
+stage: 5
+chapter: 10
+order: 10
+slug: step-three-optional-cold-exposure-3-5-minutes
+title: "Step Three: Optional Cold Exposure (3-5 minutes)"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## Step Three: Optional Cold Exposure (3-5 minutes)
 
 If you have access to a shower, this is where the Wim Hof Method becomes legendary.

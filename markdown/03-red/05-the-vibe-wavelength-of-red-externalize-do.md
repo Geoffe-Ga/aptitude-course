@@ -1,3 +1,15 @@
+---
+id: red-5
+stage: 3
+chapter: 5
+order: 5
+slug: the-vibe-wavelength-of-red-externalize-do
+title: "The Vibe Wavelength of Red: Externalize (Do)"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Vibe Wavelength of Red: Externalize (Do)
 
 This stage continues our exploration of the Archetypal Wavelength—APTITUDE’s core model for understanding how all energy moves in cycles. If you haven’t yet read the foundational Philosophy material, now’s a great time to check it out. It’s the ground we build on.

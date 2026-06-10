@@ -1,3 +1,15 @@
+---
+id: red-9
+stage: 3
+chapter: 9
+order: 9
+slug: reds-divine-gender-back-to-the-masculine-i-self-expressing
+title: "Red’s Divine Gender: Back to the Masculine, I, Self-Expressing"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## Red’s Divine Gender: Back to the Masculine, I, Self-Expressing
 
 Purple drifted on shared feeling; Red snaps into personal direction. The current swivels from we to I, from moon-pull to sun-push. In APTITUDE’s color wheel, every cool, receptive stage is followed by a warm, projective one. Red is the first warm return, carrying the signature of the Divine Masculine—the impulse to step forward, speak clearly, claim ground.

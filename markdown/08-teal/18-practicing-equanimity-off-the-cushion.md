@@ -1,3 +1,15 @@
+---
+id: teal-18
+stage: 8
+chapter: 18
+order: 18
+slug: practicing-equanimity-off-the-cushion
+title: "Practicing Equanimity Off the Cushion"
+content_type: chapter
+release_day: 17
+media: []
+---
+
 ## Practicing Equanimity Off the Cushion
 
 Teal is not about having profound experiences in meditation. It's about bringing the Witness into every moment of your life. Here's how.

@@ -1,3 +1,15 @@
+---
+id: green-11
+stage: 6
+chapter: 11
+order: 11
+slug: why-active-recovery-is-essential-for-shadow-work
+title: "Why Active Recovery is Essential for Shadow Work"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## Why Active Recovery is Essential for Shadow Work
 
 Here's what most people don't understand: shadow work is *physiological*, not just psychological. When you meet a disowned part of yourself, your nervous system activates. You're literally processing trauma—and trauma lives in the body.

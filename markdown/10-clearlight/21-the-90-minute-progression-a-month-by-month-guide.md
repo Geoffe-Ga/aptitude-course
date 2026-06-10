@@ -1,3 +1,15 @@
+---
+id: clearlight-21
+stage: 10
+chapter: 21
+order: 21
+slug: the-90-minute-progression-a-month-by-month-guide
+title: "The 90-Minute Progression: A Month-by-Month Guide"
+content_type: chapter
+release_day: 20
+media: []
+---
+
 ## The 90-Minute Progression: A Month-by-Month Guide
 
 If you're transitioning from Ultraviolet's 75 minutes to Clear Light's 90 minutes, here's how to make the leap sustainable.

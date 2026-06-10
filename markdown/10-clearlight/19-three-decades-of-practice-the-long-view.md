@@ -1,3 +1,15 @@
+---
+id: clearlight-19
+stage: 10
+chapter: 19
+order: 19
+slug: three-decades-of-practice-the-long-view
+title: "Three Decades of Practice: The Long View"
+content_type: chapter
+release_day: 18
+media: []
+---
+
 ## Three Decades of Practice: The Long View
 
 Let's zoom out. If you practice at Clear Light's dosage—90 minutes, 4x/week—for 30 years, you'll log approximately 9,360 hours.

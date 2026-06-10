@@ -1,3 +1,15 @@
+---
+id: yellow-14
+stage: 7
+chapter: 14
+order: 14
+slug: troubleshooting-common-obstacles-and-solutions
+title: "Troubleshooting: Common Obstacles and Solutions"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## Troubleshooting: Common Obstacles and Solutions
 
 **Obstacle: "I don't have 45 minutes."**

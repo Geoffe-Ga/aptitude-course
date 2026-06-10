@@ -1,3 +1,15 @@
+---
+id: green-14
+stage: 6
+chapter: 14
+order: 14
+slug: greens-gift-the-shadow-as-teacher
+title: "Green's Gift: The Shadow as Teacher"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## Green's Gift: The Shadow as Teacher
 
 The deepest gift of Green is the realization that *your shadow is your greatest teacher*.

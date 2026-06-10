@@ -1,3 +1,15 @@
+---
+id: yellow-1
+stage: 7
+chapter: 1
+order: 1
+slug: what-is-yellow
+title: "What is Yellow?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Yellow?
 
 You've practiced the stages. You've grounded (Beige), received (Purple), asserted (Red), connected (Blue), achieved (Orange), and descended (Green). You've built competence and met your shadow. You've learned to do and to feel, to rise and to fall, to individuate and to belong.

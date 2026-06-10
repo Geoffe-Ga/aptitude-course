@@ -1,3 +1,15 @@
+---
+id: teal-4
+stage: 8
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-teal-true-self-embodier
+title: "The Relationship to Free Will at Teal: True Self Embodier"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Teal: True Self Embodier
 
 At Teal, the relationship to Free Will transforms radically.

@@ -1,3 +1,15 @@
+---
+id: blue-5
+stage: 4
+chapter: 5
+order: 5
+slug: the-vibe-wavelength-of-blue-express-feel
+title: "The Vibe Wavelength of Blue: Express (Feel)"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Vibe Wavelength of Blue: Express (Feel)
 
 Blue introduces the second Mode in the APTITUDE framework: **Express**. Where Inhabit (Beige, Purple) was about building your own foundation and internal coherence, Express is about *externalizing*. Broadcasting. Sharing what's inside of you with the world.

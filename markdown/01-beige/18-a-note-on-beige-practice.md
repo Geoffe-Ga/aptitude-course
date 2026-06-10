@@ -1,3 +1,15 @@
+---
+id: beige-18
+stage: 1
+chapter: 18
+order: 18
+slug: a-note-on-beige-practice
+title: "A Note on Beige Practice"
+content_type: chapter
+release_day: 17
+media: []
+---
+
 ## A Note on Beige Practice
 
 Play around with different techniques to find the one that suits you. Figure out what brings you back into your body.

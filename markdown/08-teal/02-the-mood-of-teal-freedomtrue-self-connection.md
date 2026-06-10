@@ -1,3 +1,15 @@
+---
+id: teal-2
+stage: 8
+chapter: 2
+order: 2
+slug: the-mood-of-teal-freedomtrue-self-connection
+title: "The Mood of Teal: Freedom—True Self Connection"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Teal: Freedom—True Self Connection
 
 Teal continues the category of **Freedom**, but where Yellow cultivated **Free Will**—the capacity to choose consciously—Teal cultivates **True Self Connection**—the capacity to receive guidance from your eternal, transcendent nature.

@@ -1,3 +1,15 @@
+---
+id: purple-4
+stage: 2
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-purple-archetype-embodier
+title: "The Relationship to Free Will at Purple: Archetype Embodier"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Purple: Archetype Embodier
 
 Let’s get right to it. What is the relationship to Free Will at Purple?

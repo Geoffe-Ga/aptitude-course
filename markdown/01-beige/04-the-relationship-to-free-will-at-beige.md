@@ -1,3 +1,15 @@
+---
+id: beige-4
+stage: 1
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-beige
+title: "The Relationship to Free Will at Beige"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Beige
 
 Let’s get right to it. What is the relationship to Free Will? That’s what this whole course is about after all, isn’t it?

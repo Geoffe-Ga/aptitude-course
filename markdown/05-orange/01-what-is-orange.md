@@ -1,3 +1,15 @@
+---
+id: orange-1
+stage: 5
+chapter: 1
+order: 1
+slug: what-is-orange
+title: "What is Orange?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Orange?
 
 Welcome to Orange—the fifth stage of APTITUDE and the beginning of something electric. If the previous stages taught you to ground (Beige), receive (Purple), assert (Red), and attune (Blue), Orange teaches you to *build*. To experiment. To chase curiosity like a hunting dog following a scent through tall grass. To turn problems into projects and projects into mastery.

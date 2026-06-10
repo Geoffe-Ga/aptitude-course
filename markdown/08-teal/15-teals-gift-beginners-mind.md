@@ -1,3 +1,15 @@
+---
+id: teal-15
+stage: 8
+chapter: 15
+order: 15
+slug: teals-gift-beginners-mind
+title: "Teal's Gift: Beginner's Mind"
+content_type: chapter
+release_day: 14
+media: []
+---
+
 ## Teal's Gift: Beginner's Mind
 
 The deepest gift of Teal is what Suzuki calls **Beginner's Mind**—the capacity to see reality fresh, unfiltered by concepts, judgments, or expectations.

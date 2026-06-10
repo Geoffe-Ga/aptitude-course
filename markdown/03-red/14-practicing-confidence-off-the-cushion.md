@@ -1,3 +1,15 @@
+---
+id: red-14
+stage: 3
+chapter: 14
+order: 14
+slug: practicing-confidence-off-the-cushion
+title: "Practicing Confidence Off the Cushion"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## Practicing Confidence Off the Cushion
 
 The real test of Red isn't what happens during your ten-minute practice. It's what happens the other 23 hours and 50 minutes of the day. Can you carry the fire you've cultivated on the cushion into your lived experience? Can you embody confidence when your boss questions your judgment, when your partner criticizes your tone, when your own inner voice whispers that you're a fraud?

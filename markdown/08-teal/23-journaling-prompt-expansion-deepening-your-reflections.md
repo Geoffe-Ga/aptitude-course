@@ -1,3 +1,15 @@
+---
+id: teal-23
+stage: 8
+chapter: 23
+order: 23
+slug: journaling-prompt-expansion-deepening-your-reflections
+title: "Journaling Prompt Expansion: Deepening Your Reflections"
+content_type: chapter
+release_day: 22
+media: []
+---
+
 ## Journaling Prompt Expansion: Deepening Your Reflections
 
 Let's expand on those journaling prompts with concrete guidance and examples.

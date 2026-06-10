@@ -1,3 +1,15 @@
+---
+id: green-3
+stage: 6
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-green
+title: "The Journaling Prompts of Green"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Green
 
 Green's journaling is different. It's not strategic (like Orange) or reflective (like Purple). It's *alchemical*. You're using the page to metabolize what the body can't hold alone. To externalize the shadow so you can see it clearly. To transmute pain into insight.

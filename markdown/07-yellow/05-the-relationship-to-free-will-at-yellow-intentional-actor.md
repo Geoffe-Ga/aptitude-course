@@ -1,3 +1,15 @@
+---
+id: yellow-5
+stage: 7
+chapter: 5
+order: 5
+slug: the-relationship-to-free-will-at-yellow-intentional-actor
+title: "The Relationship to Free Will at Yellow: Intentional Actor"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Relationship to Free Will at Yellow: Intentional Actor
 
 For the first time in the spiral, we're not talking about an *illusion* of Free Will. We're talking about the *emergence* of it.

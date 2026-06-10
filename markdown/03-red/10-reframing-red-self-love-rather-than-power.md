@@ -1,3 +1,15 @@
+---
+id: red-10
+stage: 3
+chapter: 10
+order: 10
+slug: reframing-red-self-love-rather-than-power
+title: "Reframing Red: Self-Love Rather than Power"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## Reframing Red: Self-Love Rather than Power
 
 Red gets saddled with the warlord costume—gang leaders staking turf, fascists barking slogans, bullies prowling hallways. Spiral Dynamics stamps that image into the collective imagination, and it tracks: raw will forcing reality to bend. Yet spend time with anyone stuck there and you’ll find the fire is fueled by something colder—shame. They fear they’re unworthy, so they make others kneel. It’s a ransom note to the world that reads, “Tell me I matter or I’ll keep swinging.”

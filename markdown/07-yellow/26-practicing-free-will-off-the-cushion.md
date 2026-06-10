@@ -1,3 +1,15 @@
+---
+id: yellow-26
+stage: 7
+chapter: 26
+order: 26
+slug: practicing-free-will-off-the-cushion
+title: "Practicing Free Will Off the Cushion"
+content_type: chapter
+release_day: 25
+media: []
+---
+
 ## Practicing Free Will Off the Cushion
 
 Yellow is where Free Will stops being a concept and becomes a practice. Here's how.

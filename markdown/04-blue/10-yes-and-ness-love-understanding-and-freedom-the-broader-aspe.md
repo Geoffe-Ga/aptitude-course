@@ -1,3 +1,15 @@
+---
+id: blue-10
+stage: 4
+chapter: 10
+order: 10
+slug: yes-and-ness-love-understanding-and-freedom-the-broader-aspe
+title: "Yes-And-Ness, Love, Understanding, and Freedom: The Broader \"Aspect Categories\" of APTITUDE"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## Yes-And-Ness, Love, Understanding, and Freedom: The Broader "Aspect Categories" of APTITUDE
 
 Let's zoom out for a moment and look at the structure of APTITUDE as a whole. The ten stages are organized into four **Aspect Categories**:
