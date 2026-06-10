@@ -39,7 +39,7 @@ This folder contains the modular sections for the ORANGE stage of the APTITUDE c
 
 - **Previous Stage**: [Stage 4](../04-blue/)
 - **Next Stage**: [Stage 6](../06-green/)
-- **Course Overview**: [../APTITUDEStagesDeepDive.md](../APTITUDEStagesDeepDive.md)
+- **Course Overview**: [APTITUDE Stages Deep Dive](../resources/aptitude-stages.md)
 
 ## Source
 

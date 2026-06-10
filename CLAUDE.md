@@ -93,11 +93,11 @@ All authoritative stage specifications live in `google_docs/database_of_course_c
 
 ### Supporting Materials
 
-- `markdown/APTITUDELandingPage.md` - Course introduction
-- `markdown/APTITUDEStagesDeepDive.md` - Overview of all 10 stages
-- `markdown/ArchetypalWavelengthIntroduction.md` - Wavelength theory
+- `markdown/resources/about.md` - Course introduction
+- `markdown/resources/aptitude-stages.md` - Overview of all 10 stages
+- `markdown/resources/archetypal-wavelength.md` - Wavelength theory
 - `markdown/ExtendedInvitation.md` - Enrollment/philosophy
-- `markdown/LiminalCreepIntroduction.md` - Target audience definition
+- `markdown/resources/liminal-creep.md` - Target audience definition
 - `markdown/meta/metrics.md` - Auto-generated repository statistics
 
 ### Content Source Pipeline

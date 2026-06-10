@@ -59,11 +59,8 @@ APTITUDE/
 │   ├── 08-teal/ (25 sections)
 │   ├── 09-ultraviolet/ (22 sections)
 │   ├── 10-clearlight/ (25 sections)
-│   ├── APTITUDELandingPage.md
-│   ├── APTITUDEStagesDeepDive.md
-│   ├── ArchetypalWavelengthIntroduction.md
+│   ├── resources/             # Site-resource pages (about, stages, wavelength, liminal-creep)
 │   ├── ExtendedInvitation.md
-│   ├── LiminalCreepIntroduction.md
 │   └── meta/
 │       └── metrics.md (repository statistics)
 ├── google_docs/
@@ -158,8 +155,8 @@ There is no spiritual retirement. There is no enlightenment you can rest in fore
 
 ## Get Started
 
-1. **Read the Landing Page**: `markdown/APTITUDELandingPage.md`
-2. **Understand the Wavelength**: `markdown/ArchetypalWavelengthIntroduction.md`
+1. **Read the Landing Page**: `markdown/resources/about.md`
+2. **Understand the Wavelength**: `markdown/resources/archetypal-wavelength.md`
 3. **Begin with Beige**: `markdown/01-beige/README.md`
 4. **Move through the stages** at your own pace (recommended: 3-4 weeks per stage)
 

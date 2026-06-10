@@ -1,7 +1,15 @@
+---
+slug: liminal-creep
+title: "Who Benefits?"
+content_type: essay
+description: "From Liminal Creep to Whole Adept: who this course is for."
+media: []
+---
+
 ### From Liminal Creep to Whole Adept: Transformation Made Possible by APTITUDE
 
-You know the [Creep archetype](https://www.google.com/url?q=https://creekmasons.com/p/im-a-creep&sa=D&source=editors&ust=1764912924390900&usg=AOvVaw0O4ds30GBvo0qRtgbiv-Et). A touch of
-loving self-deprecation inspired by [Radiohead](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DXFkzRNyygfk&sa=D&source=editors&ust=1764912924391036&usg=AOvVaw0mpteUohUlokmzvjtmrDVQ), because I want to
+You know the [Creep archetype](https://creekmasons.com/p/im-a-creep). A touch of
+loving self-deprecation inspired by [Radiohead](https://www.youtube.com/watch?v=XFkzRNyygfk), because I want to
 ”have the perfect body” and “perfect soul” so I can finally “belong
 here.” You know this archetype—because you’ve
 been the Creep.
@@ -24,7 +32,7 @@ and grounded. They are
 in radical self-ownership, capable of playing
 the game without the game playing them.
 
-![](images/images/image1.jpg)
+![](../images/images/image1.jpg)
 
 APTITUDE is the bridge between Creep and Adept. It
 takes you from self-sabotage to self-mastery. From disempowered

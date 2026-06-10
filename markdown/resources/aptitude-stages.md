@@ -1,3 +1,10 @@
+---
+slug: aptitude-stages
+title: "APTITUDE Stages"
+content_type: essay
+description: "A deep dive into the ten stages of Adepthood, from Beige to Clear Light."
+media: []
+---
 
 ### The Ten Stages of Adepthood
 
@@ -30,11 +37,11 @@ Onward. Ever onward.
 One way to take the course is to
 decide on your own
 habits, and I‘ll introduce a process for picking
-the right ones—what [Charles Duhigg](https://www.google.com/url?q=https://charlesduhigg.com/the-power-of-habit/&sa=D&source=editors&ust=1764912760084491&usg=AOvVaw1Fr5GSHS-MGQ6T92jU-pH4) called “keystone
+the right ones—what [Charles Duhigg](https://charlesduhigg.com/the-power-of-habit/) called “keystone
 habits.” Like the one rock that holds up an entire bridge, these are the
 small changes that can shift your entire pattern of behavior.
 
-We’ll also be discussing [James Clear](https://www.google.com/url?q=https://jamesclear.com/atomic-habits&sa=D&source=editors&ust=1764912760084827&usg=AOvVaw01XUaFCwGNmRDBRz3Hq-rI)’s four-fold strategy
+We’ll also be discussing [James Clear](https://jamesclear.com/atomic-habits)’s four-fold strategy
 for building habits that relies of manifesting
 an Aspiration
 Identity that
@@ -99,8 +106,8 @@ Wholeness.
 
 Their colors are borrowed—and
 modified to refer specifically to Aspects of
-Free Will—from [Clare Graves’](https://www.google.com/url?q=https://www.clarewgraves.com/home.html&sa=D&source=editors&ust=1764912760089856&usg=AOvVaw3NEnCLsUb-yEdRPp-GK84w) Spiral Dynamics
-and Ken Wilber’s [Growing Up](https://www.google.com/url?q=https://integrallife.com/growing-up-a-guided-tour/&sa=D&source=editors&ust=1764912760090030&usg=AOvVaw0Dxp4zX_WieHsXyESxGX4d) stages. While the
+Free Will—from [Clare Graves’](https://www.clarewgraves.com/home.html) Spiral Dynamics
+and Ken Wilber’s [Growing Up](https://integrallife.com/growing-up-a-guided-tour/) stages. While the
 color codes may seem cryptic, don’t get too tripped up. They don’t
 correspond to chakras, political parties, cultures, or anything else,
 really.
@@ -129,7 +136,7 @@ Name, followed by its Color, Theme, and Archetype in parentheses.
 In the beginning I was almost like an automaton,
 thoughtlessly performing the actions that would keep me alive.
 
-~ Patrick Rothfuss, [Name of the Wind](https://www.google.com/url?q=https://patrickrothfuss.com/content/books.html&sa=D&source=editors&ust=1764912760092470&usg=AOvVaw2Ltgx-qxvNi3Jb-4TQJhZh)
+~ Patrick Rothfuss, [Name of the Wind](https://patrickrothfuss.com/content/books.html)
 
 At this foundational level, individuals operate purely
 from instinct, driven by survival needs alone. There is no awareness of
@@ -161,7 +168,7 @@ exercising agency.
 I'll make believe you are who you think you are if you
 make believe I am who I think I am.
 
-~ [Ram Dass](https://www.google.com/url?q=https://beherenownetwork.com/category/ram-dass/&sa=D&source=editors&ust=1764912760095158&usg=AOvVaw3VryZoiMGrimEspoS3h5jh)
+~ [Ram Dass](https://beherenownetwork.com/category/ram-dass/)
 
 As we evolve, our personalities take shape through the
 influence of cultural and mythical archetypes. We model ourselves after
@@ -194,7 +201,7 @@ that which enriches the physical form.
 If we truly loved ourselves, we would never harm
 another because we are all interconnected.
 
-~ Sharon Salzberg, [Lovingkindness](https://www.google.com/url?q=https://www.sharonsalzberg.com/lovingkindness&sa=D&source=editors&ust=1764912760097124&usg=AOvVaw17QCT4CspbFeFazNGUCVgH)
+~ Sharon Salzberg, [Lovingkindness](https://www.sharonsalzberg.com/lovingkindness)
 
 Here, behavior is driven by an often unconscious urge
 to alleviate emotional pain. Without self-love, the tendency is to exert
@@ -248,7 +255,7 @@ Like I'm close to something real
 I wanna find something I've wanted all along:
 Somewhere I belong
 
-~ Linkin Park, [Somewhere I Belong](https://www.google.com/url?q=https://linkinpark.com&sa=D&source=editors&ust=1764912760100240&usg=AOvVaw1cb2hdH2Sc4TqKAalfs5NI)
+~ Linkin Park, [Somewhere I Belong](https://linkinpark.com)
 
 This stage is defined by external expectations. People
 behave according to their roles in relationships and society, seeing
@@ -292,7 +299,7 @@ worse.
 Do you want a song of glory?
 Well I'm fucking screaming… at you
 
-~ The Used, [A Box Full of Sharp Objects](https://www.google.com/url?q=https://theused.net&sa=D&source=editors&ust=1764912760103598&usg=AOvVaw0nbR9cSf9M6DhAEY9jt1lb)
+~ The Used, [A Box Full of Sharp Objects](https://theused.net)
 
 Here, individuals chase external validation:
 achievement, money, status, and recognition. Free Will is still largely
@@ -328,11 +335,11 @@ Each thing has its own intrinsic value
 And is related to everything else in function and position.
 
 ~ Eihei Dogen, The Song of the Precious Mirror Samadhi
-(via Deborah Eden Tull, quoted in [Luminous Darkness](https://www.google.com/url?q=https://www.deborahedentull.com/luminous-darkness&sa=D&source=editors&ust=1764912760105420&usg=AOvVaw1u7W4oWcx8ME7iDN9SqBxM))
+(via Deborah Eden Tull, quoted in [Luminous Darkness](https://www.deborahedentull.com/luminous-darkness))
 
 Pluralistic thinking emerges here, where fairness,
 inclusivity, and moral virtue become priorities. This is a stage when
-the venerable [bell hooks](https://www.google.com/url?q=https://bellhooksbooks.com/&sa=D&source=editors&ust=1764912760105689&usg=AOvVaw2aHUUbtsSoVrAZpKqOpBrN)’ rightly decried
+the venerable [bell hooks](https://bellhooksbooks.com/)’ rightly decried
 hegemony, “Colonialist, White-Supremacist, Capitalist Patriarchy,” is
 the villain oppressing the edges that we now wish to center. It seems
 that single-mindedly opposing that dominator power structure is the only
@@ -376,7 +383,7 @@ can coexist… But—and this is the incredibly important point—put all the
 scientific results together, from all the relevant scientific
 disciplines, and there’s no room for free will.
 
-~ Robert Sapolsky, [Determined](https://www.google.com/url?q=https://humsci.stanford.edu/feature/determined-science-life-without-free-will-robert-m-sapolsky-biology&sa=D&source=editors&ust=1764912760108103&usg=AOvVaw2K3k_BWs0rYrRokHNHCCxU)
+~ Robert Sapolsky, [Determined](https://humsci.stanford.edu/feature/determined-science-life-without-free-will-robert-m-sapolsky-biology)
 
 At this Integrative stage, individuals begin to see the
 totality of their conditioning—biological, cultural, psychological. The
@@ -422,7 +429,7 @@ Make the smallest distinction, however,
 and heaven and earth are set infinitely apart.
 
 ~ [The Third Chinese Patriarch of Zen, Hsin Hsin Ming by
-Seng-T'san](https://www.google.com/url?q=https://home.csulb.edu/~wweinste/HsinHsinMing.html&sa=D&source=editors&ust=1764912760110337&usg=AOvVaw2LoqNdktVK_Wc2xGPrmGrd)
+Seng-T'san](https://home.csulb.edu/~wweinste/HsinHsinMing.html)
 
 With enough continued perseverance, the next stage helps you connect with your True Self—the transcendent aspect of you that exists beyond personality and conditioning.
 
@@ -463,7 +470,7 @@ their own agenda.
 
 We are as gods. We might as well become good at it.
 
-~ [Stuart Brand](https://www.google.com/url?q=https://www.weareasgods.film&sa=D&source=editors&ust=1764912760112374&usg=AOvVaw1MZ2pHia-Nv8XnW1bWBn2x)
+~ [Stuart Brand](https://www.weareasgods.film)
 
 That whole Free Will experience didn’t really last
 long, did it?
@@ -535,7 +542,7 @@ We all know that after the honeymoon comes the
 marriage... In spiritual life it is the same: After the ecstasy comes
 the laundry.
 
-~ Jack Kornfield, [After the Ecstasy the Laundry](https://www.google.com/url?q=https://jackkornfield.com/after-the-ecstasy-the-laundry/&sa=D&source=editors&ust=1764912760117241&usg=AOvVaw1xvAo4kUwWU3pkq9aRgdcS)
+~ Jack Kornfield, [After the Ecstasy the Laundry](https://jackkornfield.com/after-the-ecstasy-the-laundry/)
 
 At the culmination of APTITUDE, we explore how the
 illusion of an individual separate from the cosmos might disappear.
