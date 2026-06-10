@@ -10,7 +10,7 @@ This folder contains the modular sections for the YELLOW stage of the APTITUDE c
 - [The Journaling Prompts of Yellow](./03-the-journaling-prompts-of-yellow.md)
 - [Deepening the Prompts: Advanced Journaling for Yellow](./04-deepening-the-prompts-advanced-journaling-for-yellow.md)
 - [The Relationship to Free Will at Yellow: Intentional Actor](./05-the-relationship-to-free-will-at-yellow-intentional-actor.md)
-- [The Vibe Wavelength of Yellow: Integrate (Do)](./06-the-vibe-wavelength-of-yellow-integrate-do.md)
+- [The Mode of the Wavelength of Yellow: Integrate (Do)](./06-the-vibe-wavelength-of-yellow-integrate-do.md)
 - [The Practice of Yellow: Blissy Meditation](./07-the-practice-of-yellow-blissy-meditation.md)
 - [The Neuroscience of 45-Minute Sits](./08-the-neuroscience-of-45-minute-sits.md)
 - [What to Track: Building Your Practice Log](./09-what-to-track-building-your-practice-log.md)

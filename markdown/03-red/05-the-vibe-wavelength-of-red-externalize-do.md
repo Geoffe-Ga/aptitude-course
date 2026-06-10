@@ -4,18 +4,18 @@ stage: 3
 chapter: 5
 order: 5
 slug: the-vibe-wavelength-of-red-externalize-do
-title: "The Vibe Wavelength of Red: Externalize (Do)"
+title: "The Mode of the Wavelength of Red: Express (Do)"
 content_type: chapter
 release_day: 4
 media: []
 ---
 
-## The Vibe Wavelength of Red: Externalize (Do)
+## The Mode of the Wavelength of Red: Express (Do)
 
 This stage continues our exploration of the Archetypal Wavelength—APTITUDE’s core model for understanding how all energy moves in cycles. If you haven’t yet read the foundational Philosophy material, now’s a great time to check it out. It’s the ground we build on.
 
 In each stage of the spiral, we explore a different energetic rhythm.
-Red is the first that moves outward. Where Beige taught you to “Do” from within—building structure and habits for your own sake—Red brings that doing into the world. This is the Wavelength of Externalize (Do).
+Red is the first that moves outward. Where Beige taught you to “Do” from within—building structure and habits for your own sake—Red brings that doing into the world. This is the Wavelength of Express (Do).
 
 Here, you begin acting in visible, relational, impactful ways. This is where power meets friction. Where your voice gets loud, your boundaries get real, and your intentions start colliding—or harmonizing—with other people’s paths.
 
@@ -36,7 +36,7 @@ OD: Power-Over—asserting control to suppress difference or dissent.
 Withdrawal Rx: Stepping Back—the courage to pause, reassess, and make room.
 OD: Crumbling—losing grip, collapsing under the weight of unmet needs.
 
-Diminishing Rx: Humility—recognizing your limits without shame.
+Diminishing Rx: Self-Acceptance—recognizing your limits without shame.
 OD: Shame—believing your worth depends on dominance or perfection.
 
 Bottoming Out Rx: Following—willingly receiving leadership or guidance.

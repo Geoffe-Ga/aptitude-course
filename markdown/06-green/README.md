@@ -9,7 +9,7 @@ This folder contains the modular sections for the GREEN stage of the APTITUDE co
 - [The Mood of Green: Understanding—Embodied Understanding](./02-the-mood-of-green-understandingembodied-understanding.md)
 - [The Journaling Prompts of Green](./03-the-journaling-prompts-of-green.md)
 - [The Relationship to Free Will at Green: Shadow Glorifier](./04-the-relationship-to-free-will-at-green-shadow-glorifier.md)
-- [The Vibe Wavelength of Green: Collaborate (Feel)](./05-the-vibe-wavelength-of-green-collaborate-feel.md)
+- [The Mode of the Wavelength of Green: Collaborate (Feel)](./05-the-vibe-wavelength-of-green-collaborate-feel.md)
 - [The Practice of Green: Shadow Work Ritual](./06-the-practice-of-green-shadow-work-ritual.md)
 - [What to Expect: The First Month of Shadow Work](./07-what-to-expect-the-first-month-of-shadow-work.md)
 - [Advanced Shadow Work: Going Deeper](./08-advanced-shadow-work-going-deeper.md)

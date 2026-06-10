@@ -33,7 +33,7 @@ I am nobody special and this has worked for me. Stick to the process and it just
 The temptation to not embrace the cycle is less of a slippery slope, and more of a slippery loop.
 
 This is the definition of spiraling out of control.
-It’s like the psychedelic funhouse mirror of the Internalize Wavelength when you go so far past the Overdose that you end up in the land of psychosis, paranoia, or self-destruction.
+It’s like the psychedelic funhouse mirror of the Inhabit Wavelength when you go so far past the Overdose that you end up in the land of psychosis, paranoia, or self-destruction.
 
 Apart from my experience with DBT, I’ve never seen this quality of the search mentioned in spiritual or self-help books: the part that starts with voraciously chowing down on too much light… and ends cramped up in way too much darkness.
 

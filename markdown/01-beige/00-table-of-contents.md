@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Beige](#the-relationship-to-free-will-at-beige)
 
-[The Vibe Wavelength of Beige: Internalize (Do)](#the-vibe-wavelength-of-beige-internalize-do)
+[The Mode of the Wavelength of Beige: Inhabit (Do)](#the-mode-of-the-wavelength-of-beige-inhabit-do)
 
 [The Grounding Protocol: 5-4-3-2-1](#the-grounding-protocol-5-4-3-2-1)
 
@@ -20,7 +20,7 @@
 
 [The Four Gates of Habit Alchemy](#the-four-gates-of-habit-alchemy)
 
-[“INTERNALIZE (Do)”](#internalize-do)
+[“INHABIT (Do)”](#inhabit-do)
 
 [In Summary](#in-summary)
 

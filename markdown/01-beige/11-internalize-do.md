@@ -4,13 +4,13 @@ stage: 1
 chapter: 11
 order: 11
 slug: internalize-do
-title: "“INTERNALIZE (Do)”"
+title: "“INHABIT (Do)”"
 content_type: chapter
 release_day: 10
 media: []
 ---
 
-## “INTERNALIZE (Do)”
+## “INHABIT (Do)”
 
 Approaching the Archetypal Wavelength from the perspective of Beige, one option is to observe and improve the energetic rhythm of building habits. In this Agentic Yes-And-Ness Aspect of Whole Adepthood, the Wavelength can be thought of as the core behaviors that take care of your meat.
 
@@ -19,11 +19,11 @@ These are the foundational behaviors that you repeat weekly, daily, hourly. Thos
 This Wavelength is Divine Masculine in flavor—not in material, embodied, or social gender, but in archetypal function:
 active, directional, committed. It’s how you start to “Do” what must be done to stabilize your life, your energy, and your trust in yourself.
 
-Where does “Internalize” come from?
+Where does “Inhabit” come from?
 
-Because the Stage corresponds to personal action, I’ve chosen to depict the Beige Wavelength through the lens of what happens when you take accountability for your own motion through the ups and downs. It is “Internal” in the sense that it deals with a personal experience mediated through your own personal will, agency, and authority.
+Because the Stage corresponds to personal action, I’ve chosen to depict the Beige Wavelength through the lens of what happens when you take accountability for your own motion through the ups and downs. You “Inhabit” it in the sense that this wave is lived from the inside—a personal experience mediated through your own will, agency, and authority.
 
-The next Stage—the Purple, receptive “Yes” in Yes-And-Ness—will also be discussed through the lens of that Rising, Peaking, Withdrawal, Diminishing, Bottoming Out, and Restoration that is Internal to your personal experience. The difference will be that Purple, as a receptive Divine Feminine Stage, will be depicted as a “Feeling” wave.
+The next Stage—the Purple, receptive “Yes” in Yes-And-Ness—will also be discussed through the lens of that Rising, Peaking, Withdrawal, Diminishing, Bottoming Out, and Restoration that you Inhabit within your personal experience. The difference will be that Purple, as a receptive Divine Feminine Stage, will be depicted as a “Feeling” wave.
 
 This pattern will continue for all the hot (Divine Masculine, I, Individual, Self-Expressing) and cool (Divine Feminine, We, Collective, Self-Sacraficing) colors of the spiral of APTITUDE. For example the pair of Red’s Divine Masc “Doing” and Blue’s Divine Femme “Feeling” will look at the Wavelength from the perspective of what happens when you project your experience of the rhythms of life outside of yourself. Red looks at how to “Do” a healthy relationship with Power in relationship to others. Blue looks at how to “Feel” an effective, skillful experience of Relating to the outside world.
 
@@ -61,7 +61,7 @@ Let’s take a look at the Beige Stage’s Wavelength through the lens of the po
 ### 1. RISING
 
 - Rx: Commitment
-- OD: Over-commitment
+- OD: Overcommitment
 
 You undoubtedly recognize the mood state where energy blows into your system like nourishing oxygen after a too-long period underwater. That energy to finally be Doing something again after a period of overwhelm and inadequacy can be a godsend. The sense of confidence and joy… We’ll talk about the Feeling aspect of it later.
 
@@ -71,7 +71,7 @@ A promise to do better, be better. To grow. Often, I already feel my energy risi
 
 But alas. I get puffed up on that feeling like a balloon stretched to bursting and before I know it I’ve signed up for six different self-improvement seminars, scheduled myself for daily 4 a.m. cold plunges, and promised to journal, juice, run and start a business by next week.
 
-Yup. That’s Over-commitment. That’s the overdose. And it feels like rocket fuel—great until you get too high on it and end up crashing.
+Yup. That’s Overcommitment. That’s the overdose. And it feels like rocket fuel—great until you get too high on it and end up crashing.
 
 Energy Scaffolding Recommendation: Pick one habit. Commit like an ascetic householder monk. That’s what medicine looks like.
 
@@ -175,7 +175,7 @@ Giving yourself that grace feels great. It’s what makes this practice sustaina
 
 And through practicing returning to commitment, again and again, viewing yourself as self-efficacious gets easier. This is how Free Will becomes not only possible, but an obvious explanation for why you do the things you do.
 
-Even on the fractally smaller scale of the energy fluctuations of a single Habit adoption cycle, the medicine during the Diminishing Phase of the “Internalize (Do)” Wavelength is Security—the rooted knowledge that your identity isn’t tied to performance.
+Even on the fractally smaller scale of the energy fluctuations of a single Habit adoption cycle, the medicine during the Diminishing Phase of the “Inhabit (Do)” Wavelength is Security—the rooted knowledge that your identity isn’t tied to performance.
 
 After all, you are already Whole. You can’t achieve perfection any more than you can achieve having a pair of lungs. You incarnated here with both lungs and Wholeness. You’re already everything you aspire to be.
 
@@ -191,7 +191,7 @@ Scaffolding Response: Keep on working the program. Even a micro-dose counts. Le
 
 ### 5. BOTTOMING OUT
 
-- Rx: Stability
+- Rx: Planning
 - OD: Overwhelm
 
 
@@ -199,7 +199,7 @@ The energy of Bottoming Out as represented by this Wavelength is extremely diffe
 
 The inevitable valleys you will encounter in each creative act, habit building endeavor, or life optimization project don’t need to be a cause for fear and trepidation.
 
-Although the Lows will come, I have found that when I resist resistance itself and lean in to Radical Acceptance — which we’ll talk more about during the next up Purple stage — I am able to shift from an attitude of Overwhelm to one of relaxed Stability.
+Although the Lows will come, I have found that when I resist resistance itself and lean in to Radical Acceptance — which we’ll talk more about during the next up Purple stage — I am able to shift from an attitude of Overwhelm to one of relaxed Planning—trusting tomorrow’s me with tomorrow’s problems.
 
 Often the sense will come at 2 AM: you’ll be lying in an insomniac stupor running through all of the problems that demand your attention. When you find yourself worrying that your contributions are inadequate to prevent the coming AI, alien, racist, fascist, climate, political, public health, meaning, meta, poly, (etc) crises, it’s time to recognize that the apocalypse is not a job that needs an immediate solution from a sleep deprived Adept with a touch of the depressies.
 
@@ -211,8 +211,9 @@ I have made  “I don’t need to solve that right now” and “that’s not a
 
 Overwhelm is an OD of the feeling that you just don’t have the energy you need to dig yourself out of a future that might not come.
 
-Stability is the alternative.
-You get to have Stability when you allow yourself to rest in your low energy. This is where all the work you’ve been putting in becomes deeply embedded. If you calibrate your sense of the necessity of rest toward the effective, you can vent off the extra Bottoming Out darkness that doesn’t serve you.
+Planning is the alternative.
+
+Planning—in its Bottoming Out dosage—isn’t doing. It’s the quiet act of deciding when and where a problem will get your attention, so that it can stop demanding it now. You get to rest in your low energy precisely because the next step has a place to live that isn’t your 2 AM mind. This is where all the work you’ve been putting in becomes deeply embedded. If you calibrate your sense of the necessity of rest toward the effective, you can vent off the extra Bottoming Out darkness that doesn’t serve you.
 
 Scaffolding Response: Every emotion has a message. Every phase of the Wavelength serves a purpose. By listening when your body asks you to contract, you can honor its directives. You can avoid the collapse that comes from the inevitable explosion that arises when we try to pretend the shadow doesn’t exist.
 
@@ -228,7 +229,7 @@ Scaffolding Response: Every emotion has a message. Every phase of the Wavelength
 
 The relief of Restoration often feels like it can never come soon enough. We’ll discuss strategies to limit the duration of your low periods (and to maximize the productivity, inspiration, and good vibes of your high periods without getting the pendulum swinging too dangerously) later on in the course.
 
-But when it comes to this “Internal” expression of the Archetypal Wavelength, where we are discussing this first Do-ing aspect of Wholeness, the Restoration phase takes on a slightly different meaning.
+But when it comes to this “Inhabit” expression of the Archetypal Wavelength, where we are discussing this first Do-ing aspect of Wholeness, the Restoration phase takes on a slightly different meaning.
 
 We aren’t talking about emotions like Recuperation, Catharsis, or Bitterness, although those are all characteristics of the Restoration Phase that we’ll explore in later Stages. We’re talking about the simple actions that comprise the work of keeping your promises to yourself, building habits and developing a sense of agency, self-efficacy, integrity and reliability.
 

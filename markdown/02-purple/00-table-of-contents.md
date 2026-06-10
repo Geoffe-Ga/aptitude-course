@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Purple: Archetype Embodier](#the-relationship-to-free-will-at-purple-archetype-embodier)
 
-[The Vibe Wavelength of Purple: Internalize (Feel)](#the-vibe-wavelength-of-purple-internalize-feel)
+[The Mode of the Wavelength of Purple: Inhabit (Feel)](#the-mode-of-the-wavelength-of-purple-inhabit-feel)
 
 [The Practice of Purple: A Daily Tarot Draw](#the-practice-of-purple-a-daily-tarot-draw)
 
@@ -24,7 +24,7 @@
 
 [Purple’s Shadow: Delusions of Reference and Magical Thinking](#purples-shadow-delusions-of-reference-and-magical-thinking)
 
-[“INTERNALIZE (Feel)”](#internalize-feel)
+[“INHABIT (Feel)”](#inhabit-feel)
 
 [“Pranasynthesis” as the Cure for Depression](#pranasynthesis-as-the-cure-for-depression)
 
@@ -44,8 +44,8 @@ The Journaling Prompts of Purple        4
 
 The Relationship to Free Will at Purple: Archetype Embodier        5
 
-The Vibe Wavelength of Purple:
-Internalize (Feel)        7
+The Mode of the Wavelength of Purple:
+Inhabit (Feel)        7
 
 The Practice of Purple: A Daily Tarot Draw        10
 
@@ -93,7 +93,7 @@ Radical Acceptance        30
 
 Purple’s Shadow: Delusions of Reference and Magical Thinking        30
 
-“INTERNALIZE (Feel)”        32
+“INHABIT (Feel)”        32
 
 1. RISING        33
 

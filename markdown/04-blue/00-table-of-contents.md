@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Blue: Victim](#the-relationship-to-free-will-at-blue-victim)
 
-[The Vibe Wavelength of Blue: Express (Feel)](#the-vibe-wavelength-of-blue-express-feel)
+[The Mode of the Wavelength of Blue: Express (Feel)](#the-mode-of-the-wavelength-of-blue-express-feel)
 
 [The Practice of Blue: Metta Meditation](#the-practice-of-blue-metta-meditation)
 

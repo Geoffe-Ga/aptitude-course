@@ -9,7 +9,7 @@ This folder contains the modular sections for the TEAL stage of the APTITUDE cou
 - [The Mood of Teal: Freedom—True Self Connection](./02-the-mood-of-teal-freedomtrue-self-connection.md)
 - [The Journaling Prompts of Teal](./03-the-journaling-prompts-of-teal.md)
 - [The Relationship to Free Will at Teal: True Self Embodier](./04-the-relationship-to-free-will-at-teal-true-self-embodier.md)
-- [The Vibe Wavelength of Teal: Integrate (Feel)](./05-the-vibe-wavelength-of-teal-integrate-feel.md)
+- [The Mode of the Wavelength of Teal: Integrate (Feel)](./05-the-vibe-wavelength-of-teal-integrate-feel.md)
 - [The Practice of Teal: Dog Walkin' Shamanism](./06-the-practice-of-teal-dog-walkin-shamanism.md)
 - [Alternatives for Teal Practice](./07-alternatives-for-teal-practice.md)
 - [The Practice Decoded: What Dog Walkin' Shamanism Actually Is](./08-the-practice-decoded-what-dog-walkin-shamanism-actually-is.md)

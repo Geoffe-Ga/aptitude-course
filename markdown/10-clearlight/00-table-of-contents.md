@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Clear Light: Adept](#the-relationship-to-free-will-at-clear-light-adept)
 
-[The Vibe Wavelength of Clear Light: Be (Neither/All)](#the-vibe-wavelength-of-clear-light-be-neither-all)
+[The Mode of the Wavelength of Clear Light: Be (Both/Neither)](#the-mode-of-the-wavelength-of-clear-light-be-both-neither)
 
 [The Practice of Clear Light: Cultivating Vipassana](#the-practice-of-clear-light-cultivating-vipassana)
 

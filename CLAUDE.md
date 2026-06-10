@@ -39,7 +39,7 @@ Each stage file (~11,000-14,000 words) follows this pattern:
 - **The Mood of [Stage]** - Core quality (Rx/Medicine) with Integrated/Repressed/Excessive expressions
 - **Journaling Prompts** - 4 prompts, 4x/week minimum
 - **Relationship to Free Will** - Archetype and developmental view
-- **Vibe Wavelength** - Mode (Inhabit/Express/Collaborate/Integrate/Absorb/Be)
+- **Mode of the Wavelength** - Mode (Inhabit/Express/Collaborate/Integrate/Absorb/Be)
 - **The Practice** - Primary meditative/embodied practice with duration
 - **Alternatives for [Stage] Practice** - Multiple alternative practices of same duration
 - **Default Habit** - Ongoing habit to build during 21-day stage

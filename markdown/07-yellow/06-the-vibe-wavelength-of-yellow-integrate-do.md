@@ -4,13 +4,13 @@ stage: 7
 chapter: 6
 order: 6
 slug: the-vibe-wavelength-of-yellow-integrate-do
-title: "The Vibe Wavelength of Yellow: Integrate (Do)"
+title: "The Mode of the Wavelength of Yellow: Integrate (Do)"
 content_type: chapter
 release_day: 5
 media: []
 ---
 
-## The Vibe Wavelength of Yellow: Integrate (Do)
+## The Mode of the Wavelength of Yellow: Integrate (Do)
 
 Yellow introduces the fourth Mode: **Integrate**. Where Inhabit (Beige, Purple) was about internal foundation, Express (Red, Blue) was about externalizing, and Collaborate (Orange, Green) was about co-creation, Integrate is about *synthesis*. You're taking all the parts and weaving them into a coherent whole.
 

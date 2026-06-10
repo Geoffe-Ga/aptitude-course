@@ -4,13 +4,13 @@ stage: 3
 chapter: 12
 order: 12
 slug: externalize-do
-title: "“EXTERNALIZE (Do)”"
+title: "“EXPRESS (Do)”"
 content_type: chapter
 release_day: 11
 media: []
 ---
 
-## “EXTERNALIZE (Do)”
+## “EXPRESS (Do)”
 
 ![](../images/images/image1.png)
 

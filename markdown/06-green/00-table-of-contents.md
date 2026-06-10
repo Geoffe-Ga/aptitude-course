@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Green: Shadow Glorifier](#the-relationship-to-free-will-at-green-shadow-glorifier)
 
-[The Vibe Wavelength of Green: Collaborate (Feel)](#the-vibe-wavelength-of-green-collaborate-feel)
+[The Mode of the Wavelength of Green: Collaborate (Feel)](#the-mode-of-the-wavelength-of-green-collaborate-feel)
 
 [The Practice of Green: Shadow Work Ritual](#the-practice-of-green-shadow-work-ritual)
 
