@@ -1,6 +1,6 @@
 
 
-![](../markdown/images/images/image1.png)
+![](images/images/image1.png)
 
 ------------------------------------------------------------------------
 

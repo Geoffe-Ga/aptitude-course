@@ -18,7 +18,7 @@ This folder contains the modular sections for the BEIGE stage of the APTITUDE co
 - [“INTERNALIZE (Do)”](./11-internalize-do.md)
 - [In Summary](./12-in-summary.md)
 - [The Sacred High—and the Temptation to Stay There Forever](./13-the-sacred-highand-the-temptation-to-stay-there-forever.md)
-- [When You Don’t Ground, You Ascend Into Disconnection](./14-when-you-dont-ground-you-ascend-into-disconnection.md)
+- [When You Don’t Ground, You Ascend Into Disconnection](./14-when-you-dont-ground-you-float-into-disconnection.md)
 - [And then… the dangerous temptation to repeat](./15-and-then-the-dangerous-temptation-to-repeat.md)
 - [The 5-4-3-2-1 Technique (Your Root Chakra Reset)](./16-the-5-4-3-2-1-technique-your-root-chakra-reset.md)
 - [Alternative Practice Options](./17-alternative-practice-options.md)

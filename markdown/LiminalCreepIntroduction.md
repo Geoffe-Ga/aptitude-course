@@ -24,7 +24,7 @@ and grounded. They are
 in radical self-ownership, capable of playing
 the game without the game playing them.
 
-![](../markdown/images/images/image1.jpg)
+![](images/images/image1.jpg)
 
 APTITUDE is the bridge between Creep and Adept. It
 takes you from self-sabotage to self-mastery. From disempowered

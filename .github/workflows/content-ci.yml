@@ -1,0 +1,74 @@
+# Content CI (issue #21)
+#
+# The Adepthood app vendors a pinned commit of this repo, so a malformed
+# chapter or a drifted manifest would break the live Course screen. This
+# workflow is the first line of defense: broken content never reaches a
+# pinned SHA.
+#
+# Branch protection: mark these status checks as required on `main`:
+#   - Frontmatter + manifest
+#   - Markdown lint
+#   - Internal links
+#
+# No secrets are used; everything runs offline against the checkout.
+
+name: Content CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  manifest:
+    name: Frontmatter + manifest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install tooling
+        run: pip install -r scripts/requirements.txt
+
+      # Validates every chapter's frontmatter (required fields, types,
+      # id/(stage,chapter) uniqueness, slug↔filename match), validates the
+      # manifest against schema/manifest.schema.json, and fails if the
+      # committed manifest.json differs from a fresh build (drift check).
+      - name: Build manifest + drift check
+        run: python scripts/build_manifest.py --check
+
+  lint:
+    name: Markdown lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Enforces CONTENT_FORMAT.md §2.2 (no raw HTML) plus structural
+      # correctness rules. Config: .markdownlint-cli2.jsonc
+      - name: markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          config: .markdownlint-cli2.jsonc
+          globs: |
+            markdown/**/*.md
+            !markdown/backup/**
+            *.md
+
+  links:
+    name: Internal links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Stdlib-only: verifies every internal link and image target in
+      # markdown/** resolves on disk. External URLs are skipped (no network).
+      - name: Check internal links + images
+        run: python3 scripts/check_links.py

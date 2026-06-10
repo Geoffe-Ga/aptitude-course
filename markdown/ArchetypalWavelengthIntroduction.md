@@ -1,4 +1,4 @@
-![](../markdown/images/images/image1.png)
+![](images/images/image1.png)
 
 ### Whole Adepts Surf the Archetypal Wavelength
 

@@ -28,7 +28,7 @@ I am nobody special and this has worked for me. Stick to the process and it just
 
 ------------------------------------------------------------------------
 
-![](../markdown/images/images/image1.png)
+![](../images/images/image1.png)
 
 The temptation to not embrace the cycle is less of a slippery slope, and more of a slippery loop.
 
