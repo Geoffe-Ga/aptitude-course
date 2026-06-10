@@ -19,6 +19,7 @@ This folder contains the modular sections for the BLUE stage of the APTITUDE cou
 - [Blue's Shadow: The Drama Triangle (Victim, Villain, Savior)](./12-blues-shadow-the-drama-triangle-victim-villain-savior.md)
 - ["EXPRESS (Feel)"—Full 6-Phase Wavelength Breakdown](./13-express-feelfull-6-phase-wavelength-breakdown.md)
 - [Practicing Love Off the Cushion](./14-practicing-love-off-the-cushion.md)
+- [The Return Journey: Five Weeks of Metta for When Life Becomes Unmanageable](./15-the-return-journey-five-weeks-of-metta.md)
 
 ## Navigation
 
@@ -30,4 +31,4 @@ This folder contains the modular sections for the BLUE stage of the APTITUDE cou
 
 Original monolithic file: `../4.BLUE.md` (preserved as backup)
 
-Total sections: 15
+Total sections: 16
