@@ -1,7 +1,7 @@
 ## “INTERNALIZE (Feel)”
 
-Approaching the Archetypal Wavelength from the perspective of Purple means shifting from Doing to Feeling. This is the Internalize (Feel)
-cycle—the Divine Feminine expression of Yes-And-Ness. If Beige is about stabilizing your life through embodied action and structure, Purple explores how we emotionally metabolize our experience. It's the part of the spiral where you're not building habits with your hands, you're weathering moods with your heart.
+Approaching the Archetypal Wavelength from the perspective of Purple means shifting from Doing to Feeling. This is the Internalize (Feel)
+cycle—the Divine Feminine expression of Yes-And-Ness. If Beige is about stabilizing your life through embodied action and structure, Purple explores how we emotionally metabolize our experience. It's the part of the spiral where you're not building habits with your hands, you're weathering moods with your heart.
 
 Like Beige, this Stage is internal—it's still about what happens inside of you, still mediated through your own perception and authority. But where Beige tracked the rhythm of physical action and the forging of foundational behaviors, Purple tracks the somatic rhythm of emotional states. It’s not about getting things done. It’s about being with what arises.
 
@@ -12,13 +12,13 @@ You’ll see the same six-phase cycle—Rising, Peaking, Withdrawal, Diminishing
 You don’t need to memorize the phases right now.
 Just know that this internal Feel Wavelength will prepare you for later Stages that explore outward relational emotions (like Blue) and collective embodied emotions (like Teal). Each pair of Stages will walk you through the Wavelength’s pulse from a different perspective—one masculine, one feminine; one active, one receptive; one individual, one collective.
 
-As always, you can reference the image gallery when needed. These graphics are designed to help you recognize where you are on the wave—not just intellectually, but emotionally. With this awareness, you can begin to soften your grip on moods when they surge, hold them gently as they pass through, and reclaim agency by feeling skillfully rather than reacting blindly.
+As always, you can reference the image gallery when needed. These graphics are designed to help you recognize where you are on the wave—not just intellectually, but emotionally. With this awareness, you can begin to soften your grip on moods when they surge, hold them gently as they pass through, and reclaim agency by feeling skillfully rather than reacting blindly.
 
 The goal here isn’t to control your feelings.
 
-It’s to befriend them.
+It’s to befriend them.
 
-<img src="../markdown/images/images/image2.png"
+![](../markdown/images/images/image2.png)
 
 ### 1. RISING
 
@@ -26,7 +26,7 @@ It’s to befriend them.
 - OD: Grandiosity
 
 Rising in the Internalize (Feel) Wavelength is the soft ignition of emotional momentum. Something lights up inside you—a spark of curiosity, wonder, creative longing, or intuitive resonance. It might not be a full idea or plan yet, but it’s alive. You feel stirred. Energized. Slightly more radiant than usual.
-Inspiration arrives as a whisper, a shimmer, a pull toward something meaningful.
+Inspiration arrives as a whisper, a shimmer, a pull toward something meaningful.
 
 This isn’t Beige’s grinding motivation or Red’s fierce determination. This is more like the breath before the song begins, or the lift of your chest as a story opens with promise. It’s subtle, but unmistakable. You start noticing beauty. Possibility. A desire to engage.
 
@@ -34,7 +34,7 @@ But the overdose of this phase—Grandiosity—can creep in fast if you’re ung
 
 The work of Rising, then, is to let yourself feel lifted without floating away. Let yourself glow without needing to blaze. Inspiration wants to move through you—but not inflate you. Can you be the flute, not the fanfare?
 
-When this phase is skillfully felt, it opens your heart. You reconnect to purpose. Your mood gently rises. You remember what it feels like to want something again.
+When this phase is skillfully felt, it opens your heart. You reconnect to purpose. Your mood gently rises. You remember what it feels like to want something again.
 
 Let that wanting guide you—but stay receptive. Stay humble. And remember: the wave hasn’t peaked yet. This is just the first swell.
 
@@ -43,16 +43,16 @@ Let that wanting guide you—but stay receptive. Stay humble. And remember: the 
 - Rx: Joy
 - OD: Ecstasy
 
-Peaking in the Internalize (Feel) Wavelength is the full bloom of the emotion that began in Rising. If Inspiration is the opening chord, Joy is the crescendo. You’re lit up. The colors feel richer, music hits deeper, and connection—whether with people, ideas, or the divine—feels effortless.
+Peaking in the Internalize (Feel) Wavelength is the full bloom of the emotion that began in Rising. If Inspiration is the opening chord, Joy is the crescendo. You’re lit up. The colors feel richer, music hits deeper, and connection—whether with people, ideas, or the divine—feels effortless.
 This is the apex of the wave’s vitality, where everything clicks and you feel aligned with something larger than yourself.
 
 Joy, in this dosage, is clean. Present. Grounded. It’s not manic—it’s radiant. You’re not escaping from pain; you’re fully here, and it feels good. This kind of joy can be quiet or loud, solitary or shared, but it always carries that unmistakable feeling: this moment is enough.
 
-But when the charge becomes too much to hold, when you chase that feeling or inflate it to escape discomfort, you tip into Ecstasy. Not the bliss of meditative stillness—this is the kind that overwhelms. The nervous system gets flooded. Your thoughts race. You feel too much meaning, too much truth, too much self. The high loses its clarity and becomes destabilizing.
+But when the charge becomes too much to hold, when you chase that feeling or inflate it to escape discomfort, you tip into Ecstasy. Not the bliss of meditative stillness—this is the kind that overwhelms. The nervous system gets flooded. Your thoughts race. You feel too much meaning, too much truth, too much self. The high loses its clarity and becomes destabilizing.
 
 Ecstasy, in this overdose form, disconnects you from integration. You become enchanted by the sensation itself and lose the thread of how it fits into the larger cycle. It’s a spiritual sugar rush, and the crash is coming.
 
-The skill here is to savor the joy without grasping. Let it fill you, yes—but also let it move. Feel it fully and let it pass. Joy is not something to own—it’s something to be present with while it’s visiting.
+The skill here is to savor the joy without grasping. Let it fill you, yes—but also let it move. Feel it fully and let it pass. Joy is not something to own—it’s something to be present with while it’s visiting.
 
 You’ve reached the top of the emotional wave. There is nothing wrong with being here. Just don’t try to live here forever.
 
@@ -82,15 +82,13 @@ This is the part of the wave that teaches you to listen. Not for signs. Not for 
 - OD: Self-Doubt
 
 Diminishing marks the descent into quiet. Energy recedes. Your inner world becomes less vibrant, less urgent. The brightness of Peaking fades into past tense, and with it, your need to perform begins to dissolve.
-If you allow yourself to be receptive to this shift—if you don’t try to muscle through it with Beige-style Doing—you’re met with Tranquility. The soft glow of a world that no longer needs to impress you. The peace that arrives when effort is set down.
+If you allow yourself to be receptive to this shift—if you don’t try to muscle through it with Beige-style Doing—you’re met with Tranquility. The soft glow of a world that no longer needs to impress you. The peace that arrives when effort is set down.
 
 But if you meet this descent with resistance—if you yearn for the light that was, and grasp at the feeling you once had—you’re met not with peace, but with Self-Doubt. That’s the cost of treating a Feminine phase with Masculine energy. You start asking yourself whether you’ve lost it. Whether you ever had it. You feel like you should be doing more—even when the wave is telling you to do less.
 
 This OD arises from wishing it were otherwise.
 
-
 Through grasping at past Peaks, you deepen the valley that your energy is drawing you into. What might be a soft bed to lie down on becomes a pit that you plummet into. By denying that the descent is happening, you relegate it to the shadow, where it has no choice but to demand—with a screaming, stomping tantrum—that you listen.
-
 
 That tantrum is what increases the dosage of Diminishing beyond Medicine and into Overdose.
 
@@ -105,7 +103,7 @@ The invitation is simple: soften. Rest. Feel the stillness. Let the tide pull ba
 
 Bottoming Out is not the enemy. It’s the compost heap of the soul—the place where the old breaks down to feed the new. When approached with Receptivity, this phase offers Convalescence: true recovery, deep stillness, a return to the baseline of being. It’s not a problem to be fixed. It’s not a flaw to be corrected. It’s an essential phase of your emotional rhythm.
 
-But if you bring Peak expectations into this valley—if you demand clarity, vitality, creativity, or purpose—then this soft stillness warps into Self-Loathing. You start comparing your low to your previous high, and that contrast becomes unbearable. You feel broken, behind, defective. But the pain doesn’t come from the bottom. It comes from resisting the bottom. From wishing you were somewhere else.
+But if you bring Peak expectations into this valley—if you demand clarity, vitality, creativity, or purpose—then this soft stillness warps into Self-Loathing. You start comparing your low to your previous high, and that contrast becomes unbearable. You feel broken, behind, defective. But the pain doesn’t come from the bottom. It comes from resisting the bottom. From wishing you were somewhere else.
 
 The truth is, there is nothing wrong with being here. This is where healing happens, but only if you allow it. You are not meant to solve everything from this state. You are meant to surrender. To trust that nothing needs to be solved right now. Not your mood. Not your life. Not the whole goddamn world.
 
@@ -125,12 +123,12 @@ Restoration is the gentle turning point—the first warm breeze after a long emo
 
 This isn’t the high of Peaking. It’s the reanimation of presence. You smile at a tree. You return a message. You hear music and it moves you. There’s no urgency. There’s just the slow, safe return to aliveness.
 
-But if the preceding phase—Bottoming Out—was navigated through Self-Loathing rather than Convalescence, then Restoration may be colored by fear. Having felt so raw and exposed, you may begin to hoard the little bit of energy you’ve reclaimed. You might become overly protective of your time, your insight, your joy. This is Selfishness—not as a moral flaw, but as a trauma reflex. A shield built out of the memory of despair.
+But if the preceding phase—Bottoming Out—was navigated through Self-Loathing rather than Convalescence, then Restoration may be colored by fear. Having felt so raw and exposed, you may begin to hoard the little bit of energy you’ve reclaimed. You might become overly protective of your time, your insight, your joy. This is Selfishness—not as a moral flaw, but as a trauma reflex. A shield built out of the memory of despair.
 
-It’s understandable. When you’ve been hollowed out by shame, the reappearance of vitality can feel fragile, precious, easily stolen. You may think: I can’t go back there. I need to protect what’s mine now. But that defensiveness can keep you isolated. The wound begins to dictate your next steps, and you mistake scarcity for safety.
+It’s understandable. When you’ve been hollowed out by shame, the reappearance of vitality can feel fragile, precious, easily stolen. You may think: I can’t go back there. I need to protect what’s mine now. But that defensiveness can keep you isolated. The wound begins to dictate your next steps, and you mistake scarcity for safety.
 
-The remedy isn’t to force openness. It’s to trust the wave. To remember that your energy will return again and again, as long as you honor its rhythm. Recuperation is not a rush to action—it’s an invitation to gently expand. To share a little. To rejoin the world in increments.
+The remedy isn’t to force openness. It’s to trust the wave. To remember that your energy will return again and again, as long as you honor its rhythm. Recuperation is not a rush to action—it’s an invitation to gently expand. To share a little. To rejoin the world in increments.
 
-You don’t need to give everything. You just need to remember: this glow is yours, but it’s not your only one. And it grows stronger in connection.
+You don’t need to give everything. You just need to remember: this glow is yours, but it’s not your only one. And it grows stronger in connection.
 
 Let yourself rise slowly. But don’t be afraid to rise.

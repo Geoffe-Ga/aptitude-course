@@ -1,6 +1,6 @@
 ## The Vibe Wavelength of Purple: Internalize (Feel)
 
-<img src="../markdown/images/images/image3.png"
+![](../markdown/images/images/image3.png)
 
 The Vibe Wavelength of Purple is Internalize (Feel).
 
@@ -20,23 +20,23 @@ This internal awareness becomes especially crucial in the bottom half of the wav
 In fact, the Purple version of the Wavelength teaches exactly that. As depicted in the “Internalize (Feel)” PDF from your materials, each of the six phases has its own energetic signature, both in its healing “prescribed” dosage and its toxic “overdose” form.
 Let’s just preview them here:
 
-Rising Rx: Inspiration — Guided by subtle symbols, dreams, or intuitive nudges.
-OD: Self-aggrandizement — Mistaking inspiration for spiritual superiority or specialness.
+Rising Rx: Inspiration — Guided by subtle symbols, dreams, or intuitive nudges.
+OD: Self-aggrandizement — Mistaking inspiration for spiritual superiority or specialness.
 
-Peaking Rx: Attunement — In sync with feelings, symbols, and unseen rhythms.
-OD: Intoxication — Overwhelmed by meaning, chasing mystical highs.
+Peaking Rx: Attunement — In sync with feelings, symbols, and unseen rhythms.
+OD: Intoxication — Overwhelmed by meaning, chasing mystical highs.
 
-Withdrawal Rx: Introspectivity — Quiet inner reflection and gentle emotional processing.
-OD: Anxiety — Flooded by feelings, uncertain what’s real.
+Withdrawal Rx: Introspectivity — Quiet inner reflection and gentle emotional processing.
+OD: Anxiety — Flooded by feelings, uncertain what’s real.
 
-Diminishing Rx: Coziness — Soft retreat into comfort, nesting, and gentle beauty.
-OD: Self-doubt — Losing confidence, questioning intuition and worth.
+Diminishing Rx: Coziness — Soft retreat into comfort, nesting, and gentle beauty.
+OD: Self-doubt — Losing confidence, questioning intuition and worth.
 
-Bottoming Out Rx: Fallow state — Restful emptiness, receptive to future renewal.
-OD: Self-loathing — Turning symbolic failure inward as shame.
+Bottoming Out Rx: Fallow state — Restful emptiness, receptive to future renewal.
+OD: Self-loathing — Turning symbolic failure inward as shame.
 
-Restoration Rx: Recuperation — Energy slowly returns; meaning begins to glimmer again.
-OD: Selfishness — Hoarding vitality instead of rejoining the collective vibe.
+Restoration Rx: Recuperation — Energy slowly returns; meaning begins to glimmer again.
+OD: Selfishness — Hoarding vitality instead of rejoining the collective vibe.
 
 We’ll go into each of these in more detail later, but for now, just notice the language. These are feelings. Moods.
 Atmospheres of the soul. And in Purple, your task is not to fix or force them—but to receive them. To feel them without becoming them. To notice the shape of your internal weather, and let it move through.

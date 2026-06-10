@@ -1,6 +1,6 @@
 ## The Practice of Purple: A Daily Tarot Draw
 
-<img src="../markdown/images/images/image6.png"
+![](../markdown/images/images/image6.png)
 
 The Practice of Purple is a daily meditation on symbolism, most often expressed through the Tarot. Each morning (or whenever you feel called), you’re invited to draw a card from the Major Arcana and sit with it for five minutes, allowing its imagery, archetypal tone, and symbolic resonance to steep into your consciousness like tea leaves unfurling in hot water.
 

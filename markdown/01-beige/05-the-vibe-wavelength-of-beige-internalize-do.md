@@ -1,6 +1,6 @@
 ## The Vibe Wavelength of Beige: Internalize (Do)
 
-This stage also builds on the introduction to the Archetypal Wavelength that you should have picked up from the <a href="https://www.google.com/url?q=https://aptitude.guru/philosophy/archetypal-wavelength&amp;sa=D&amp;source=editors&amp;ust=1764912627500309&amp;usg=AOvVaw2E0uWn4AqXvS3EHHDuBcVy"
+This stage also builds on the introduction to the Archetypal Wavelength that you should have picked up from the <a href="https://www.google.com/url?q=https://aptitude.guru/philosophy/archetypal-wavelength&sa=D&source=editors&ust=1764912627500309&usg=AOvVaw2E0uWn4AqXvS3EHHDuBcVy"
 class="c15">Philosophy page. Please do read that material if you haven’t yet. It provides a vital foundation.
 
 For each Stage of APTITUDE, we will be looking at the Archetypal Wavelength from a different perspective. The Beige wave is the “Do”ing aspect of a Wavelength you’re Internalizing for—a six-phase cycle that reveals the natural rhythm of doing.
@@ -11,23 +11,23 @@ Each Phase has both a “Prescribed Dosage,” an “Rx” that is healthy, skil
 
 For the “Do”-ing aspect of the Inhabit wavelength, the Phases look like this:
 
-Rising Rx: Commitment — A grounded promise to begin showing up.
-OD: Over-commitment — Taking on too much too fast.
+Rising Rx: Commitment — A grounded promise to begin showing up.
+OD: Over-commitment — Taking on too much too fast.
 
-Peaking Rx: Diligence — Steady effort anchored in habit and presence.
-OD: Thriving — Overextending in a rush of manic progress.
+Peaking Rx: Diligence — Steady effort anchored in habit and presence.
+OD: Thriving — Overextending in a rush of manic progress.
 
-Withdrawal Rx: Steadiness — Returning to baseline without abandoning routine.
-OD: Burnout — Energetic collapse from unsustainable output.
+Withdrawal Rx: Steadiness — Returning to baseline without abandoning routine.
+OD: Burnout — Energetic collapse from unsustainable output.
 
-Diminishing Rx: Security — Embracing contraction to restore safety and trust.
-OD: Grasping — Clinging to momentum as it fades.
+Diminishing Rx: Security — Embracing contraction to restore safety and trust.
+OD: Grasping — Clinging to momentum as it fades.
 
-Bottoming Out Rx: Stability — Deep stillness that anchors your nervous system.
-OD: Overwhelm — Flooded by unmet needs or collapsing structure.
+Bottoming Out Rx: Stability — Deep stillness that anchors your nervous system.
+OD: Overwhelm — Flooded by unmet needs or collapsing structure.
 
-Restoration Rx: Next Habit — Humble return with a manageable new step.
-OD: New Plan — Drastic overhaul to escape discomfort.
+Restoration Rx: Next Habit — Humble return with a manageable new step.
+OD: New Plan — Drastic overhaul to escape discomfort.
 
 We’ll get back to that in a moment. Let’s continue our brief tour of the components and characteristics of Beige first.
 
