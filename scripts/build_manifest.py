@@ -146,6 +146,35 @@ def validate(chapters: list[dict]) -> None:
                 f"duplicate (stage,chapter)={key} in {path} and {seen_stage_chapter[key]}")
         seen_stage_chapter[key] = path
 
+        validate_media(c["media"], path)
+
+
+MEDIA_TYPES = {"video", "image", "audio"}
+
+
+def validate_media(media, path: str) -> None:
+    """Validate media[] shape per CONTENT_FORMAT.md §6.3 (issue #25)."""
+    if not isinstance(media, list):
+        raise ManifestError(f"{path}: media must be a list")
+    for i, item in enumerate(media):
+        where = f"{path}: media[{i}]"
+        if not isinstance(item, dict):
+            raise ManifestError(f"{where}: must be a mapping")
+        unknown = set(item) - {"type", "url", "path", "poster", "caption"}
+        if unknown:
+            raise ManifestError(f"{where}: unknown field(s) {sorted(unknown)}")
+        if item.get("type") not in MEDIA_TYPES:
+            raise ManifestError(
+                f"{where}: type must be one of {sorted(MEDIA_TYPES)}")
+        has_url, has_path = "url" in item, "path" in item
+        if has_url == has_path:
+            raise ManifestError(f"{where}: exactly one of url/path is required")
+        if has_url and not str(item["url"]).startswith("https://"):
+            raise ManifestError(f"{where}: url must be an absolute https:// URL")
+        for field in ("path", "poster", "caption"):
+            if field in item and not isinstance(item[field], str):
+                raise ManifestError(f"{where}: {field} must be a string")
+
 
 def validate_against_schema(manifest: dict) -> str:
     """Validate with jsonschema if available; otherwise note it was skipped."""

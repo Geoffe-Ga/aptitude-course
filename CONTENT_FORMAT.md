@@ -213,29 +213,93 @@ curricular intent, unlike `stage`/`chapter`/`order`/`slug` which are mechanical.
 
 ---
 
-## 6. Media & assets (summary)
+## 6. Media & assets
 
-> The full convention is specified in issue
-> [#25](https://github.com/Geoffe-Ga/aptitude-course/issues/25) and will be
-> expanded in this section. The contract below is the agreed shape.
+> Canonical per issue [#25](https://github.com/Geoffe-Ga/aptitude-course/issues/25).
+> App-side resolution pairs with
+> [adepthood#394](https://github.com/Geoffe-Ga/adepthood/issues/394) (native
+> Markdown rendering).
 
-- **Images** are committed in-repo under `markdown/<NN-stage>/assets/` and
-  referenced with **repo-relative paths** in Markdown
-  (`![alt](assets/diagram.png)`), so they vendor into the app image with the
-  content — no runtime network fetch.
-- **Video / large media** is referenced from frontmatter `media[]` rather than
-  embedded inline:
+### 6.1 Where assets live
 
-  ```yaml
-  media:
-    - type: video           # video | image | audio
-      url: https://cdn.example.com/beige-intro.mp4
-      poster: assets/beige-intro-poster.png   # optional
-      caption: "Beige introduction"            # optional
-  ```
+| Kind | Storage | Referenced via |
+|------|---------|----------------|
+| **Images** (and other small media) | Committed **in-repo** under `markdown/<NN-stage>/assets/` | Inline Markdown image with a **file-relative path**: `![alt](assets/diagram.png)` |
+| **Video / large media** | **External** stable URL (CDN, hosting bucket) — never committed | Frontmatter `media[]` entry with `url:` (§6.3) — never embedded inline |
 
-- The manifest generator (#20) validates `media[]`; the CI link-check (#21)
-  verifies repo-relative asset paths resolve.
+**Size thresholds.** Commit an asset in-repo (Option A) when it is an image
+or audio clip **≤ 2 MB**; use an external URL (Option B) for any video, and
+for any single asset **> 10 MB**. Between 2–10 MB, prefer compressing into
+Option A; go external only when quality genuinely requires the bytes. The
+intent: the corpus (and therefore the app image that vendors it) stays small
+enough to ship, and rendering chapters never requires a network fetch except
+for streaming video.
+
+**Legacy location.** Pre-pipeline images live under `markdown/images/` and
+are referenced with file-relative paths (e.g. `../images/images/image1.png`
+from a stage directory). This location remains valid — the link-check
+verifies it — but **new** assets go in the per-stage `assets/` directories,
+and legacy images should migrate there as the referencing chapters get
+touched.
+
+### 6.2 Referencing assets from Markdown bodies
+
+- Use a standard Markdown image with a path **relative to the referencing
+  file**: from `markdown/01-beige/03-foo.md`, write
+  `![Wavelength diagram](assets/wavelength.png)` for
+  `markdown/01-beige/assets/wavelength.png`.
+- Always supply meaningful alt text.
+- Never use raw HTML (`<img>`, `<video>`, `<iframe>`) — §2.2 applies; CI
+  rejects it.
+- External images by URL are allowed but discouraged (they reintroduce a
+  runtime network dependency); prefer committing them.
+
+### 6.3 The `media[]` frontmatter shape
+
+Non-inline media (video, downloadable audio, a gallery image the app should
+present specially) is declared in frontmatter:
+
+```yaml
+media:
+  - type: video            # required: video | image | audio
+    url: https://cdn.example.com/beige-intro.mp4   # url OR path required
+    poster: assets/beige-intro-poster.png          # optional, repo-committed
+    caption: "Beige introduction"                  # optional
+  - type: image
+    path: assets/altar-setup.png                   # in-repo alternative to url
+```
+
+Field rules (enforced by the manifest build and
+`schema/manifest.schema.json`):
+
+| Field | Required | Rule |
+|-------|----------|------|
+| `type` | yes | One of `video`, `image`, `audio`. |
+| `url` / `path` | exactly one | `url` is an absolute `https://` URL (Option B). `path` is file-relative to the chapter (Option A) and must resolve on disk. |
+| `poster` | no | File-relative path to a committed image; must resolve on disk. |
+| `caption` | no | Plain text shown with the media. |
+
+### 6.4 Validation
+
+- **Manifest build** (`scripts/build_manifest.py`, CI job *Frontmatter +
+  manifest*): validates every `media[]` entry's shape — known `type`, exactly
+  one of `url`/`path`, `https://` URLs — and fails the build otherwise.
+- **Link-check** (`scripts/check_links.py`, CI job *Internal links*):
+  verifies every inline image/link target **and** every relative
+  `media[].path`/`media[].poster` resolves on disk.
+
+### 6.5 How the app resolves asset paths
+
+The app vendors this repo at a pinned SHA into its backend image
+(`backend/content/**`, see [CONSUMPTION.md](./CONSUMPTION.md) §1/§4) and
+serves committed assets from a static route over that directory. A relative
+reference is resolved **against the referencing file's directory** — the same
+rule this repo's link-check uses — then mapped onto the static route. So
+`assets/diagram.png` inside `markdown/01-beige/03-foo.md` is served from
+`<static-root>/markdown/01-beige/assets/diagram.png`. `media[].url` entries
+are streamed directly by the client. The concrete route lives app-side and is
+owned by adepthood#394; the contract this repo guarantees is only that
+relative paths resolve within the repo tree at the pinned SHA.
 
 ---
 
