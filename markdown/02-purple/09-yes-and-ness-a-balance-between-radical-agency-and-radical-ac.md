@@ -12,30 +12,29 @@ media: []
 
 ## Yes-And-Ness: A balance between Radical Agency and Radical Acceptance
 
-“Yes-and-ness” is a term I coined to capture the delicate, alchemical balance between two spiritual instincts that have long pulled at me: the Eastern embrace of Radical Acceptance and the Western drive for Radical Agency.
+Tara Brach’s Buddhism-inspired practice of Radical Acceptance—resolutely accepting reality as it is, without wishing it were different, regardless of the situation—is a fantastic philosophy for about 95% of human experience. In one lecture, Brach quotes a Buddhist nun who attempts to meet every circumstance with the words: “Thank you for this experience, I have no complaints.”
 
-I’ve spent a lot of time steeped in both traditions.
-On one hand, I’m drawn to the calming wisdom of mindfulness, non-resistance, and the Buddhist insight that suffering arises when we cling to how things should be. Radical Acceptance, in that frame, is medicine. It reminds us to soften into the present moment, to quit picking fights with reality, to let go of the illusion of control and just… be. There’s something profound and sacred in that.
+I love that sentence. On an ordinary Tuesday—stuck in traffic, passed over for something I wanted, rained on without an umbrella—it can dissolve an hour of suffering in a single breath. Pain is inevitable, and accepting pain really does have the potential to nix the extra suffering we generate through resistance and attachment.
 
-But I’ve also felt the limitations of that posture—especially when it comes to injustice, trauma, or the very real ways we sometimes need to say no. Acceptance is powerful, but it can veer into passivity. Sometimes the moment demands we rise. That we do.
-That we reach into the symbolic toolkit of the Western occult tradition, or the behavioral playbook of modern psychology, or even just the animal instinct to change our circumstance. That’s Agency. That’s “casting a spell” with our actions, setting intentions, creating sigils, rewriting the script.
+But we know intuitively that those words can’t be rightly applied to *every* circumstance. Try saying them at a child’s hospital bed. Try saying them about an injustice you have the power to interrupt. There’s a remaining 5% of horrifying edge cases where acceptance alone is a terrible heuristic—where equanimity curdles into passivity and “non-resistance” becomes a spiritual alibi for doing nothing.
 
-So I started to wonder… what if we didn’t have to choose?
+That 5% calls for something else. It calls for what I’ve come to call “Yes-and-ness.”
 
-What if there’s a third thing?
+You can think of Yes-and-ness as the Serenity Prayer compressed into a single word: the serenity to accept what can’t be changed, *and, simultaneously*, the courage to exert will and agency on what lies within our influence. Not acceptance first and action later, as separate gears you shift between. Both at once, held in a single posture, with wisdom running its constant arithmetic on the difference.
 
-That’s where “Yes-and-ness” came from.
+The two halves of the word have lineages.
 
-It’s the energetic fusion of Radical Acceptance and Radical Agency. The ability to say yes to what is—even the pain, even the chaos—and and still move toward something better. Like the Serenity Prayer but with a trickster twist. It’s not just “accept what you can’t change and change what you can”—it’s “accept this and see if you’re the one who’s here to shift it.”
+As Eastern mysticism is often presented in the Western circles that imported it, the emphasis falls on serenity, equanimity, surrender—on letting go of your desires and serving structures greater than yourself. Ram Dass captured the flavor: “The Great Way is not difficult for he who holds no preference.” Whether or not that emphasis honors the original teachers’ intentions (opinions are mixed), the imported version centers the collective over the individual. We rather than I.
 
-It’s letting the universe whisper its weird little symbols into your ear and taking responsibility for how you respond.
-It’s pulling a tarot card and letting it change your day. It’s feeling a no in your gut and honoring it even when your mind wants to overrule.
-It’s the posture of the improviser: affirm what’s true and build from there.
+Western occultism is, by character, the opposite. The emphasis is on exerting your Will upon your surroundings: creating sigils, working spells, banishing unwanted influences, mastering your own mind to attract and manifest your desires. As Crowley put it: “Do what thou wilt shall be the whole of the law.”
 
-In APTITUDE, Yes-and-ness is the name of the first polarity, and Purple lives in the receptive half of it. Here, I’m not trying to push, to dominate, to force my will into the world. I’m practicing the other side of power: listening. Sensing. Opening.
-Letting. But make no mistake—this is still a kind of will. It’s just a gentler one. One that trusts that truth can arise through relationship with the moment rather than total control over it.
+In this admittedly massive oversimplification, the East holds Receptivity—Divine Feminine, plural, We. That’s the “Yes.” The West holds Agency—Divine Masculine, singular, I. That’s the “And.”
 
-That’s the power of Yes-and-ness. It gives you a way to belong to your life and shape it at the same time. To say yes, and.
+And the “-ness”? The “-ness” is the actual teaching. It’s a posture of liminal vacillation between the two poles—a standing refusal to become dogmatic about embodying one over the other. It’s the disposition that stays open to spontaneously tilting toward “yes” or toward “and” as each situation demands. And often, it means being flexible enough to bring both.
+
+In APTITUDE, Yes-and-ness is the name of the first polarity, and Purple lives in the receptive half of it. Here, I’m not trying to push, to dominate, to force my will into the world. I’m practicing the other side of power: listening, sensing, opening. Make no mistake—this is still a kind of will. It’s just a gentler one, one that trusts that truth can arise through relationship with the moment rather than total control over it. (Red, the next Stage, will hand you the other half.)
+
+That’s what Yes-and-ness offers: a way to belong to your life and shape it at the same time.
 
 ### YES: Purple as a Form of Sacred Photosynthesis—Prana-synthesis?
 
@@ -70,7 +69,9 @@ This is the power of Purple.
 
 This is the photosynthesis of the soul.
 
-### AND: Embracing Paradox—Everything is Perfect AND We Must Fight to Improve it![](../images/images/image5.png)
+### AND: Embracing Paradox—Everything is Perfect AND We Must Fight to Improve it
+
+![](../images/images/image5.png)
 
 “And” is the top half of the Archetypal Wavelength—the High Energy phase, the arc where agency returns, momentum gathers, and potential brims. If you look at the diagram above, you’ll see it clearly: the wave rises through Rising, crests at Peaking, and begins to slope through Withdrawal. These are moments of capacity. Of motion. Of outward orientation. But most importantly—they’re moments of paradox.
 
@@ -104,3 +105,13 @@ To be the one who says:
 And I know what could be.
 
 And I’m here for both.”
+
+### NESS: The Liminal Posture
+
+So if “Yes” is the receptive low arc of the Wavelength and “And” is the agentic high arc, what’s left?
+
+The hyphenated “-ness” at the end of the word is not decoration. It’s the skill this whole polarity is training: the capacity to vacillate between the two poles without pledging allegiance to either. A practitioner who becomes dogmatic about acceptance goes limp in the 5% of situations that demand a fight. A practitioner who becomes dogmatic about agency white-knuckles the descents that were never theirs to control. Both have abandoned the “-ness.”
+
+The “-ness” lives in the moment of reading the situation freshly—asking, without a predetermined answer: does this call for surrender, or for will? It is comfortable being neither a pure mystic nor a pure magician, because it refuses the comfort of a fixed identity in favor of accuracy about *this* moment.
+
+You will not master that in Purple. Purple’s job is only to build the “Yes” muscle, because most of us arrive with the “And” overdeveloped and inflamed. But keep the full word in view as you practice. Acceptance is the half you’re learning. Vacillation is the art you’re learning it *for*.
