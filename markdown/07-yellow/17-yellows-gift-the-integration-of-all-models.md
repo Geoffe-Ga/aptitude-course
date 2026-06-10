@@ -1,3 +1,15 @@
+---
+id: yellow-17
+stage: 7
+chapter: 17
+order: 17
+slug: yellows-gift-the-integration-of-all-models
+title: "Yellow's Gift: The Integration of All Models"
+content_type: chapter
+release_day: 16
+media: []
+---
+
 ## Yellow's Gift: The Integration of All Models
 
 Yellow's deepest gift is the capacity to hold multiple models without needing them to agree.

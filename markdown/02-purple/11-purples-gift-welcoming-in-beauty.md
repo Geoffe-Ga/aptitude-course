@@ -1,3 +1,15 @@
+---
+id: purple-11
+stage: 2
+chapter: 11
+order: 11
+slug: purples-gift-welcoming-in-beauty
+title: "Purple’s Gift: Welcoming in Beauty"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## Purple’s Gift: Welcoming in Beauty
 
 The gift of Purple is the return to Receptivity—a gentle reorientation from striving to sensing, from control to communion. When the Adept softens into this phase of the spiral, something exquisite becomes possible: the world starts to shimmer. Not because it has changed, but because you have. Purple’s core gift is the ability to welcome in beauty—not by chasing it, but by learning how to let it in.

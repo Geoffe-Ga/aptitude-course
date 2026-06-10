@@ -1,3 +1,15 @@
+---
+id: orange-21
+stage: 5
+chapter: 21
+order: 21
+slug: three-real-examples-of-curiosity-problem-alchemy
+title: "Three Real Examples of Curiosity-Problem Alchemy"
+content_type: chapter
+release_day: 20
+media: []
+---
+
 ## Three Real Examples of Curiosity-Problem Alchemy
 
 Let's get concrete. Here are three examples of how this works in practice.

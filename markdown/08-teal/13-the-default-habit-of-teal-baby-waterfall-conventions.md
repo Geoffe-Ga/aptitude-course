@@ -1,3 +1,15 @@
+---
+id: teal-13
+stage: 8
+chapter: 13
+order: 13
+slug: the-default-habit-of-teal-baby-waterfall-conventions
+title: "The Default Habit of Teal: Baby Waterfall Conventions"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## The Default Habit of Teal: Baby Waterfall Conventions
 
 Teal's habit is subtle but profound: **Baby Waterfall Conventions**.

@@ -1,3 +1,15 @@
+---
+id: orange-9
+stage: 5
+chapter: 9
+order: 9
+slug: step-two-the-breathing-rounds-12-15-minutes
+title: "Step Two: The Breathing Rounds (12-15 minutes)"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## Step Two: The Breathing Rounds (12-15 minutes)
 
 You'll do three full rounds of controlled hyperventilation followed by breath retention. Each round deepens the effect.

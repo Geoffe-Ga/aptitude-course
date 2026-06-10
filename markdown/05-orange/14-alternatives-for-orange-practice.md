@@ -1,3 +1,15 @@
+---
+id: orange-14
+stage: 5
+chapter: 14
+order: 14
+slug: alternatives-for-orange-practice
+title: "Alternatives for Orange Practice"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## Alternatives for Orange Practice
 
 Not everyone can or should do Wim Hof. If you have cardiovascular issues, seizure disorders, or a history of trauma that makes breathwork triggering, listen to your body. APTITUDE is not prescriptive. You're the expert on your own system.

@@ -1,3 +1,15 @@
+---
+id: yellow-24
+stage: 7
+chapter: 24
+order: 24
+slug: penelopes-test-recognizing-integration
+title: "Penelope's Test: Recognizing Integration"
+content_type: chapter
+release_day: 23
+media: []
+---
+
 ## Penelope's Test: Recognizing Integration
 
 But there's one more test. Even after Odysseus reveals himself, Penelope doesn't believe it's him. She tests him with a secret: she tells a servant to move their marriage bed.

@@ -1,3 +1,15 @@
+---
+id: ultraviolet-13
+stage: 9
+chapter: 13
+order: 13
+slug: practicing-hierarchy-off-the-cushion
+title: "Practicing Hierarchy Off the Cushion"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## Practicing Hierarchy Off the Cushion
 
 Ultraviolet is not just about retreat. It's about bringing the recognition of hierarchy into your daily life. Here's how.

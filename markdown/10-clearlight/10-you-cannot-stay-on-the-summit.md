@@ -1,3 +1,15 @@
+---
+id: clearlight-10
+stage: 10
+chapter: 10
+order: 10
+slug: you-cannot-stay-on-the-summit
+title: "You Cannot Stay on the Summit"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## You Cannot Stay on the Summit
 
 Another teaching from *After the Ecstasy, the Laundry*:

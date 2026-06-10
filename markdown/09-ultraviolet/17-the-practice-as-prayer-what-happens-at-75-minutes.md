@@ -1,3 +1,15 @@
+---
+id: ultraviolet-17
+stage: 9
+chapter: 17
+order: 17
+slug: the-practice-as-prayer-what-happens-at-75-minutes
+title: "The Practice as Prayer: What Happens at 75 Minutes"
+content_type: chapter
+release_day: 16
+media: []
+---
+
 ## The Practice as Prayer: What Happens at 75 Minutes
 
 Let me walk you through what actually happens in a 75-minute sit. Because this is different from anything you've done before.

@@ -1,3 +1,15 @@
+---
+id: teal-3
+stage: 8
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-teal
+title: "The Journaling Prompts of Teal"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Teal
 
 Teal's journaling is contemplative. You're not strategizing (Orange) or processing shadow (Green) or mapping patterns (Yellow). You're *reflecting*. Letting insights arise from stillness. Trusting the wisdom that emerges when you stop trying to figure everything out.

@@ -1,3 +1,15 @@
+---
+id: clearlight-15
+stage: 10
+chapter: 15
+order: 15
+slug: the-final-integration-all-stages-always-available
+title: "The Final Integration: All Stages, Always Available"
+content_type: chapter
+release_day: 14
+media: []
+---
+
 ## The Final Integration: All Stages, Always Available
 
 Here's the gift of Clear Light: you don't graduate past the earlier stages. You integrate them all.

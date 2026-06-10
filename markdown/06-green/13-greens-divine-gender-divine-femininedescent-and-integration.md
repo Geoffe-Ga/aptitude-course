@@ -1,3 +1,15 @@
+---
+id: green-13
+stage: 6
+chapter: 13
+order: 13
+slug: greens-divine-gender-divine-femininedescent-and-integration
+title: "Green's Divine Gender: Divine Feminine—Descent and Integration"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## Green's Divine Gender: Divine Feminine—Descent and Integration
 
 Green swings back to the **Divine Feminine**—the archetypal force of receptivity, interiority, and feeling. Where Orange was about *building outward*, Green is about *descending inward*. Where Orange asked "What can I achieve?", Green asks "What have I been avoiding?"

@@ -1,3 +1,15 @@
+---
+id: green-7
+stage: 6
+chapter: 7
+order: 7
+slug: what-to-expect-the-first-month-of-shadow-work
+title: "What to Expect: The First Month of Shadow Work"
+content_type: chapter
+release_day: 6
+media: []
+---
+
 ## What to Expect: The First Month of Shadow Work
 
 Shadow work is not gentle. Especially at first. Here's what might happen:

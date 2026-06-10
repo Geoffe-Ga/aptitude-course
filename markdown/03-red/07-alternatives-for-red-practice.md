@@ -1,3 +1,15 @@
+---
+id: red-7
+stage: 3
+chapter: 7
+order: 7
+slug: alternatives-for-red-practice
+title: "Alternatives for Red Practice"
+content_type: chapter
+release_day: 6
+media: []
+---
+
 ## Alternatives for Red Practice
 
 Not vibing with Paced Breathing? That’s okay.

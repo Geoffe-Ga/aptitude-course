@@ -1,3 +1,15 @@
+---
+id: beige-11
+stage: 1
+chapter: 11
+order: 11
+slug: internalize-do
+title: "“INTERNALIZE (Do)”"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## “INTERNALIZE (Do)”
 
 Approaching the Archetypal Wavelength from the perspective of Beige, one option is to observe and improve the energetic rhythm of building habits. In this Agentic Yes-And-Ness Aspect of Whole Adepthood, the Wavelength can be thought of as the core behaviors that take care of your meat.

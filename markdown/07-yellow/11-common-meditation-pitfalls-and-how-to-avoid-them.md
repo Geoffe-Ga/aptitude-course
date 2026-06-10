@@ -1,3 +1,15 @@
+---
+id: yellow-11
+stage: 7
+chapter: 11
+order: 11
+slug: common-meditation-pitfalls-and-how-to-avoid-them
+title: "Common Meditation Pitfalls and How to Avoid Them"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## Common Meditation Pitfalls and How to Avoid Them
 
 Yellow practitioners are especially susceptible to certain meditation traps. Here's how to navigate them.

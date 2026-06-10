@@ -1,3 +1,15 @@
+---
+id: clearlight-24
+stage: 10
+chapter: 24
+order: 24
+slug: the-complete-integration-living-all-ten-stages
+title: "The Complete Integration: Living All Ten Stages"
+content_type: chapter
+release_day: 23
+media: []
+---
+
 ## The Complete Integration: Living All Ten Stages
 
 Let me paint a picture of what it looks like to have full access to the entire spiral.

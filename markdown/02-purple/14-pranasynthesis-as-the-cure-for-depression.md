@@ -1,3 +1,15 @@
+---
+id: purple-14
+stage: 2
+chapter: 14
+order: 14
+slug: pranasynthesis-as-the-cure-for-depression
+title: "“Pranasynthesis” as the Cure for Depression"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## “Pranasynthesis” as the Cure for Depression
 
 There are times when nothing works. The practices stall. The joy is gone. Even rest doesn’t restore, and everything once charged with beauty becomes flat, gray, muffled like a song underwater. This is the Diminishing and Bottoming Out stretch of the Feel Wavelength when traversed without skill—when we resist, when we compare, when we collapse into a sense of terminal brokenness. It is also what much of the modern world simply calls depression.

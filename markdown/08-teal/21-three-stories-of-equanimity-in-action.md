@@ -1,3 +1,15 @@
+---
+id: teal-21
+stage: 8
+chapter: 21
+order: 21
+slug: three-stories-of-equanimity-in-action
+title: "Three Stories of Equanimity in Action"
+content_type: chapter
+release_day: 20
+media: []
+---
+
 ## Three Stories of Equanimity in Action
 
 Let me show you what this looks like in real life.

@@ -1,3 +1,15 @@
+---
+id: teal-19
+stage: 8
+chapter: 19
+order: 19
+slug: baby-waterfall-conventions-the-architecture-of-micro-practic
+title: "Baby Waterfall Conventions: The Architecture of Micro-Practice"
+content_type: chapter
+release_day: 18
+media: []
+---
+
 ## Baby Waterfall Conventions: The Architecture of Micro-Practice
 
 The Baby Waterfall Convention is Teal's signature contribution to habit design. It's deceptively simple: create tiny rituals throughout your day that serve as "reset points"—moments where you drop back into presence.

@@ -1,3 +1,15 @@
+---
+id: red-8
+stage: 3
+chapter: 8
+order: 8
+slug: the-default-habit-of-red-looking-at-alcoholintoxicants
+title: "The Default Habit of Red: Looking at Alcohol/Intoxicants"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## The Default Habit of Red: Looking at Alcohol/Intoxicants
 
 Every stage of APTITUDE comes with a Default Habit—a behavior that arises unconsciously when the energetic tone of that stage is dominant but unexamined. For Red, that habit is intoxication.

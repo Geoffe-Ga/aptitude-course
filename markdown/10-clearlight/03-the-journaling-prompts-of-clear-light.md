@@ -1,3 +1,15 @@
+---
+id: clearlight-3
+stage: 10
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-clear-light
+title: "The Journaling Prompts of Clear Light"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Clear Light
 
 At Clear Light, journaling is no longer about processing or understanding. It's about *pointing*. You're using words to gesture toward what cannot be captured in words. You're documenting the glimpses. Honoring the mystery.

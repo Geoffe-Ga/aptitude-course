@@ -1,3 +1,15 @@
+---
+id: orange-12
+stage: 5
+chapter: 12
+order: 12
+slug: common-experiences-and-how-to-navigate-them
+title: "Common Experiences and How to Navigate Them"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## Common Experiences and How to Navigate Them
 
 **Tingling and Cramping**

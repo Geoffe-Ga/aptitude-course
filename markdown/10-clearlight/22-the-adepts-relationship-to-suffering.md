@@ -1,3 +1,15 @@
+---
+id: clearlight-22
+stage: 10
+chapter: 22
+order: 22
+slug: the-adepts-relationship-to-suffering
+title: "The Adept's Relationship to Suffering"
+content_type: chapter
+release_day: 21
+media: []
+---
+
 ## The Adept's Relationship to Suffering
 
 Here's a question that arises at Clear Light: If you've touched awakening, if you've stabilized in presence, does suffering end?

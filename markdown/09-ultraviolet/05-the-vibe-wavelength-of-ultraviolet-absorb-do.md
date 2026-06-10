@@ -1,3 +1,15 @@
+---
+id: ultraviolet-5
+stage: 9
+chapter: 5
+order: 5
+slug: the-vibe-wavelength-of-ultraviolet-absorb-do
+title: "The Vibe Wavelength of Ultraviolet: Absorb (Do)"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Vibe Wavelength of Ultraviolet: Absorb (Do)
 
 Ultraviolet introduces the fifth Mode: **Absorb**. Where Inhabit was about building yourself, Express was about externalizing, Collaborate was about co-creating, and Integrate was about synthesizing, Absorb is about *taking in the whole*.

@@ -1,3 +1,15 @@
+---
+id: green-17
+stage: 6
+chapter: 17
+order: 17
+slug: greens-shadow-spiritual-bypassing-and-toxic-positivity
+title: "Green's Shadow: Spiritual Bypassing and Toxic Positivity"
+content_type: chapter
+release_day: 16
+media: []
+---
+
 ## Green's Shadow: Spiritual Bypassing and Toxic Positivity
 
 Green's shadow is subtle. It masquerades as healing. As compassion. As consciousness. But underneath, it's just another form of avoidance.

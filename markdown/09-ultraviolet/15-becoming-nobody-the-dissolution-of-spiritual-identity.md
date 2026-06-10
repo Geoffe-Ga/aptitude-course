@@ -1,3 +1,15 @@
+---
+id: ultraviolet-15
+stage: 9
+chapter: 15
+order: 15
+slug: becoming-nobody-the-dissolution-of-spiritual-identity
+title: "Becoming Nobody: The Dissolution of Spiritual Identity"
+content_type: chapter
+release_day: 14
+media: []
+---
+
 ## Becoming Nobody: The Dissolution of Spiritual Identity
 
 Here's Ultraviolet's greatest test: Can you let go of being "spiritual"?

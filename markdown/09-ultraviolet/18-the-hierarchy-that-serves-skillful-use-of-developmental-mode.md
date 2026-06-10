@@ -1,3 +1,15 @@
+---
+id: ultraviolet-18
+stage: 9
+chapter: 18
+order: 18
+slug: the-hierarchy-that-serves-skillful-use-of-developmental-mode
+title: "The Hierarchy That Serves: Skillful Use of Developmental Models"
+content_type: chapter
+release_day: 17
+media: []
+---
+
 ## The Hierarchy That Serves: Skillful Use of Developmental Models
 
 Ultraviolet is where you've integrated Spiral Dynamics so fully that you can use it without being imprisoned by it.

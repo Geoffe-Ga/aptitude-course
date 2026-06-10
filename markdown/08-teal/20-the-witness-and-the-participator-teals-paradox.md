@@ -1,3 +1,15 @@
+---
+id: teal-20
+stage: 8
+chapter: 20
+order: 20
+slug: the-witness-and-the-participator-teals-paradox
+title: "The Witness and the Participator: Teal's Paradox"
+content_type: chapter
+release_day: 19
+media: []
+---
+
 ## The Witness and the Participator: Teal's Paradox
 
 Here's the paradox Teal must hold: you're cultivating the Witness (the part that observes without being moved) *and* you're fully participating in life (engaging, feeling, acting).

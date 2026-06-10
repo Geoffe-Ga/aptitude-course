@@ -1,3 +1,15 @@
+---
+id: purple-5
+stage: 2
+chapter: 5
+order: 5
+slug: the-vibe-wavelength-of-purple-internalize-feel
+title: "The Vibe Wavelength of Purple: Internalize (Feel)"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Vibe Wavelength of Purple: Internalize (Feel)
 
 ![](../markdown/images/images/image3.png)

@@ -1,3 +1,15 @@
+---
+id: ultraviolet-11
+stage: 9
+chapter: 11
+order: 11
+slug: ultraviolets-shadow-spiritual-superiority
+title: "Ultraviolet's Shadow: Spiritual Superiority"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## Ultraviolet's Shadow: Spiritual Superiority
 
 Ultraviolet's shadow is the most seductive of all: **spiritual superiority**.

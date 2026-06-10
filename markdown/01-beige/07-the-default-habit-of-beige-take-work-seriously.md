@@ -1,3 +1,15 @@
+---
+id: beige-7
+stage: 1
+chapter: 7
+order: 7
+slug: the-default-habit-of-beige-take-work-seriously
+title: "The Default Habit of Beige: Take Work Seriously"
+content_type: chapter
+release_day: 6
+media: []
+---
+
 ## The Default Habit of Beige: Take Work Seriously
 
 To begin correcting these root-level imbalances, we have the recommendation slash option to anchor in a Habit that is essential to physical security: Taking Work Seriously.

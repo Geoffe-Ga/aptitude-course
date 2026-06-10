@@ -1,3 +1,15 @@
+---
+id: ultraviolet-14
+stage: 9
+chapter: 14
+order: 14
+slug: the-75-minute-threshold-why-this-is-the-gateway-practice
+title: "The 75-Minute Threshold: Why This Is the Gateway Practice"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## The 75-Minute Threshold: Why This Is the Gateway Practice
 
 You've been building toward this since Beige. 5 minutes became 10. 10 became 15. Then 20, 30, 45, 60. And now: 75.

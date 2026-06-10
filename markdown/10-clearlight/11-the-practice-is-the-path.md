@@ -1,3 +1,15 @@
+---
+id: clearlight-11
+stage: 10
+chapter: 11
+order: 11
+slug: the-practice-is-the-path
+title: "The Practice IS the Path"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## The Practice IS the Path
 
 One final teaching to close this out:

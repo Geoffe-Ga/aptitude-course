@@ -1,3 +1,15 @@
+---
+id: clearlight-9
+stage: 10
+chapter: 9
+order: 9
+slug: obstacles-are-the-path
+title: "Obstacles Are the Path"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## Obstacles Are the Path
 
 This is one of Clear Light's deepest teachings, beautifully captured in the infographics described in `ImageDescriptions.md`.

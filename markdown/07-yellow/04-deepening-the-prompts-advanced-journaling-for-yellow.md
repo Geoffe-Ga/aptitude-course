@@ -1,3 +1,15 @@
+---
+id: yellow-4
+stage: 7
+chapter: 4
+order: 4
+slug: deepening-the-prompts-advanced-journaling-for-yellow
+title: "Deepening the Prompts: Advanced Journaling for Yellow"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## Deepening the Prompts: Advanced Journaling for Yellow
 
 Once you've established the basic prompts, layer in these more sophisticated practices:

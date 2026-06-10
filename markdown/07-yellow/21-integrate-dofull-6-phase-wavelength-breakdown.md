@@ -1,3 +1,15 @@
+---
+id: yellow-21
+stage: 7
+chapter: 21
+order: 21
+slug: integrate-dofull-6-phase-wavelength-breakdown
+title: "\"INTEGRATE (Do)\"—Full 6-Phase Wavelength Breakdown"
+content_type: chapter
+release_day: 20
+media: []
+---
+
 ## "INTEGRATE (Do)"—Full 6-Phase Wavelength Breakdown
 
 Yellow's Wavelength is the rhythm of focused attention. It's the map of how the mind trains itself—how concentration builds, stabilizes, falters, and renews. Each phase has its medicine and its poison.

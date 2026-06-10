@@ -1,3 +1,15 @@
+---
+id: blue-14
+stage: 4
+chapter: 14
+order: 14
+slug: practicing-love-off-the-cushion
+title: "Practicing Love Off the Cushion"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## Practicing Love Off the Cushion
 
 Blue is not just a meditation practice. It's a way of being in relationship. And the real test is whether you can carry the principles of Blue—compassion, attunement, vulnerability, integrity—into your daily life.

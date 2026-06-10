@@ -1,3 +1,15 @@
+---
+id: teal-5
+stage: 8
+chapter: 5
+order: 5
+slug: the-vibe-wavelength-of-teal-integrate-feel
+title: "The Vibe Wavelength of Teal: Integrate (Feel)"
+content_type: chapter
+release_day: 4
+media: []
+---
+
 ## The Vibe Wavelength of Teal: Integrate (Feel)
 
 Teal continues the **Integrate** Mode but shifts from **Do** (Yellow) to **Feel**. Where Yellow integrated through analysis and discipline, Teal integrates through *receptivity*. You're not building synthesis—you're *allowing* it to emerge.

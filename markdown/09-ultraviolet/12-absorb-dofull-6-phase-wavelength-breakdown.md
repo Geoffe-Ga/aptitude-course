@@ -1,3 +1,15 @@
+---
+id: ultraviolet-12
+stage: 9
+chapter: 12
+order: 12
+slug: absorb-dofull-6-phase-wavelength-breakdown
+title: "\"ABSORB (Do)\"—Full 6-Phase Wavelength Breakdown"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## "ABSORB (Do)"—Full 6-Phase Wavelength Breakdown
 
 Ultraviolet's Wavelength is the rhythm of deepening realization. Each phase is a movement in the dance of awakening—and each has its medicine and poison.

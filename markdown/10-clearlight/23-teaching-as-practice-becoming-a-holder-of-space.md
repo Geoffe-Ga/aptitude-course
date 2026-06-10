@@ -1,3 +1,15 @@
+---
+id: clearlight-23
+stage: 10
+chapter: 23
+order: 23
+slug: teaching-as-practice-becoming-a-holder-of-space
+title: "Teaching as Practice: Becoming a Holder of Space"
+content_type: chapter
+release_day: 22
+media: []
+---
+
 ## Teaching as Practice: Becoming a Holder of Space
 
 At Clear Light, teaching is no longer something you "do"—it's an expression of who you are.

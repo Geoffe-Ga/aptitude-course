@@ -1,3 +1,15 @@
+---
+id: green-24
+stage: 6
+chapter: 24
+order: 24
+slug: practicing-embodied-understanding-off-the-cushion
+title: "Practicing Embodied Understanding Off the Cushion"
+content_type: chapter
+release_day: 23
+media: []
+---
+
 ## Practicing Embodied Understanding Off the Cushion
 
 Green's practice doesn't end when the timer goes off. The real work is in how you move through your days—how you navigate relationships, how you metabolize emotions, how you honor the body's wisdom in real time.

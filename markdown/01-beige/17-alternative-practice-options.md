@@ -1,3 +1,15 @@
+---
+id: beige-17
+stage: 1
+chapter: 17
+order: 17
+slug: alternative-practice-options
+title: "Alternative Practice Options"
+content_type: chapter
+release_day: 16
+media: []
+---
+
 ## Alternative Practice Options
 
 Although the 5-4-3-2-1 technique is like a great bit of Pratyahara (or yogic “turning inward”), many people find it hard to remember the order or keep the numbers straight.

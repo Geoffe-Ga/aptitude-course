@@ -1,3 +1,15 @@
+---
+id: green-6
+stage: 6
+chapter: 6
+order: 6
+slug: the-practice-of-green-shadow-work-ritual
+title: "The Practice of Green: Shadow Work Ritual"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Practice of Green: Shadow Work Ritual
 
 We're at 30 minutes now—double Red, triple Purple. You're building the capacity for sustained, focused inner work. And the practice that does this most powerfully at Green is the **Shadow Work Ritual**.

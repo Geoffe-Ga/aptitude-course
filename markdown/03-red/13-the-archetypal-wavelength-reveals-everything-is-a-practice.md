@@ -1,3 +1,15 @@
+---
+id: red-13
+stage: 3
+chapter: 13
+order: 13
+slug: the-archetypal-wavelength-reveals-everything-is-a-practice
+title: "The Archetypal Wavelength Reveals Everything is a Practice"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## The Archetypal Wavelength Reveals Everything is a Practice
 
 One of the most powerful realizations of Red—and of APTITUDE more broadly—is that everything is a practice. The ten minutes you spend each day with your hand on your belly, breathing into your solar plexus, isn't separate from "real life." It's a microcosm of it. A training ground. A laboratory where you learn to notice the Wavelength in real time and make different choices.

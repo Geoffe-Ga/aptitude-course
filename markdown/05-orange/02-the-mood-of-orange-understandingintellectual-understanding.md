@@ -1,3 +1,15 @@
+---
+id: orange-2
+stage: 5
+chapter: 2
+order: 2
+slug: the-mood-of-orange-understandingintellectual-understanding
+title: "The Mood of Orange: Understanding—Intellectual Understanding"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Orange: Understanding—Intellectual Understanding
 
 Orange falls within the third category of APTITUDE: **Understanding**. If Yes-And-Ness (Beige and Purple) taught you to trust yourself and Love (Red and Blue) taught you to honor yourself and others, Understanding is where those capacities converge into *competence*. You're learning to make sense of the world—not just emotionally or intuitively, but *systematically*. You're training your mind to become an instrument of clarity.

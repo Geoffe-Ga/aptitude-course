@@ -1,3 +1,15 @@
+---
+id: yellow-23
+stage: 7
+chapter: 23
+order: 23
+slug: what-the-odyssey-teaches-about-yellow
+title: "What the Odyssey Teaches About Yellow"
+content_type: chapter
+release_day: 22
+media: []
+---
+
 ## What the Odyssey Teaches About Yellow
 
 **You Can't Skip the Journey**

@@ -1,3 +1,15 @@
+---
+id: ultraviolet-3
+stage: 9
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-ultraviolet
+title: "The Journaling Prompts of Ultraviolet"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Ultraviolet
 
 Ultraviolet's journaling is contemplative, precise, and devoted. You're not exploring (Orange), processing (Green), or mapping (Yellow) anymore. You're *deepening*. You're returning to the same questions again and again, not because you haven't answered them, but because each time you ask, you see more.

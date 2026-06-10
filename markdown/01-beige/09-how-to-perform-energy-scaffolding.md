@@ -1,3 +1,15 @@
+---
+id: beige-9
+stage: 1
+chapter: 9
+order: 9
+slug: how-to-perform-energy-scaffolding
+title: "How to Perform Energy Scaffolding"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## How to Perform Energy Scaffolding
 
 Step 1: Open a spreadsheet. Make four columns:

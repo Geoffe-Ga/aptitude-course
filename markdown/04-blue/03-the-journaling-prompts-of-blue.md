@@ -1,3 +1,15 @@
+---
+id: blue-3
+stage: 4
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-blue
+title: "The Journaling Prompts of Blue"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Blue
 
 Blue is the stage of relational reflection. The journaling prompts here are designed to help you examine your patterns in relationship—to yourself, to others, to the systems and communities you belong to. They're diagnostic. They're honest. And sometimes, they're uncomfortable.

@@ -1,3 +1,15 @@
+---
+id: teal-12
+stage: 8
+chapter: 12
+order: 12
+slug: beginners-mind-the-koan-of-not-knowing
+title: "Beginner's Mind: The Koan of Not-Knowing"
+content_type: chapter
+release_day: 11
+media: []
+---
+
 ## Beginner's Mind: The Koan of Not-Knowing
 
 Shunryu Suzuki's teaching is central to Teal: "In the beginner's mind there are many possibilities. In the expert's mind there are few."

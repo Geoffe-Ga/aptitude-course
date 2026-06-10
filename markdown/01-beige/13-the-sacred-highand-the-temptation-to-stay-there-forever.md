@@ -1,3 +1,15 @@
+---
+id: beige-13
+stage: 1
+chapter: 13
+order: 13
+slug: the-sacred-highand-the-temptation-to-stay-there-forever
+title: "The Sacred High—and the Temptation to Stay There Forever"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## The Sacred High—and the Temptation to Stay There Forever
 
 Sometimes it truly starts innocently. Perhaps I’ve been diligent. My habit stack is locked in. I’m starting to vibe in that sweet Peak energy. But then, the Overdose. Thriving rather than persisting with Diligence.

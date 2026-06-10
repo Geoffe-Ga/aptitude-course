@@ -1,3 +1,15 @@
+---
+id: purple-8
+stage: 2
+chapter: 8
+order: 8
+slug: the-default-habit-of-purple-vitamins-probiotics-and-water
+title: "The Default Habit of Purple: Vitamins, Probiotics, and Water"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## The Default Habit of Purple: Vitamins, Probiotics, and Water
 
 To begin correcting imbalances in Receptivity—the central quality of Purple—we introduce a Habit that is simple, low-effort, and surprisingly profound: Take your vitamins, drink your water, and support your gut with a probiotic.

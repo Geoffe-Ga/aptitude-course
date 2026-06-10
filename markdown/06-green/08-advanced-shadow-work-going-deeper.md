@@ -1,3 +1,15 @@
+---
+id: green-8
+stage: 6
+chapter: 8
+order: 8
+slug: advanced-shadow-work-going-deeper
+title: "Advanced Shadow Work: Going Deeper"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## Advanced Shadow Work: Going Deeper
 
 Once you've established the basic practice, you can layer in more sophisticated techniques.

@@ -1,3 +1,15 @@
+---
+id: yellow-25
+stage: 7
+chapter: 25
+order: 25
+slug: the-spiral-as-odyssey
+title: "The Spiral as Odyssey"
+content_type: chapter
+release_day: 24
+media: []
+---
+
 ## The Spiral as Odyssey
 
 APTITUDE is your Odyssey. Each stage is an island. Each practice is a test. And Yellow is the return—the integration of everything you've learned on the journey.

@@ -1,3 +1,15 @@
+---
+id: beige-6
+stage: 1
+chapter: 6
+order: 6
+slug: the-grounding-protocol-5-4-3-2-1
+title: "The Grounding Protocol: 5-4-3-2-1"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Grounding Protocol: 5-4-3-2-1
 
 And when you do feel yourself slipping into that Overdose energy—when your crown chakra swells and you start chasing too many dreams at once—that’s where the first Practice of the path comes in.

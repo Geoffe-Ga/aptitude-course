@@ -1,3 +1,15 @@
+---
+id: blue-7
+stage: 4
+chapter: 7
+order: 7
+slug: alternatives-for-blue-practice
+title: "Alternatives for Blue Practice"
+content_type: chapter
+release_day: 6
+media: []
+---
+
 ## Alternatives for Blue Practice
 
 Not everyone connects with Metta, especially at first. If the phrases feel empty or forced, or if you have trauma around the concept of "loving-kindness," there are other practices that cultivate the same Blue energies—relational warmth, empathic attunement, heart-opening vulnerability.

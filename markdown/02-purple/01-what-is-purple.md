@@ -1,3 +1,15 @@
+---
+id: purple-1
+stage: 2
+chapter: 1
+order: 1
+slug: what-is-purple
+title: "What is Purple?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Purple?
 
 Purple is the second Stage of APTITUDE, and the second half of the first polarity: Yes-And-Ness. While Beige is concerned with Agency—the “And” that gives us the will to act, to move, to survive—Purple brings its sacred complement: Receptivity. It is the “Yes.”

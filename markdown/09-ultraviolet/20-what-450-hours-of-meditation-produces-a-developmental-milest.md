@@ -1,3 +1,15 @@
+---
+id: ultraviolet-20
+stage: 9
+chapter: 20
+order: 20
+slug: what-450-hours-of-meditation-produces-a-developmental-milest
+title: "What 450 Hours of Meditation Produces: A Developmental Milestone"
+content_type: chapter
+release_day: 19
+media: []
+---
+
 ## What 450 Hours of Meditation Produces: A Developmental Milestone
 
 By the end of Ultraviolet, if you've done 75 minutes 4x/week for a year, you'll have logged ~450 hours of formal practice.

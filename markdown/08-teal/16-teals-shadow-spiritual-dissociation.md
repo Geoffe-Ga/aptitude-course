@@ -1,3 +1,15 @@
+---
+id: teal-16
+stage: 8
+chapter: 16
+order: 16
+slug: teals-shadow-spiritual-dissociation
+title: "Teal's Shadow: Spiritual Dissociation"
+content_type: chapter
+release_day: 15
+media: []
+---
+
 ## Teal's Shadow: Spiritual Dissociation
 
 Teal's shadow is the danger of confusing *witnessing* with *dissociating*.

@@ -1,3 +1,15 @@
+---
+id: clearlight-2
+stage: 10
+chapter: 2
+order: 2
+slug: the-mood-of-clear-light-wholenessemptiness
+title: "The Mood of Clear Light: Wholeness—Emptiness"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Clear Light: Wholeness—Emptiness
 
 Clear Light completes the category of **Wholeness**, and it does so through the recognition of **Emptiness** (śūnyatā)—the direct experiential knowing that all phenomena are empty of inherent, independent existence.

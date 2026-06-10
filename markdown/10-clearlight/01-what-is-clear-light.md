@@ -1,3 +1,15 @@
+---
+id: clearlight-1
+stage: 10
+chapter: 1
+order: 1
+slug: what-is-clear-light
+title: "What is Clear Light?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Clear Light?
 
 You've arrived. And paradoxically, you've discovered there was never anything to arrive to. Because there was never anyone arriving.

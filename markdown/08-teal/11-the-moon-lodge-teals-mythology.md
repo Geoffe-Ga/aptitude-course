@@ -1,3 +1,15 @@
+---
+id: teal-11
+stage: 8
+chapter: 11
+order: 11
+slug: the-moon-lodge-teals-mythology
+title: "The Moon Lodge: Teal's Mythology"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## The Moon Lodge: Teal's Mythology
 
 In many indigenous traditions, there's a practice called the Moon Lodge—a space where people (especially women during menstruation) go to be alone, to rest, to listen to the deeper rhythms.

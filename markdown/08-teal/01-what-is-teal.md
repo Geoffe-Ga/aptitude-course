@@ -1,3 +1,15 @@
+---
+id: teal-1
+stage: 8
+chapter: 1
+order: 1
+slug: what-is-teal
+title: "What is Teal?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Teal?
 
 If Yellow was about integrating *through* the mind—using analysis, systems thinking, and disciplined attention to see all stages as a system—Teal is about integrating *through the soul* by connecting to something beyond the conditioned personality: the **True Self**. This is where the small self meets the **Higher Self**. Where Free Will (Yellow) expands into **True Self Connection** (Teal).

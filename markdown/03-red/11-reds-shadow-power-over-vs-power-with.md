@@ -1,3 +1,15 @@
+---
+id: red-11
+stage: 3
+chapter: 11
+order: 11
+slug: reds-shadow-power-over-vs-power-with
+title: "Red’s Shadow: Power-Over vs Power-With"
+content_type: chapter
+release_day: 10
+media: []
+---
+
 ## Red’s Shadow: Power-Over vs Power-With
 
 ### The Dangers of Red Narcissism

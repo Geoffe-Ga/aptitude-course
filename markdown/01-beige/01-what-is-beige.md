@@ -1,3 +1,15 @@
+---
+id: beige-1
+stage: 1
+chapter: 1
+order: 1
+slug: what-is-beige
+title: "What is Beige?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Beige?
 
 About the automatic, reactionary survival mode upon which civil society is a thin veneer, fantasy author Patrick Rothfuss paints the following scene. For context the narrator was a homeless orphan for years in the crime ridden city of Tarbean:

@@ -1,3 +1,15 @@
+---
+id: purple-10
+stage: 2
+chapter: 10
+order: 10
+slug: archetypal-gender-masculine-feminine-and-baphomet
+title: "Archetypal Gender: Masculine, Feminine, and Baphomet"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## Archetypal Gender: Masculine, Feminine, and Baphomet
 
 ![](../markdown/images/images/image1.png)

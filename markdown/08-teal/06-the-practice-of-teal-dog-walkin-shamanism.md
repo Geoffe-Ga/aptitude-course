@@ -1,3 +1,15 @@
+---
+id: teal-6
+stage: 8
+chapter: 6
+order: 6
+slug: the-practice-of-teal-dog-walkin-shamanism
+title: "The Practice of Teal: Dog Walkin' Shamanism"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Practice of Teal: Dog Walkin' Shamanism
 
 Teal's practice is radically different from every stage that came before. You're not sitting on a cushion in a quiet room, grinding through 45 minutes of focused attention. You're *walking*. Preferably in nature. Preferably with a dog (if you have one) or alone if you don't.

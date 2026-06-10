@@ -1,3 +1,15 @@
+---
+id: teal-17
+stage: 8
+chapter: 17
+order: 17
+slug: integrate-feelfull-6-phase-wavelength-breakdown
+title: "\"INTEGRATE (Feel)\"—Full 6-Phase Wavelength Breakdown"
+content_type: chapter
+release_day: 16
+media: []
+---
+
 ## "INTEGRATE (Feel)"—Full 6-Phase Wavelength Breakdown
 
 Teal's Wavelength is the same structure as Yellow's, but the *quality* is different. Where Yellow was effortful, Teal is effortless. Where Yellow was directed, Teal is receptive. Let's walk through how each phase *feels* at Teal.

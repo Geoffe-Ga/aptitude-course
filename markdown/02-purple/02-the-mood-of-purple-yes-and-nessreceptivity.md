@@ -1,3 +1,15 @@
+---
+id: purple-2
+stage: 2
+chapter: 2
+order: 2
+slug: the-mood-of-purple-yes-and-nessreceptivity
+title: "The Mood of Purple: Yes-And-Ness—Receptivity"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Purple: Yes-And-Ness—Receptivity
 
 The Mood of Purple is Yes-And-Ness—Receptivity.

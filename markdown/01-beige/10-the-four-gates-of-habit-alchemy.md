@@ -1,3 +1,15 @@
+---
+id: beige-10
+stage: 1
+chapter: 10
+order: 10
+slug: the-four-gates-of-habit-alchemy
+title: "The Four Gates of Habit Alchemy"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## The Four Gates of Habit Alchemy
 
 An essential pocket summary of James Clears’ philosophy from Atomic Habits.

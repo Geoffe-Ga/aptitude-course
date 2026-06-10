@@ -1,3 +1,15 @@
+---
+id: ultraviolet-16
+stage: 9
+chapter: 16
+order: 16
+slug: the-ultraviolet-shadow-when-emptiness-becomes-nihilism
+title: "The Ultraviolet Shadow: When Emptiness Becomes Nihilism"
+content_type: chapter
+release_day: 15
+media: []
+---
+
 ## The Ultraviolet Shadow: When Emptiness Becomes Nihilism
 
 Ultraviolet's shadow is subtle and dangerous: mistaking emptiness for meaninglessness.

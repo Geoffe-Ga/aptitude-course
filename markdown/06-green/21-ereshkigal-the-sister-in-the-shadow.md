@@ -1,3 +1,15 @@
+---
+id: green-21
+stage: 6
+chapter: 21
+order: 21
+slug: ereshkigal-the-sister-in-the-shadow
+title: "Ereshkigal: The Sister in the Shadow"
+content_type: chapter
+release_day: 20
+media: []
+---
+
 ## Ereshkigal: The Sister in the Shadow
 
 Here's what most people miss about the myth: Ereshkigal is not evil. She's *grieving*. She's been exiled to the underworld, forgotten by the gods, left to rule over death and decay while her sister gets all the glory.

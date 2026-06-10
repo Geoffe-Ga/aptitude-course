@@ -1,3 +1,15 @@
+---
+id: blue-1
+stage: 4
+chapter: 1
+order: 1
+slug: what-is-blue
+title: "What is Blue?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Blue?
 
 Welcome to Blue—the fourth stage of APTITUDE and the second expression of Love. If Red taught you to love yourself fiercely, to claim your power and protect your boundaries, Blue teaches you to extend that love outward. To the people around you. To the communities you belong to. To the web of relationships that hold you and ask something of you in return.

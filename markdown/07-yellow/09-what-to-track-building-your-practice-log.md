@@ -1,3 +1,15 @@
+---
+id: yellow-9
+stage: 7
+chapter: 9
+order: 9
+slug: what-to-track-building-your-practice-log
+title: "What to Track: Building Your Practice Log"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## What to Track: Building Your Practice Log
 
 Yellow loves data. So track your sits. After each session, jot down:

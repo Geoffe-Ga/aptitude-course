@@ -1,3 +1,15 @@
+---
+id: green-9
+stage: 6
+chapter: 9
+order: 9
+slug: alternatives-for-green-practice
+title: "Alternatives for Green Practice"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## Alternatives for Green Practice
 
 Shadow work isn't one-size-fits-all. Some people can't sit in a chair and dialogue with their inner parts—it feels too weird, too dissociative, too triggering. That's okay. Here are other ways to do 30 minutes of embodied integration work.

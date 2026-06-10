@@ -1,3 +1,15 @@
+---
+id: orange-8
+stage: 5
+chapter: 8
+order: 8
+slug: step-one-create-your-sacred-laboratory-2-minutes
+title: "Step One: Create Your Sacred Laboratory (2 minutes)"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## Step One: Create Your Sacred Laboratory (2 minutes)
 
 Find a quiet space where you won't be disturbed. This is your laboratory. Your temple. The place where you're going to conduct an experiment on the most fascinating system you'll ever study: yourself.

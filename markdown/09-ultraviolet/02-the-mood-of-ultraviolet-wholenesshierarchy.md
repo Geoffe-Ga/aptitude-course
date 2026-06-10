@@ -1,3 +1,15 @@
+---
+id: ultraviolet-2
+stage: 9
+chapter: 2
+order: 2
+slug: the-mood-of-ultraviolet-wholenesshierarchy
+title: "The Mood of Ultraviolet: Wholeness—Developmental Complexity"
+content_type: chapter
+release_day: 1
+media: []
+---
+
 ## The Mood of Ultraviolet: Wholeness—Developmental Complexity
 
 Ultraviolet introduces the final category of APTITUDE: **Wholeness**. You've moved through Yes-And-Ness (Beige, Purple), Love (Red, Blue), Understanding (Orange, Green), and Freedom (Yellow, Teal). Now you arrive at Wholeness—the recognition that all of it was always one thing.

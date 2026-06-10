@@ -1,3 +1,15 @@
+---
+id: orange-28
+stage: 5
+chapter: 28
+order: 28
+slug: the-library-of-alexandria-knowledge-as-sacred-responsibility
+title: "The Library of Alexandria: Knowledge as Sacred Responsibility"
+content_type: chapter
+release_day: 27
+media: []
+---
+
 ## The Library of Alexandria: Knowledge as Sacred Responsibility
 
 The Library of Alexandria was one of the great wonders of the ancient world. A repository of scrolls from across the known world—philosophy, science, poetry, medicine, astronomy. Scholars traveled from every corner of the Mediterranean to study there. It was the internet of its time. A hub of intellectual collaboration.

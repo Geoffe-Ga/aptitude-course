@@ -1,3 +1,15 @@
+---
+id: teal-9
+stage: 8
+chapter: 9
+order: 9
+slug: the-neuropsychology-of-extended-walking
+title: "The Neuropsychology of Extended Walking"
+content_type: chapter
+release_day: 8
+media: []
+---
+
 ## The Neuropsychology of Extended Walking
 
 Why does walking for an hour produce different effects than sitting meditation?

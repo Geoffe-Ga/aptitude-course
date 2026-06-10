@@ -1,3 +1,15 @@
+---
+id: yellow-8
+stage: 7
+chapter: 8
+order: 8
+slug: the-neuroscience-of-45-minute-sits
+title: "The Neuroscience of 45-Minute Sits"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## The Neuroscience of 45-Minute Sits
 
 Let's get specific about what's happening in your brain during this practice.

@@ -1,3 +1,15 @@
+---
+id: orange-25
+stage: 5
+chapter: 25
+order: 25
+slug: the-prometheus-principle-stealing-fire-from-the-gods
+title: "The Prometheus Principle: Stealing Fire from the Gods"
+content_type: chapter
+release_day: 24
+media: []
+---
+
 ## The Prometheus Principle: Stealing Fire from the Gods
 
 Let me tell you a story. It's old. Greek. And it explains Orange better than any theory.

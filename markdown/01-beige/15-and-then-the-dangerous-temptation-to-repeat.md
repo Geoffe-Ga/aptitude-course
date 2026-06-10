@@ -1,3 +1,15 @@
+---
+id: beige-15
+stage: 1
+chapter: 15
+order: 15
+slug: and-then-the-dangerous-temptation-to-repeat
+title: "And then… the dangerous temptation to repeat"
+content_type: chapter
+release_day: 14
+media: []
+---
+
 ## And then… the dangerous temptation to repeat
 
 Eventually, something cracks open again. You get a bit of your mojo back. You taste the memory of Thriving. And you say:

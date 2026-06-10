@@ -1,3 +1,15 @@
+---
+id: yellow-13
+stage: 7
+chapter: 13
+order: 13
+slug: building-the-daily-meditation-habit-the-first-100-days
+title: "Building the Daily Meditation Habit: The First 100 Days"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## Building the Daily Meditation Habit: The First 100 Days
 
 Here's how to actually make this sustainable.

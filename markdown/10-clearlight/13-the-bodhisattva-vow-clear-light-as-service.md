@@ -1,3 +1,15 @@
+---
+id: clearlight-13
+stage: 10
+chapter: 13
+order: 13
+slug: the-bodhisattva-vow-clear-light-as-service
+title: "The Bodhisattva Vow: Clear Light as Service"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## The Bodhisattva Vow: Clear Light as Service
 
 Clear Light is where practice stops being about you and becomes about everyone.

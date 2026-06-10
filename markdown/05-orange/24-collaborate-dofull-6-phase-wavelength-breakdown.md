@@ -1,3 +1,15 @@
+---
+id: orange-24
+stage: 5
+chapter: 24
+order: 24
+slug: collaborate-dofull-6-phase-wavelength-breakdown
+title: "\"COLLABORATE (Do)\"—Full 6-Phase Wavelength Breakdown"
+content_type: chapter
+release_day: 23
+media: []
+---
+
 ## "COLLABORATE (Do)"—Full 6-Phase Wavelength Breakdown
 
 Now we map the full cycle of Orange's Wavelength. This is the rhythm of collaborative experimentation—the scientific method as a lived practice. Each phase has its medicine (Rx) and its poison (OD). Learn to recognize both.

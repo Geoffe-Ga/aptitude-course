@@ -1,3 +1,15 @@
+---
+id: yellow-7
+stage: 7
+chapter: 7
+order: 7
+slug: the-practice-of-yellow-blissy-meditation
+title: "The Practice of Yellow: Blissy Meditation"
+content_type: chapter
+release_day: 6
+media: []
+---
+
 ## The Practice of Yellow: Blissy Meditation
 
 This is it. The practice we've been building toward since Beige.

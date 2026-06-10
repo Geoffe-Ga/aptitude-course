@@ -1,3 +1,15 @@
+---
+id: purple-13
+stage: 2
+chapter: 13
+order: 13
+slug: internalize-feel
+title: "“INTERNALIZE (Feel)”"
+content_type: chapter
+release_day: 12
+media: []
+---
+
 ## “INTERNALIZE (Feel)”
 
 Approaching the Archetypal Wavelength from the perspective of Purple means shifting from Doing to Feeling. This is the Internalize (Feel)

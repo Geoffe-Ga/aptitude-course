@@ -1,3 +1,15 @@
+---
+id: green-10
+stage: 6
+chapter: 10
+order: 10
+slug: the-default-habit-of-green-active-recovery
+title: "The Default Habit of Green: Active Recovery"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## The Default Habit of Green: Active Recovery
 
 At Green, the habit shifts from pure *exertion* (Orange's Exercise) to **Active Recovery**. This is the recognition that rest is not passivity—it's a practice. That healing happens in the pauses. That you can't integrate what you haven't given space to metabolize.

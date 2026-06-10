@@ -1,3 +1,15 @@
+---
+id: teal-14
+stage: 8
+chapter: 14
+order: 14
+slug: teals-divine-gender-divine-femininereceptive-integration
+title: "Teal's Divine Gender: Divine Feminine—Receptive Integration"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## Teal's Divine Gender: Divine Feminine—Receptive Integration
 
 Teal swings back to the **Divine Feminine**—the archetypal force of receptivity, allowing, and surrender. Where Yellow was active integration (building systems, disciplining attention), Teal is *passive* integration (allowing coherence to emerge on its own).

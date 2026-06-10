@@ -1,3 +1,15 @@
+---
+id: red-6
+stage: 3
+chapter: 6
+order: 6
+slug: the-practice-of-red-paced-breathing
+title: "The Practice of Red: Paced Breathing"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Practice of Red: Paced Breathing
 
 If Beige gave us grounding, and Purple gave us resonance, Red gives us spine. The Practice of Red is about standing in your selfhood—not with force or performance, but with embodied confidence. And there’s no better place to build that kind of strength than in your breath.

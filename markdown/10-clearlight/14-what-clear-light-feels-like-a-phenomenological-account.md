@@ -1,3 +1,15 @@
+---
+id: clearlight-14
+stage: 10
+chapter: 14
+order: 14
+slug: what-clear-light-feels-like-a-phenomenological-account
+title: "What Clear Light Feels Like: A Phenomenological Account"
+content_type: chapter
+release_day: 13
+media: []
+---
+
 ## What Clear Light Feels Like: A Phenomenological Account
 
 Let me try to describe what it's actually like to live from Clear Light. This is phenomenology, not theory.

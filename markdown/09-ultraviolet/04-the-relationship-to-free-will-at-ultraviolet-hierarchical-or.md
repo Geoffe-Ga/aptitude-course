@@ -1,3 +1,15 @@
+---
+id: ultraviolet-4
+stage: 9
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-ultraviolet-hierarchical-or
+title: "The Relationship to Free Will at Ultraviolet: Hierarchical Organizer"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Ultraviolet: Hierarchical Organizer
 
 At Ultraviolet, the relationship to Free Will becomes *functional*.

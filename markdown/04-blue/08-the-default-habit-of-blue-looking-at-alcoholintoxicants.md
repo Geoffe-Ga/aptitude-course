@@ -1,3 +1,15 @@
+---
+id: blue-8
+stage: 4
+chapter: 8
+order: 8
+slug: the-default-habit-of-blue-looking-at-alcoholintoxicants
+title: "The Default Habit of Blue: Looking at Alcohol/Intoxicants"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## The Default Habit of Blue: Looking at Alcohol/Intoxicants
 
 Every stage has a default habit—a behavior that either supports or undermines the work. For Blue, the habit is: **Looking at Alcohol/Intoxicants**.

@@ -1,3 +1,15 @@
+---
+id: beige-16
+stage: 1
+chapter: 16
+order: 16
+slug: the-5-4-3-2-1-technique-your-root-chakra-reset
+title: "The 5-4-3-2-1 Technique (Your Root Chakra Reset)"
+content_type: chapter
+release_day: 15
+media: []
+---
+
 ## The 5-4-3-2-1 Technique (Your Root Chakra Reset)
 
 When your crown chakra starts inflating and you feel your feet leaving the ground—when your to-do list gets wild and your dreams start tasting like mania—pause and drop into this:

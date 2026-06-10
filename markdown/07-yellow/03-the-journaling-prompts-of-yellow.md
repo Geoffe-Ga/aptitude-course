@@ -1,3 +1,15 @@
+---
+id: yellow-3
+stage: 7
+chapter: 3
+order: 3
+slug: the-journaling-prompts-of-yellow
+title: "The Journaling Prompts of Yellow"
+content_type: chapter
+release_day: 2
+media: []
+---
+
 ## The Journaling Prompts of Yellow
 
 Yellow's journaling is integrative. You're not exploring one dimension (like Orange's problems or Green's shadow). You're weaving *all* the dimensions together. You're looking for the patterns that connect. The threads that run through everything.

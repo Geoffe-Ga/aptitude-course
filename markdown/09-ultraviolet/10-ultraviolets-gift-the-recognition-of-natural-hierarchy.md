@@ -1,3 +1,15 @@
+---
+id: ultraviolet-10
+stage: 9
+chapter: 10
+order: 10
+slug: ultraviolets-gift-the-recognition-of-natural-hierarchy
+title: "Ultraviolet's Gift: The Recognition of Developmental Complexity"
+content_type: chapter
+release_day: 9
+media: []
+---
+
 ## Ultraviolet's Gift: The Recognition of Developmental Complexity
 
 The deepest gift of Ultraviolet is the recognition that *complexity is not superiority—it's scaffolding*.

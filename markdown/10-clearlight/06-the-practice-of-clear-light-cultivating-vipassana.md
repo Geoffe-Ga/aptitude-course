@@ -1,3 +1,15 @@
+---
+id: clearlight-6
+stage: 10
+chapter: 6
+order: 6
+slug: the-practice-of-clear-light-cultivating-vipassana
+title: "The Practice of Clear Light: Cultivating Vipassana"
+content_type: chapter
+release_day: 5
+media: []
+---
+
 ## The Practice of Clear Light: Cultivating Vipassana
 
 Clear Light's practice is **Vipassana**—insight meditation. Where samatha (concentration) was about stabilizing the mind, vipassana is about *seeing* the nature of mind. Seeing the three characteristics: impermanence (*anicca*), suffering (*dukkha*), and non-self (*anatta*).

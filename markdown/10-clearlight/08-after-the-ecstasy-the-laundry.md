@@ -1,3 +1,15 @@
+---
+id: clearlight-8
+stage: 10
+chapter: 8
+order: 8
+slug: after-the-ecstasy-the-laundry
+title: "After the Ecstasy, The Laundry"
+content_type: chapter
+release_day: 7
+media: []
+---
+
 ## After the Ecstasy, The Laundry
 
 Jack Kornfield's book *After the Ecstasy, the Laundry* is essential reading for Clear Light. Because here's the truth most spiritual seekers don't want to hear:

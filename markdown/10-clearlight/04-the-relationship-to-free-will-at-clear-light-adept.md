@@ -1,3 +1,15 @@
+---
+id: clearlight-4
+stage: 10
+chapter: 4
+order: 4
+slug: the-relationship-to-free-will-at-clear-light-adept
+title: "The Relationship to Free Will at Clear Light: Adept"
+content_type: chapter
+release_day: 3
+media: []
+---
+
 ## The Relationship to Free Will at Clear Light: Adept
 
 At Clear Light, the question of Free Will dissolves.

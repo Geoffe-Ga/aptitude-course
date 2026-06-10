@@ -1,3 +1,15 @@
+---
+id: orange-29
+stage: 5
+chapter: 29
+order: 29
+slug: practicing-understanding-off-the-cushion
+title: "Practicing Understanding Off the Cushion"
+content_type: chapter
+release_day: 28
+media: []
+---
+
 ## Practicing Understanding Off the Cushion
 
 Orange is not just a meditation practice. It's a way of moving through the world. And the real test is whether you can carry the principles of Orange—curiosity, rigor, collaboration, iteration—into your daily life.

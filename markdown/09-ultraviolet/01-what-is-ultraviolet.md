@@ -1,3 +1,15 @@
+---
+id: ultraviolet-1
+stage: 9
+chapter: 1
+order: 1
+slug: what-is-ultraviolet
+title: "What is Ultraviolet?"
+content_type: chapter
+release_day: 0
+media: []
+---
+
 ## What is Ultraviolet?
 
 If the journey so far has been about *becoming* whole—building the foundation, integrating the shadow, training attention, resting in awareness—Ultraviolet is where you stop becoming and start *recognizing*.
