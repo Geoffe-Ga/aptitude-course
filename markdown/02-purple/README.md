@@ -11,7 +11,7 @@ This folder contains the modular sections for the PURPLE stage of the APTITUDE c
 - [The Relationship to Free Will at Purple: Archetype Embodier](./04-the-relationship-to-free-will-at-purple-archetype-embodier.md)
 - [The Mode of the Wavelength of Purple: Inhabit (Feel)](./05-the-vibe-wavelength-of-purple-internalize-feel.md)
 - [The Practice of Purple: A Daily Tarot Draw](./06-the-practice-of-purple-a-daily-tarot-draw.md)
-- [Alternative Practice Examples: I-Ching, Traffic Lights, Bibliomancy, Synchronicity](./07-alternative-practice-examples-i-ching-traffic-lights-bibliom.md)
+- [Alternative Purple Practices: Eight Five-Minute Receptivity Meditations](./07-alternative-practice-examples-i-ching-traffic-lights-bibliom.md)
 - [The Default Habit of Purple: Vitamins, Probiotics, and Water](./08-the-default-habit-of-purple-vitamins-probiotics-and-water.md)
 - [Yes-And-Ness: A balance between Radical Agency and Radical Acceptance](./09-yes-and-ness-a-balance-between-radical-agency-and-radical-ac.md)
 - [Archetypal Gender: Masculine, Feminine, and Baphomet](./10-archetypal-gender-masculine-feminine-and-baphomet.md)
