@@ -4,13 +4,13 @@ stage: 5
 chapter: 5
 order: 5
 slug: the-vibe-wavelength-of-orange-collaborate-do
-title: "The Vibe Wavelength of Orange: Collaborate (Do)"
+title: "The Mode of the Wavelength of Orange: Collaborate (Do)"
 content_type: chapter
 release_day: 4
 media: []
 ---
 
-## The Vibe Wavelength of Orange: Collaborate (Do)
+## The Mode of the Wavelength of Orange: Collaborate (Do)
 
 Orange introduces a new Mode in the APTITUDE framework: **Collaborate**. Where Inhabit (Beige, Purple) was about building your own foundation and Express (Red, Blue) was about externalizing your selfhood, Collaborate is about *co-creation*. You're no longer working in isolation or simply broadcasting your will. You're entering into dynamic relationship with other agents—people, systems, ideas—and learning to generate something *together* that none of you could create alone.
 

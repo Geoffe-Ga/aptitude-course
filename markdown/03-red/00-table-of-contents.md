@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Red: Dominator](#the-relationship-to-free-will-at-red-dominator)
 
-[The Vibe Wavelength of Red: Externalize (Do)](#the-vibe-wavelength-of-red-externalize-do)
+[The Mode of the Wavelength of Red: Express (Do)](#the-mode-of-the-wavelength-of-red-express-do)
 
 [The Practice of Red: Paced Breathing](#the-practice-of-red-paced-breathing)
 
@@ -22,7 +22,7 @@
 
 [Red’s Shadow: Power-Over vs Power-With](#reds-shadow-power-over-vs-power-with)
 
-[“EXTERNALIZE (Do)”](#externalize-do)
+[“EXPRESS (Do)”](#express-do)
 
 [The Archetypal Wavelength Reveals Everything is a Practice](#the-archetypal-wavelength-reveals-everything-is-a-practice)
 
@@ -41,8 +41,8 @@ The Journaling Prompts of Red        4
 
 The Relationship to Free Will at Red: Dominator        5
 
-The Vibe Wavelength of Red:
-Externalize (Do)        6
+The Mode of the Wavelength of Red:
+Express (Do)        6
 
 The Practice of Red: Paced Breathing        8
 
@@ -72,7 +72,7 @@ Defining Power-Over and Power-With        16
 
 Hurt People Hurt People while Healed People Heal People        16
 
-“EXTERNALIZE (Do)”        16
+“EXPRESS (Do)”        16
 
 1. RISING        18
 

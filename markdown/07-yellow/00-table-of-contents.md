@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Yellow: Intentional Actor](#the-relationship-to-free-will-at-yellow-intentional-actor)
 
-[The Vibe Wavelength of Yellow: Integrate (Do)](#the-vibe-wavelength-of-yellow-integrate-do)
+[The Mode of the Wavelength of Yellow: Integrate (Do)](#the-mode-of-the-wavelength-of-yellow-integrate-do)
 
 [The Practice of Yellow: Blissy Meditation](#the-practice-of-yellow-blissy-meditation)
 

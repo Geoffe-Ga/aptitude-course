@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Teal: Witness](#the-relationship-to-free-will-at-teal-witness)
 
-[The Vibe Wavelength of Teal: Integrate (Feel)](#the-vibe-wavelength-of-teal-integrate-feel)
+[The Mode of the Wavelength of Teal: Integrate (Feel)](#the-mode-of-the-wavelength-of-teal-integrate-feel)
 
 [The Practice of Teal: Dog Walkin' Shamanism](#the-practice-of-teal-dog-walkin-shamanism)
 

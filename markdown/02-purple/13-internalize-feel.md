@@ -4,15 +4,15 @@ stage: 2
 chapter: 13
 order: 13
 slug: internalize-feel
-title: "“INTERNALIZE (Feel)”"
+title: "“INHABIT (Feel)”"
 content_type: chapter
 release_day: 12
 media: []
 ---
 
-## “INTERNALIZE (Feel)”
+## “INHABIT (Feel)”
 
-Approaching the Archetypal Wavelength from the perspective of Purple means shifting from Doing to Feeling. This is the Internalize (Feel)
+Approaching the Archetypal Wavelength from the perspective of Purple means shifting from Doing to Feeling. This is the Inhabit (Feel)
 cycle—the Divine Feminine expression of Yes-And-Ness. If Beige is about stabilizing your life through embodied action and structure, Purple explores how we emotionally metabolize our experience. It's the part of the spiral where you're not building habits with your hands, you're weathering moods with your heart.
 
 Like Beige, this Stage is internal—it's still about what happens inside of you, still mediated through your own perception and authority. But where Beige tracked the rhythm of physical action and the forging of foundational behaviors, Purple tracks the somatic rhythm of emotional states. It’s not about getting things done. It’s about being with what arises.
@@ -37,7 +37,7 @@ It’s to befriend them.
 - Rx: Inspiration
 - OD: Grandiosity
 
-Rising in the Internalize (Feel) Wavelength is the soft ignition of emotional momentum. Something lights up inside you—a spark of curiosity, wonder, creative longing, or intuitive resonance. It might not be a full idea or plan yet, but it’s alive. You feel stirred. Energized. Slightly more radiant than usual.
+Rising in the Inhabit (Feel) Wavelength is the soft ignition of emotional momentum. Something lights up inside you—a spark of curiosity, wonder, creative longing, or intuitive resonance. It might not be a full idea or plan yet, but it’s alive. You feel stirred. Energized. Slightly more radiant than usual.
 Inspiration arrives as a whisper, a shimmer, a pull toward something meaningful.
 
 This isn’t Beige’s grinding motivation or Red’s fierce determination. This is more like the breath before the song begins, or the lift of your chest as a story opens with promise. It’s subtle, but unmistakable. You start noticing beauty. Possibility. A desire to engage.
@@ -55,7 +55,7 @@ Let that wanting guide you—but stay receptive. Stay humble. And remember: the 
 - Rx: Joy
 - OD: Ecstasy
 
-Peaking in the Internalize (Feel) Wavelength is the full bloom of the emotion that began in Rising. If Inspiration is the opening chord, Joy is the crescendo. You’re lit up. The colors feel richer, music hits deeper, and connection—whether with people, ideas, or the divine—feels effortless.
+Peaking in the Inhabit (Feel) Wavelength is the full bloom of the emotion that began in Rising. If Inspiration is the opening chord, Joy is the crescendo. You’re lit up. The colors feel richer, music hits deeper, and connection—whether with people, ideas, or the divine—feels effortless.
 This is the apex of the wave’s vitality, where everything clicks and you feel aligned with something larger than yourself.
 
 Joy, in this dosage, is clean. Present. Grounded. It’s not manic—it’s radiant. You’re not escaping from pain; you’re fully here, and it feels good. This kind of joy can be quiet or loud, solitary or shared, but it always carries that unmistakable feeling: this moment is enough.
@@ -75,7 +75,7 @@ The beauty of Peaking is that it teaches you what’s possible. The wisdom of Pe
 - Rx: Introspectivity
 - OD: Anxiety
 
-Withdrawal in the Internalize (Feel) cycle is the turning point—the subtle shift from expansion to contraction. After the high of Peaking, your system begins to pull inward. Energy recedes.
+Withdrawal in the Inhabit (Feel) cycle is the turning point—the subtle shift from expansion to contraction. After the high of Peaking, your system begins to pull inward. Energy recedes.
 Sensations dull. What felt effortless begins to feel heavier, quieter, or more distant. This isn’t failure—it’s rhythm. The tide goes out.
 
 When received skillfully, this phase becomes Introspectivity. You begin to reflect, to digest what just happened. Questions surface gently: What am I learning? What did that wave stir in me? You slow down. You journal. You walk without music. You feel your feelings instead of performing them. This is sacred pause.

@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Orange: Status Seeker](#the-relationship-to-free-will-at-orange-status-seeker)
 
-[The Vibe Wavelength of Orange: Collaborate (Do)](#the-vibe-wavelength-of-orange-collaborate-do)
+[The Mode of the Wavelength of Orange: Collaborate (Do)](#the-mode-of-the-wavelength-of-orange-collaborate-do)
 
 [The Practice of Orange: Wim Hof Method](#the-practice-of-orange-wim-hof-method)
 

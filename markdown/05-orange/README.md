@@ -9,7 +9,7 @@ This folder contains the modular sections for the ORANGE stage of the APTITUDE c
 - [The Mood of Orange: Understanding—Intellectual Understanding](./02-the-mood-of-orange-understandingintellectual-understanding.md)
 - [The Journaling Prompts of Orange](./03-the-journaling-prompts-of-orange.md)
 - [The Relationship to Free Will at Orange: Status Seeker](./04-the-relationship-to-free-will-at-orange-status-seeker.md)
-- [The Vibe Wavelength of Orange: Collaborate (Do)](./05-the-vibe-wavelength-of-orange-collaborate-do.md)
+- [The Mode of the Wavelength of Orange: Collaborate (Do)](./05-the-vibe-wavelength-of-orange-collaborate-do.md)
 - [The Practice of Orange: Wim Hof Method](./06-the-practice-of-orange-wim-hof-method.md)
 - [The Basic Wim Hof Protocol: A Step-by-Step Guide](./07-the-basic-wim-hof-protocol-a-step-by-step-guide.md)
 - [Step One: Create Your Sacred Laboratory (2 minutes)](./08-step-one-create-your-sacred-laboratory-2-minutes.md)

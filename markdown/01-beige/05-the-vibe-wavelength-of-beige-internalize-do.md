@@ -4,13 +4,13 @@ stage: 1
 chapter: 5
 order: 5
 slug: the-vibe-wavelength-of-beige-internalize-do
-title: "The Vibe Wavelength of Beige: Internalize (Do)"
+title: "The Mode of the Wavelength of Beige: Inhabit (Do)"
 content_type: chapter
 release_day: 4
 media: []
 ---
 
-## The Vibe Wavelength of Beige: Internalize (Do)
+## The Mode of the Wavelength of Beige: Inhabit (Do)
 
 This stage also builds on the introduction to the Archetypal Wavelength that you should have picked up from the [Philosophy page](https://aptitude.guru/philosophy/archetypal-wavelength). Please do read that material if you haven’t yet. It provides a vital foundation.
 
@@ -23,7 +23,7 @@ Each Phase has both a “Prescribed Dosage,” an “Rx” that is healthy, skil
 For the “Do”-ing aspect of the Inhabit wavelength, the Phases look like this:
 
 Rising Rx: Commitment — A grounded promise to begin showing up.
-OD: Over-commitment — Taking on too much too fast.
+OD: Overcommitment — Taking on too much too fast.
 
 Peaking Rx: Diligence — Steady effort anchored in habit and presence.
 OD: Thriving — Overextending in a rush of manic progress.
@@ -34,7 +34,7 @@ OD: Burnout — Energetic collapse from unsustainable output.
 Diminishing Rx: Security — Embracing contraction to restore safety and trust.
 OD: Grasping — Clinging to momentum as it fades.
 
-Bottoming Out Rx: Stability — Deep stillness that anchors your nervous system.
+Bottoming Out Rx: Planning — Resting deeply while gently naming what comes next.
 OD: Overwhelm — Flooded by unmet needs or collapsing structure.
 
 Restoration Rx: Next Habit — Humble return with a manageable new step.

@@ -20,7 +20,7 @@ The recommended pattern—offered, not mandated—is to work through the 22 card
 You begin with The Fool on Day 1 of this Stage and conclude with The World on Day 22, the first day of Red. This gives you a structured encounter with the Fool’s Journey: the arc of psychic evolution encoded in Tarot lore. But if a random draw feels more alive for you, follow that feeling. If you prefer Bibliomancy, the I Ching, Runes, or simply sitting with a symbol you encountered on your morning walk, beautiful.
 This is your journey.
 
-What matters most is how you engage the symbol. The image in this section illustrates the Wavelength of Purple Practice—not just the what, but the how, the rhythm of feeling-into-symbol that aligns with the Internalize (Feel) current of this Stage. Here’s how it flows:
+What matters most is how you engage the symbol. The image in this section illustrates the Wavelength of Purple Practice—not just the what, but the how, the rhythm of feeling-into-symbol that aligns with the Inhabit (Feel) current of this Stage. Here’s how it flows:
 
 Rising: Gaze gently at the card. Don’t over-focus or try to decode anything. Let the image wash over you like warm water.
 Allow yourself to receive the card, without reaching for it.

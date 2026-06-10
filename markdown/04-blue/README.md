@@ -9,7 +9,7 @@ This folder contains the modular sections for the BLUE stage of the APTITUDE cou
 - [The Mood of Blue: Love—Community Love](./02-the-mood-of-blue-lovecommunity-love.md)
 - [The Journaling Prompts of Blue](./03-the-journaling-prompts-of-blue.md)
 - [The Relationship to Free Will at Blue: Victim](./04-the-relationship-to-free-will-at-blue-victim.md)
-- [The Vibe Wavelength of Blue: Express (Feel)](./05-the-vibe-wavelength-of-blue-express-feel.md)
+- [The Mode of the Wavelength of Blue: Express (Feel)](./05-the-vibe-wavelength-of-blue-express-feel.md)
 - [The Practice of Blue: Metta Meditation](./06-the-practice-of-blue-metta-meditation.md)
 - [Alternatives for Blue Practice](./07-alternatives-for-blue-practice.md)
 - [The Default Habit of Blue: Looking at Alcohol/Intoxicants](./08-the-default-habit-of-blue-looking-at-alcoholintoxicants.md)

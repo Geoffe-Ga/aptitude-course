@@ -8,7 +8,7 @@
 
 [The Relationship to Free Will at Ultraviolet: Hierarchical Organizer](#the-relationship-to-free-will-at-ultraviolet-hierarchical-organizer)
 
-[The Vibe Wavelength of Ultraviolet: Absorb (Do)](#the-vibe-wavelength-of-ultraviolet-absorb-do)
+[The Mode of the Wavelength of Ultraviolet: Absorb (Do)](#the-mode-of-the-wavelength-of-ultraviolet-absorb-do)
 
 [The Practice of Ultraviolet: Cultivating Samatha Jhanas](#the-practice-of-ultraviolet-cultivating-samatha-jhanas)
 
