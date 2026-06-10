@@ -30,7 +30,7 @@ This is the loneliness of Yellow. You've changed so much through the journey tha
 
 And you can't just *tell* them. You have to show them. Through your actions. Through how you navigate complexity. Through the wisdom you embody.
 
-Yellow is often misunderstood. People at earlier stages see Yellow's complexity and mistake it for indecisiveness. They see the refusal to cling to one framework and mistake it for lack of conviction.
+Yellow is often misunderstood. People who haven't yet unlocked Yellow see its complexity and mistake it for indecisiveness. They see the refusal to cling to one framework and mistake it for lack of conviction.
 
 But Odysseus wasn't weak. He was *strategic*. He held his power lightly until the moment to act.
 

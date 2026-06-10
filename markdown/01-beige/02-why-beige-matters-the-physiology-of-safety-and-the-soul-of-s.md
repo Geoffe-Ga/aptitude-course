@@ -73,7 +73,7 @@ I became obsessed with Free Will and the sense that I was a Biological Machine 
 
 Something undoubtedly will—just keep striking matches until one stays lit.
 
-Plus, learning about a model of development has been shown to improve an individual’s ability to advance through it. Just by reading about this, you are solidifying your base. Where attention goes, energy flows.
+Plus, learning about a model of development has been shown to improve an individual’s ability to unlock its capacities. Just by reading about this, you are solidifying your base. Where attention goes, energy flows.
 
 Some of the most innovative models of development of our time are Integral Theory and Spiral Dynamics. But discovering them was more of an experience of validation than of inspiration. I had also identified the necessity of the basic agency available at this foundational level according to a system of my own: the Aspects of Adepthood Wholeness, in which it is referred to as the Agentic Aspect of Yes-And-Ness, which we’ll cover in greater detail in the next chapter, once were introduced to the “Yes.”
 
