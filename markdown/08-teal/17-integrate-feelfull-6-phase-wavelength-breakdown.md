@@ -146,7 +146,7 @@ This is the wisdom of Teal: awareness itself is corrective. You don't have to *d
 
 You've been walking for 40 minutes. You were in a beautiful flow—unified, present, absorbed. And then... you're not. A thought pulls you in. A planning spiral starts. Or you just space out—daydreaming, drifting, gone.
 
-At earlier stages, this would trigger self-judgment: "I lost it. I failed. I need to concentrate harder."
+Earlier in your practice, this would trigger self-judgment: "I lost it. I failed. I need to concentrate harder."
 
 At Teal, it's just: "Oh. Drifting happened." No drama. No story. Just a neutral observation.
 

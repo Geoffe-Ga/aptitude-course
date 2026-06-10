@@ -44,7 +44,7 @@ But when you stay there too long, you don’t evolve. You calcify. You become ad
 
 
 
-Those stuck at Red believe Free Will is will over. Over others. Over their own bodies. Over the Earth. Power becomes synonymous with domination—and because domination brings results in a domination-based culture, it can be a seductive illusion.
+Those stuck in Red’s Overdose believe Free Will is will over. Over others. Over their own bodies. Over the Earth. Power becomes synonymous with domination—and because domination brings results in a domination-based culture, it can be a seductive illusion.
 
 
 

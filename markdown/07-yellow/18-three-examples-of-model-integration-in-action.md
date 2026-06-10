@@ -26,7 +26,7 @@ You're in a fight with your partner. It's the same argument you've had a hundred
 
 - **Polyvagal Theory**: "We're both dysregulated. My nervous system is in sympathetic activation (fight/flight) and theirs has gone dorsal (shutdown). We need to co-regulate before we can communicate."
 
-At earlier stages, you'd pick *one* of these and make it the Truth. "This is an attachment issue!" or "This is an Enneagram thing!"
+Before Yellow comes online, you'd pick *one* of these and make it the Truth. "This is an attachment issue!" or "This is an Enneagram thing!"
 
 But Yellow holds them *all*. Because they're all true. And they're all partial.
 
@@ -64,7 +64,7 @@ You're managing a diverse team. Different people need different things. You coul
 
 - **Delegating**: "You've got this. Let me know if you need anything."
 
-Earlier stages would pick one and apply it to everyone. But Yellow recognizes: different people are at different stages. And different situations call for different approaches.
+Without Yellow's vantage, you'd pick one and apply it to everyone. But Yellow recognizes: different people have different notes unlocked. And different situations call for different approaches.
 
 So you flex:
 

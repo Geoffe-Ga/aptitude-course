@@ -43,7 +43,7 @@ Do this for each stage. Over weeks and months, you'll have a complete developmen
 
 You're not at one stage in all areas of your life. You might be at Yellow intellectually, Green relationally, and Red in conflict.
 
-Map it. Be specific. Where are you most developed? Where are you least? What triggers you to drop back to earlier stages?
+Map it. Be specific. Which notes do you play most fluently? Which are shakiest? What situations knock your newer notes out of reach?
 
 This is not about shame. It's about *seeing clearly*. Because only when you see clearly can you work skillfully.
 
