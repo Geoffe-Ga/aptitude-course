@@ -16,7 +16,6 @@ This folder contains the modular sections for the BEIGE stage of the APTITUDE co
 - [How to Perform Energy Scaffolding](./09-how-to-perform-energy-scaffolding.md)
 - [The Four Gates of Habit Alchemy](./10-the-four-gates-of-habit-alchemy.md)
 - [“INHABIT (Do)”](./11-internalize-do.md)
-- [In Summary](./12-in-summary.md)
 - [The Sacred High—and the Temptation to Stay There Forever](./13-the-sacred-highand-the-temptation-to-stay-there-forever.md)
 - [When You Don’t Ground, You Ascend Into Disconnection](./14-when-you-dont-ground-you-float-into-disconnection.md)
 - [And then… the dangerous temptation to repeat](./15-and-then-the-dangerous-temptation-to-repeat.md)
