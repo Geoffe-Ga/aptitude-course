@@ -30,7 +30,7 @@ The goal here isn’t to control your feelings.
 
 It’s to befriend them.
 
-![](../markdown/images/images/image2.png)
+![](../images/images/image2.png)
 
 ### 1. RISING
 

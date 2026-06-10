@@ -12,8 +12,7 @@ media: []
 
 ## The Vibe Wavelength of Beige: Internalize (Do)
 
-This stage also builds on the introduction to the Archetypal Wavelength that you should have picked up from the <a href="https://www.google.com/url?q=https://aptitude.guru/philosophy/archetypal-wavelength&sa=D&source=editors&ust=1764912627500309&usg=AOvVaw2E0uWn4AqXvS3EHHDuBcVy"
-class="c15">Philosophy page. Please do read that material if you haven’t yet. It provides a vital foundation.
+This stage also builds on the introduction to the Archetypal Wavelength that you should have picked up from the [Philosophy page](https://aptitude.guru/philosophy/archetypal-wavelength). Please do read that material if you haven’t yet. It provides a vital foundation.
 
 For each Stage of APTITUDE, we will be looking at the Archetypal Wavelength from a different perspective. The Beige wave is the “Do”ing aspect of a Wavelength you’re Internalizing for—a six-phase cycle that reveals the natural rhythm of doing.
 

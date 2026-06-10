@@ -12,7 +12,7 @@ media: []
 
 ## Archetypal Gender: Masculine, Feminine, and Baphomet
 
-![](../markdown/images/images/image1.png)
+![](../images/images/image1.png)
 
 Take a look at the spiral above and notice the pattern: warm colors alternate with cool ones as you move upward through the ten stages of APTITUDE. This isn’t just aesthetic—it maps an energetic rhythm. The warm tones represent the Divine Masculine:
 assertive, agentic, outward-moving. The cool tones embody the Divine Feminine: receptive, intuitive, inward-facing. Each stage expresses one of these poles as part of a larger dialectic—doing and being, self-expressing and self-sacrificing, the “I” and the “We.”

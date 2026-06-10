@@ -12,7 +12,7 @@ media: []
 
 ## “EXTERNALIZE (Do)”
 
-![](../markdown/images/images/image1.png)
+![](../images/images/image1.png)
 
 Approaching the Archetypal Wavelength from the perspective of Red means looking at what happens when the energy of your being wants to move outward. Where Beige helped you start to Inhabit your experience by building stabilizing behaviors, and Purple deepened that Inhabiting through the receptive “Feel” of sacred symbols and subtle meaning, Red shifts into a new Mode entirely: Express. In the APTITUDE progression, the six Modes—Inhabit, Express, Collaborate, Integrate, Absorb, and Be—guide us step-by-step into Whole Adepthood. And right here, in Red, we begin learning how to do something with the energy we’ve been collecting.
 

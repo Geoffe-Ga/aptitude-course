@@ -1,0 +1,27 @@
+// Markdown lint configuration for the content corpus (issue #21).
+//
+// The corpus is literary prose, so stylistic rules (line length, heading
+// punctuation, emphasis style, …) are deliberately OFF. What CI enforces is
+// the CONTENT_FORMAT.md contract: no raw HTML in bodies (§2.2) plus a few
+// structural correctness rules that catch real authoring mistakes.
+{
+  "config": {
+    "default": false,
+    // CONTENT_FORMAT.md §2.2 — the app renders Markdown natively and does
+    // not execute HTML. Raw HTML in a body is a build-breaking violation.
+    "no-inline-html": true,
+    // Broken constructs that silently render wrong in the app:
+    "no-reversed-links": true,
+    "no-empty-links": true,
+    "no-missing-space-atx": true,
+    "no-multiple-space-atx": true
+  },
+  "globs": [
+    "markdown/**/*.md",
+    "!markdown/backup/**",
+    "*.md"
+  ],
+  "ignores": [
+    "node_modules"
+  ]
+}

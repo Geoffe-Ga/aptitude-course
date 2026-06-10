@@ -12,7 +12,7 @@ media: []
 
 ## The Vibe Wavelength of Purple: Internalize (Feel)
 
-![](../markdown/images/images/image3.png)
+![](../images/images/image3.png)
 
 The Vibe Wavelength of Purple is Internalize (Feel).
 
