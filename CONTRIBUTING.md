@@ -72,6 +72,14 @@ Run all three before pushing and CI will pass on the first try.
 
 5. **Open a PR.** CI runs the three checks above; all are required.
 
+## Stage introductions
+
+A stage's ungated "start here" reading (`manifest.json`'s `stage_intros[]`,
+CONTENT_FORMAT.md §3.3) is **not a file you create** — it's generated
+automatically from the stage's existing chapter 1 ("What is `<Stage>`?").
+Editing that chapter's `title` or `summary` updates the intro too the next
+time you run `python scripts/build_manifest.py`. There's nothing else to do.
+
 ## Edit a chapter
 
 Edit the body freely — no manifest rebuild needed unless you touched
