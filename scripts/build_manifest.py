@@ -12,11 +12,12 @@ duplicate ``id`` / ``(stage, chapter)``, missing required fields, a bad
 ``content_type``/``release_day``, or a ``slug`` that disagrees with the
 filename.
 
-Each stage may also carry one ``<NN-stage>/00-introduction.md`` file — an
-ungated, non-drip-fed "start here" reading collected into the optional
-``stage_intros[]`` tier (content-repo spec CR-B, adepthood#717,
-``schema_version`` ``1.1.0``). Omitting the tier entirely (no stage has an
-intro yet) keeps the manifest a valid ``1.0.0``-compatible document.
+Each stage's optional ``stage_intros[]`` entry (content-repo spec CR-B,
+adepthood#717, ``schema_version`` ``1.1.0``) is **derived**, not authored: it
+is a second, ungated, non-drip-fed manifest view onto that stage's existing
+chapter 1 ("What is `<Stage>`?"), not a separate file. There is no dedicated
+intro Markdown to write or keep in sync — the tier disappears on its own if a
+stage ever has no chapter 1.
 
 Usage::
 
@@ -47,7 +48,6 @@ STAGE_DIR_RE = re.compile(r"^\d{2}-[a-z0-9]+$")
 CHAPTER_FILE_RE = re.compile(r"^(\d{2})-(.+)\.md$")
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 CONTENT_TYPES = {"chapter", "essay", "prompt", "video"}
-STAGE_INTRO_FILENAME = "00-introduction.md"
 
 # Field order in the emitted manifest (deterministic, human-readable).
 CHAPTER_KEYS = ["id", "stage", "chapter", "order", "slug", "title",
@@ -101,18 +101,34 @@ def collect_chapters() -> list[dict]:
     return chapters
 
 
-def collect_stage_intros() -> list[dict]:
+def collect_stage_intros(chapters: list[dict]) -> list[dict]:
+    """Derive stage_intros[] from each stage's own chapter 1.
+
+    A stage's existing "What is <Stage>?" chapter already serves as its
+    start-here reading, so the intro is a second, ungated, non-drip-fed
+    manifest entry pointing at that same file — never a separately authored
+    one. ``id``/``slug`` are mechanically derived from the stage folder name
+    (distinct from the chapter's own ``id``/``slug`` so the app can key the
+    intro card independently of the drip-fed chapter row); ``title`` and
+    ``summary`` are reused verbatim from the chapter's frontmatter.
+    """
     intros: list[dict] = []
-    for stage_dir in sorted(p for p in MARKDOWN_DIR.iterdir()
-                            if p.is_dir() and STAGE_DIR_RE.match(p.name)):
-        path = stage_dir / STAGE_INTRO_FILENAME
-        if not path.is_file():
+    for c in chapters:
+        if c.get("chapter") != 1:
             continue
-        fm = read_frontmatter(path)
-        entry = {k: fm[k] for k in STAGE_INTRO_KEYS if k in fm}
-        entry["path"] = rel(path)
+        folder = c["path"].split("/")[1]  # e.g. "01-beige"
+        folder_slug = folder.split("-", 1)[1]  # e.g. "beige"
+        entry = {
+            "stage": c["stage"],
+            "id": f"{folder_slug}-intro",
+            "slug": f"{folder_slug}-introduction",
+            "title": c["title"],
+            "path": c["path"],
+        }
+        if c.get("summary"):
+            entry["summary"] = c["summary"]
         intros.append(entry)
-    intros.sort(key=lambda i: i.get("stage", 0))
+    intros.sort(key=lambda i: i["stage"])
     return intros
 
 
@@ -248,7 +264,7 @@ def build_manifest() -> dict:
     seen_ids = validate(chapters)
     clean_chapters = [{k: c[k] for k in CHAPTER_KEYS if k in c} for c in chapters]
 
-    intros = collect_stage_intros()
+    intros = collect_stage_intros(chapters)
     validate_stage_intros(intros, seen_ids)
     clean_intros = [{k: i[k] for k in STAGE_INTRO_KEYS if k in i} for i in intros]
 

@@ -151,51 +151,46 @@ These rules are checked by the manifest generator (#20) and enforced by CI
 > Content-repo spec CR-A…CR-D · pairs with adepthood course-cms-01…07
 > (#717–#723).
 
-Each stage may carry **one** ungated, non-drip-fed "start here" reading —
-distinct from its drip-fed chapters — at a fixed, predictable path:
+Each stage may carry **one** ungated, non-drip-fed "start here" reading in
+`manifest.json`'s optional `stage_intros[]` array. It is **not a separate
+authored file** — it is a second manifest entry pointing at the stage's
+*existing* chapter 1 ("What is `<Stage>`?"), which already serves this
+orienting role. There is nothing to write and nothing to keep in sync by
+hand: the generator derives it mechanically.
 
-```
-markdown/<NN-stage>/00-introduction.md
-```
+Each entry has the shape:
 
-This sits alongside the stage's existing `00-table-of-contents.md` (both
-match the `00-` prefix the manifest generator otherwise skips when collecting
-chapters — the generator collects intros through a dedicated pass, keyed on
-this exact filename).
-
-A stage-introduction file's frontmatter is a **smaller** schema than a
-chapter's:
-
-```yaml
----
-id: beige-intro            # stable, unique repo-wide (shares the id namespace with chapters)
-stage: 1                   # 1..10; at most one intro per stage
-slug: beige-introduction   # URL-safe; no filename-match rule (unlike chapters — the filename is fixed)
-title: "Welcome to Beige"
-summary: "One-line teaser."   # optional
----
+```json
+{
+  "stage": 1,
+  "id": "beige-intro",
+  "slug": "beige-introduction",
+  "title": "What Is Beige?",
+  "summary": "The automatic survival mode beneath civil society's thin veneer.",
+  "path": "markdown/01-beige/01-what-is-beige.md"
+}
 ```
 
 `stage`, `id`, `slug`, `title`, and `path` are required; `summary` is
 optional. There is no `chapter`/`order`/`content_type`/`release_day`/`media` —
-intros aren't part of the drip feed and carry no non-inline media.
-
-Body rules are identical to a chapter's (§2): CommonMark only, no raw HTML. An
-intro is a short (~650–900 word) orienting welcome to the stage's mood and
-practice, not a restatement of the stage's "What is `<Stage>`?" chapter.
+intros aren't part of the drip feed. `title`, `summary`, and `path` are
+copied straight from the chapter-1 frontmatter that already exists; only
+`id` and `slug` are new, mechanically derived from the stage folder name
+(`01-beige` → `beige-intro` / `beige-introduction`) so the app can key the
+ungated intro card independently of the drip-fed chapter row it also shows.
 
 **Identity rules**, mirroring §3.2:
 
 1. `id` is unique across the **entire** repository — chapters and intros
-   share one namespace.
-2. `stage` is unique **among intros** (at most one per stage).
-3. `slug` must be URL-safe but, unlike a chapter, need not match anything
-   derived from the filename (every intro's filename is the same
-   `00-introduction.md`).
+   share one namespace (the `-intro` suffix guarantees this against the
+   `<slug>-<chapter-number>` chapter convention).
+2. `stage` is unique **among intros** (one per stage, by construction — a
+   stage contributes an intro if and only if it has a chapter 1).
+3. `slug` is derived, not authored, and need not match a filename (the
+   underlying file is chapter 1's, already validated against its own slug
+   rule).
 
-The manifest generator emits these as `manifest.json`'s optional `stage_intros[]`
-array — `{ stage, id, slug, title, path, summary? }`, sorted by `stage`. A
-stage with no `00-introduction.md` simply has no entry; a manifest where no
+A stage with no chapter 1 simply has no intro entry; a manifest where no
 stage has one omits the `stage_intros` key entirely, keeping it valid against
 a `1.0.0`-only consumer.
 

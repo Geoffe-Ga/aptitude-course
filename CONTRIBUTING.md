@@ -72,26 +72,13 @@ Run all three before pushing and CI will pass on the first try.
 
 5. **Open a PR.** CI runs the three checks above; all are required.
 
-## Add or edit a stage introduction
+## Stage introductions
 
-A stage's ungated "start here" reading lives at the fixed path
-`markdown/<NN-stage>/00-introduction.md` (CONTENT_FORMAT.md §3.3) — at most
-one per stage. Its frontmatter is smaller than a chapter's:
-
-```yaml
----
-id: beige-intro
-stage: 1
-slug: beige-introduction
-title: "Welcome to Beige"
-summary: "One-line teaser." # optional
----
-```
-
-No `chapter`/`order`/`content_type`/`release_day`/`media` — intros aren't
-drip-fed. Regenerate the manifest the same way as for a chapter
-(`python scripts/build_manifest.py`); a stage with no `00-introduction.md`
-simply has no `stage_intros[]` entry.
+A stage's ungated "start here" reading (`manifest.json`'s `stage_intros[]`,
+CONTENT_FORMAT.md §3.3) is **not a file you create** — it's generated
+automatically from the stage's existing chapter 1 ("What is `<Stage>`?").
+Editing that chapter's `title` or `summary` updates the intro too the next
+time you run `python scripts/build_manifest.py`. There's nothing else to do.
 
 ## Edit a chapter
 
