@@ -70,6 +70,14 @@ update rather than render undefined behavior — which is why majors are
 coordinated, versioned, and shipped together with the app change
 (see §4 and CONTENT_FORMAT.md §8).
 
+**Not a version bump:** how the app *computes* lock/unlock state from the
+published fields is app-side behavior, not part of this contract. As of
+2026-07 the app derives a proportional drip schedule from `release_day`
+(ordering), chapter count, and its own app-owned stage duration, rather than
+gating solely on `release_day > days_elapsed` (see CONTENT_FORMAT.md §5.2).
+`release_day`'s authored value, type, and meaning are unchanged, so this
+shipped with **no** `schema_version` bump — it stayed at `1.1.0`.
+
 ---
 
 ## 3. Release tagging
