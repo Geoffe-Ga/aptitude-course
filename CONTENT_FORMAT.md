@@ -259,6 +259,19 @@ becomes available, mirroring today's drip-feed behavior
 `release_day` is **authored by a human** (issue #19), not derived — it encodes
 curricular intent, unlike `stage`/`chapter`/`order`/`slug` which are mechanical.
 
+> **App-side note (2026-07):** the app no longer gates purely on
+> `release_day > days_elapsed`. It derives a **proportional** drip —
+> `unlocked = ceil(chapter_count / stage_duration_days × day_in_stage)` — using
+> its own app-owned `stage_duration_days` (§4 is explicit that stage duration
+> is app territory, not authored here). This keeps a short stage from stalling
+> readers on a long calendar window and vice versa. `release_day` is still
+> authored per §5.2 and still used for **ordering** chapters within a stage
+> (and as the tiebreaker/fallback the app's lock check is built on); it is
+> simply no longer the *sole* unlock gate. This is an app-side (adepthood)
+> behavior change only — it requires no change to this repo's frontmatter,
+> `manifest.json`, or `schema_version` (still `1.1.0`), since `release_day`'s
+> authored value and meaning are unchanged.
+
 ---
 
 ## 6. Media & assets
