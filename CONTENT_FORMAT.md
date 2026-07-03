@@ -146,6 +146,59 @@ not write `path` in frontmatter.
 These rules are checked by the manifest generator (#20) and enforced by CI
 (#21). A violation fails the build.
 
+### 3.3 Stage introductions (`stage_intros[]`, schema `1.1.0`)
+
+> Content-repo spec CR-A…CR-D · pairs with adepthood course-cms-01…07
+> (#717–#723).
+
+Each stage may carry **one** ungated, non-drip-fed "start here" reading —
+distinct from its drip-fed chapters — at a fixed, predictable path:
+
+```
+markdown/<NN-stage>/00-introduction.md
+```
+
+This sits alongside the stage's existing `00-table-of-contents.md` (both
+match the `00-` prefix the manifest generator otherwise skips when collecting
+chapters — the generator collects intros through a dedicated pass, keyed on
+this exact filename).
+
+A stage-introduction file's frontmatter is a **smaller** schema than a
+chapter's:
+
+```yaml
+---
+id: beige-intro            # stable, unique repo-wide (shares the id namespace with chapters)
+stage: 1                   # 1..10; at most one intro per stage
+slug: beige-introduction   # URL-safe; no filename-match rule (unlike chapters — the filename is fixed)
+title: "Welcome to Beige"
+summary: "One-line teaser."   # optional
+---
+```
+
+`stage`, `id`, `slug`, `title`, and `path` are required; `summary` is
+optional. There is no `chapter`/`order`/`content_type`/`release_day`/`media` —
+intros aren't part of the drip feed and carry no non-inline media.
+
+Body rules are identical to a chapter's (§2): CommonMark only, no raw HTML. An
+intro is a short (~650–900 word) orienting welcome to the stage's mood and
+practice, not a restatement of the stage's "What is `<Stage>`?" chapter.
+
+**Identity rules**, mirroring §3.2:
+
+1. `id` is unique across the **entire** repository — chapters and intros
+   share one namespace.
+2. `stage` is unique **among intros** (at most one per stage).
+3. `slug` must be URL-safe but, unlike a chapter, need not match anything
+   derived from the filename (every intro's filename is the same
+   `00-introduction.md`).
+
+The manifest generator emits these as `manifest.json`'s optional `stage_intros[]`
+array — `{ stage, id, slug, title, path, summary? }`, sorted by `stage`. A
+stage with no `00-introduction.md` simply has no entry; a manifest where no
+stage has one omits the `stage_intros` key entirely, keeping it valid against
+a `1.0.0`-only consumer.
+
 ---
 
 ## 4. Stage-numbering reconciliation
@@ -364,5 +417,8 @@ throats in our sleep.
   adepthood#389 and documented in [CONSUMPTION.md](./CONSUMPTION.md).
 - Additive, optional fields are a **minor** bump. Removing or retyping a field,
   or tightening a rule, is a **major** bump.
+- `1.1.0` is the first such minor bump: it adds the optional `stage_intros[]`
+  tier (§3.3) without touching `chapters[]`/`site_resources[]`, so a `1.0.0`
+  consumer (the pre-#717 Adepthood app) keeps working unmodified.
 - See [CONTRIBUTING.md](./CONTRIBUTING.md) (issue #24) for the day-to-day
   authoring workflow.

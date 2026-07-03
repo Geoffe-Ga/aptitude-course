@@ -12,6 +12,12 @@ duplicate ``id`` / ``(stage, chapter)``, missing required fields, a bad
 ``content_type``/``release_day``, or a ``slug`` that disagrees with the
 filename.
 
+Each stage may also carry one ``<NN-stage>/00-introduction.md`` file — an
+ungated, non-drip-fed "start here" reading collected into the optional
+``stage_intros[]`` tier (content-repo spec CR-B, adepthood#717,
+``schema_version`` ``1.1.0``). Omitting the tier entirely (no stage has an
+intro yet) keeps the manifest a valid ``1.0.0``-compatible document.
+
 Usage::
 
     python scripts/build_manifest.py            # write manifest.json
@@ -34,18 +40,20 @@ RESOURCES_DIR = MARKDOWN_DIR / "resources"
 MANIFEST_PATH = REPO_ROOT / "manifest.json"
 SCHEMA_PATH = REPO_ROOT / "schema" / "manifest.schema.json"
 
-SCHEMA_VERSION = "1.0.0"  # coordinate bumps with adepthood#389 (see CONSUMPTION.md)
+SCHEMA_VERSION = "1.1.0"  # coordinate bumps with adepthood#389 (see CONSUMPTION.md)
 
 EXCLUDED_DIRS = {"backup", "images", "meta", ".obsidian", "resources"}
 STAGE_DIR_RE = re.compile(r"^\d{2}-[a-z0-9]+$")
 CHAPTER_FILE_RE = re.compile(r"^(\d{2})-(.+)\.md$")
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 CONTENT_TYPES = {"chapter", "essay", "prompt", "video"}
+STAGE_INTRO_FILENAME = "00-introduction.md"
 
 # Field order in the emitted manifest (deterministic, human-readable).
 CHAPTER_KEYS = ["id", "stage", "chapter", "order", "slug", "title",
                 "content_type", "release_day", "summary", "media", "path"]
 RESOURCE_KEYS = ["slug", "title", "description", "media", "path"]
+STAGE_INTRO_KEYS = ["stage", "id", "slug", "title", "summary", "path"]
 
 
 class ManifestError(Exception):
@@ -93,6 +101,21 @@ def collect_chapters() -> list[dict]:
     return chapters
 
 
+def collect_stage_intros() -> list[dict]:
+    intros: list[dict] = []
+    for stage_dir in sorted(p for p in MARKDOWN_DIR.iterdir()
+                            if p.is_dir() and STAGE_DIR_RE.match(p.name)):
+        path = stage_dir / STAGE_INTRO_FILENAME
+        if not path.is_file():
+            continue
+        fm = read_frontmatter(path)
+        entry = {k: fm[k] for k in STAGE_INTRO_KEYS if k in fm}
+        entry["path"] = rel(path)
+        intros.append(entry)
+    intros.sort(key=lambda i: i.get("stage", 0))
+    return intros
+
+
 def collect_site_resources() -> list[dict]:
     if not RESOURCES_DIR.is_dir():
         return []
@@ -111,7 +134,7 @@ def collect_site_resources() -> list[dict]:
 # --------------------------------------------------------------------------- #
 # Validation
 # --------------------------------------------------------------------------- #
-def validate(chapters: list[dict]) -> None:
+def validate(chapters: list[dict]) -> dict[str, str]:
     seen_ids: dict[str, str] = {}
     seen_stage_chapter: dict[tuple, str] = {}
     required = ["id", "stage", "chapter", "order", "slug", "title",
@@ -147,6 +170,36 @@ def validate(chapters: list[dict]) -> None:
         seen_stage_chapter[key] = path
 
         validate_media(c["media"], path)
+
+    return seen_ids
+
+
+def validate_stage_intros(intros: list[dict], seen_ids: dict[str, str]) -> None:
+    """Validate stage_intros[] per content-repo spec CR-B/CR-C (adepthood#717)."""
+    seen_stages: dict[int, str] = {}
+    required = ["stage", "id", "slug", "title", "path"]
+
+    for intro in intros:
+        path = intro["path"]
+        for field in required:
+            if intro.get(field) is None:
+                raise ManifestError(f"{path}: missing required field '{field}'")
+
+        if not isinstance(intro["stage"], int) or not (1 <= intro["stage"] <= 10):
+            raise ManifestError(f"{path}: stage {intro['stage']} out of range 1..10")
+        if not SLUG_RE.match(intro["slug"]):
+            raise ManifestError(f"{path}: slug '{intro['slug']}' is not URL-safe")
+
+        if intro["id"] in seen_ids:
+            raise ManifestError(
+                f"duplicate id '{intro['id']}' in {path} and {seen_ids[intro['id']]}")
+        seen_ids[intro["id"]] = path
+
+        if intro["stage"] in seen_stages:
+            raise ManifestError(
+                f"duplicate stage_intro for stage {intro['stage']} in {path} "
+                f"and {seen_stages[intro['stage']]}")
+        seen_stages[intro["stage"]] = path
 
 
 MEDIA_TYPES = {"video", "image", "audio"}
@@ -192,13 +245,21 @@ def validate_against_schema(manifest: dict) -> str:
 # --------------------------------------------------------------------------- #
 def build_manifest() -> dict:
     chapters = collect_chapters()
-    validate(chapters)
+    seen_ids = validate(chapters)
     clean_chapters = [{k: c[k] for k in CHAPTER_KEYS if k in c} for c in chapters]
-    return {
+
+    intros = collect_stage_intros()
+    validate_stage_intros(intros, seen_ids)
+    clean_intros = [{k: i[k] for k in STAGE_INTRO_KEYS if k in i} for i in intros]
+
+    manifest = {
         "schema_version": SCHEMA_VERSION,
         "chapters": clean_chapters,
         "site_resources": collect_site_resources(),
     }
+    if clean_intros:
+        manifest["stage_intros"] = clean_intros
+    return manifest
 
 
 def serialize(manifest: dict) -> str:
@@ -230,12 +291,14 @@ def main() -> int:
             return 1
         print(f"manifest.json is current "
               f"({len(manifest['chapters'])} chapters, "
-              f"{len(manifest['site_resources'])} resources; {schema_note})")
+              f"{len(manifest['site_resources'])} resources, "
+              f"{len(manifest.get('stage_intros', []))} stage intros; {schema_note})")
         return 0
 
     MANIFEST_PATH.write_text(output, encoding="utf-8")
     print(f"wrote manifest.json: {len(manifest['chapters'])} chapters, "
-          f"{len(manifest['site_resources'])} site resources; {schema_note}")
+          f"{len(manifest['site_resources'])} site resources, "
+          f"{len(manifest.get('stage_intros', []))} stage intros; {schema_note}")
     return 0
 
 
