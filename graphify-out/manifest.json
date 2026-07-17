@@ -1,0 +1,37 @@
+{
+  "convert_docs.sh": {
+    "mtime": 1784262897.0899932,
+    "ast_hash": "0f26b678e2b2bdcf8d5b120b5cd9b6b9",
+    "semantic_hash": "0f26b678e2b2bdcf8d5b120b5cd9b6b9"
+  },
+  "manifest.json": {
+    "mtime": 1784262897.1388748,
+    "ast_hash": "88809d0e60517ee41bbe950233d31a05",
+    "semantic_hash": "88809d0e60517ee41bbe950233d31a05"
+  },
+  "schema/manifest.schema.json": {
+    "mtime": 1784262897.1944013,
+    "ast_hash": "2a64ec7e8506da8938b7280974fef8fe",
+    "semantic_hash": "2a64ec7e8506da8938b7280974fef8fe"
+  },
+  "scripts/add_frontmatter.py": {
+    "mtime": 1784262897.1944013,
+    "ast_hash": "a400653a30e4fd768acf0b0ce208bf74",
+    "semantic_hash": "a400653a30e4fd768acf0b0ce208bf74"
+  },
+  "scripts/build_manifest.py": {
+    "mtime": 1784262897.195232,
+    "ast_hash": "21ee4730efef6f2d592fee21fb183855",
+    "semantic_hash": "21ee4730efef6f2d592fee21fb183855"
+  },
+  "scripts/check_links.py": {
+    "mtime": 1784262897.195232,
+    "ast_hash": "d59195a13cbd76b75cd810bc92cf5022",
+    "semantic_hash": "d59195a13cbd76b75cd810bc92cf5022"
+  },
+  "scripts/normalize_markdown.py": {
+    "mtime": 1784262897.195232,
+    "ast_hash": "867a7983ad208b8ed460b7579b5e17f4",
+    "semantic_hash": "867a7983ad208b8ed460b7579b5e17f4"
+  }
+}

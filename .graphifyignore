@@ -1,0 +1,10 @@
+# Paths excluded from graphify knowledge-graph extraction.
+# The knowledge lives in markdown/ (curriculum) and the curriculum CSVs;
+# raw Google Doc exports, backups, and agent scaffolding are noise.
+.claude/
+.github/
+.obsidian/
+markdown/backup/
+google_docs/**/*.html
+*.zip
+graphify-out/
