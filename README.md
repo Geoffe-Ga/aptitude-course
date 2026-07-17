@@ -200,3 +200,21 @@ Are you ready?
 ---
 
 *"After all, this Course is about Free Will. How could I claim to enhance it while dictating exactly what practices to pursue? My aim is to empower you to be your own guru."*
+
+---
+
+## Knowledge graph
+
+This repo maintains a [graphify](https://github.com/Graphify-Labs/graphify)
+knowledge graph in `graphify-out/` (committed) so the
+[adepthood](https://github.com/Geoffe-Ga/adepthood) hub can merge it into the
+ecosystem pan-graph. The committed baseline covers the build tooling; the
+curriculum itself (219 chapters + the source-of-truth CSVs) is ingested by a
+weekly semantic workflow once an `ANTHROPIC_API_KEY` secret is configured —
+see `.github/workflows/graph-update.yml`.
+
+```bash
+pip install graphifyy==0.9.17
+graphify query "what is the Key Practice for Orange"
+graphify update .   # after script changes; no API key needed
+```
