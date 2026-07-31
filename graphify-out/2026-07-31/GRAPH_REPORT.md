@@ -1,16 +1,16 @@
-# Graph Report - aptitude-course  (2026-07-31)
+# Graph Report - aptitude-course  (2026-07-17)
 
 ## Corpus Check
-- 254 files · ~333,618 words
+- 254 files · ~333,510 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1046 nodes · 1081 edges · 196 communities (57 shown, 139 thin omitted)
+- 1045 nodes · 1080 edges · 196 communities (58 shown, 138 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.8)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `0e2586ee`
+- Built from commit: `b07548e7`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -231,7 +231,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (196 total, 139 thin omitted)
+## Communities (196 total, 138 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.04
@@ -262,8 +262,8 @@ Cohesion: 0.08
 Nodes (26): chapters, schema_version, site_resources, additionalProperties, items, type, description, $id (+18 more)
 
 ### Community 7 - "Community 7"
-Cohesion: 0.17
-Nodes (12): audio, chapter, essay, image, prompt, video, enum, type (+4 more)
+Cohesion: 0.20
+Nodes (10): audio, chapter, essay, image, prompt, video, enum, type (+2 more)
 
 ### Community 8 - "Community 8"
 Cohesion: 0.05
@@ -283,19 +283,19 @@ Nodes (22): 1. Stage Files (219 section files across 10 folders), 2. Supplementa
 
 ### Community 12 - "Community 12"
 Cohesion: 0.09
-Nodes (21): Architecture & Content Structure, Co-Authoring Prompts, Common Queries, Conceptual Distinctions to Maintain, Content Source Pipeline, Converting Google Docs to Markdown, Core Principles, Database Files (Single Source of Truth) (+13 more)
+Nodes (20): Architecture & Content Structure, Co-Authoring Prompts, Common Queries, Conceptual Distinctions to Maintain, Content Source Pipeline, Converting Google Docs to Markdown, Core Principles, Database Files (Single Source of Truth) (+12 more)
 
 ### Community 13 - "Community 13"
 Cohesion: 0.09
 Nodes (22): 1. Why this exists, 2.1 Allowed, 2.2 Disallowed, 2.3 Heading levels, 2. The Markdown dialect, 3.1 Field reference, 3.2 Identity & uniqueness rules, 3.3 Stage introductions (`stage_intros[]`, schema `1.1.0`) (+14 more)
 
 ### Community 14 - "properties"
-Cohesion: 0.20
-Nodes (10): pattern, type, id, stage, summary, properties, maximum, minimum (+2 more)
+Cohesion: 0.13
+Nodes (19): properties, type, pattern, type, content_type, id, slug, stage (+11 more)
 
 ### Community 15 - "README.md"
-Cohesion: 0.10
-Nodes (11): Table of Contents, What is Purple?, The Journaling Prompts of Purple, The Mode of the Wavelength of Purple: Inhabit (Feel), The Practice of Purple: A Daily Tarot Draw, The Default Habit of Purple: Vitamins, Probiotics, and Water, Tarot in the Foxhole: Inviting in Source via Divination, Contents (+3 more)
+Cohesion: 0.11
+Nodes (8): Table of Contents, What is Purple?, The Relationship to Free Will at Purple: Archetype Embodier, The Mode of the Wavelength of Purple: Inhabit (Feel), The Default Habit of Purple: Vitamins, Probiotics, and Water, Purple’s Shadow: Delusions of Reference and Magical Thinking, “Pranasynthesis” as the Cure for Depression, Tarot in the Foxhole: Inviting in Source via Divination
 
 ### Community 16 - "aptitude-stages.md"
 Cohesion: 0.14
@@ -354,12 +354,12 @@ Cohesion: 0.22
 Nodes (4): Table of Contents, The Journaling Prompts of Clear Light, You Cannot Stay on the Summit, Teaching as Practice: Becoming a Holder of Space
 
 ### Community 30 - "$defs"
-Cohesion: 0.29
-Nodes (7): $defs, site_resource, stage_intro, additionalProperties, type, additionalProperties, type
+Cohesion: 0.22
+Nodes (9): additionalProperties, minimum, type, $defs, chapter, stage_intro, chapter, additionalProperties (+1 more)
 
 ### Community 31 - "properties"
-Cohesion: 0.17
-Nodes (12): type, items, type, description, media, slug, title, properties (+4 more)
+Cohesion: 0.22
+Nodes (9): site_resource, type, items, type, description, media, additionalProperties, properties (+1 more)
 
 ### Community 32 - "add_frontmatter.py"
 Cohesion: 0.39
@@ -410,8 +410,8 @@ Cohesion: 0.33
 Nodes (5): Compression waves — how you touch other souls, The chord, The rising octaves, The spiral that grows it, Your torus — the auric field
 
 ### Community 44 - "order"
-Cohesion: 0.18
-Nodes (12): additionalProperties, minimum, properties, type, chapter, minimum, type, chapter (+4 more)
+Cohesion: 0.27
+Nodes (6): minimum, type, order, release_day, minimum, type
 
 ### Community 45 - "Yes-And-Ness: A balance between Radical Agency and Radical Acceptance"
 Cohesion: 0.40
@@ -432,6 +432,10 @@ Nodes (4): chapters, schema_version, site_resources, stage_intros
 ### Community 49 - "Stage 1: BEIGE"
 Cohesion: 0.50
 Nodes (4): Contents, Navigation, Source, Stage 1: BEIGE
+
+### Community 50 - "Stage 2: PURPLE"
+Cohesion: 0.50
+Nodes (4): Contents, Navigation, Source, Stage 2: PURPLE
 
 ### Community 51 - "Stage 5: ORANGE"
 Cohesion: 0.50
@@ -462,17 +466,15 @@ Cohesion: 0.50
 Nodes (3): A Final Note on the Curriculum of the APTITUDE Course, Adepthood Calls You, Who is this for?
 
 ## Knowledge Gaps
-- **613 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+608 more)
+- **612 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+607 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **139 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **138 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Alternative Purple Practices: Eight Five-Minute Receptivity Meditations` connect `Alternative Purple Practices: Eight Five-Minute Receptivity Meditations` to `README.md`?**
-  _High betweenness centrality (0.016) - this node is a cross-community bridge._
 - **What connects `convert_docs.sh script`, `schema_version`, `chapters` to the rest of the system?**
-  _613 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _612 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.04081632653061224 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
@@ -483,3 +485,5 @@ _Questions this graph is uniquely positioned to answer:_
   _Cohesion score 0.043478260869565216 - nodes in this community are weakly interconnected._
 - **Should `Community 6` be split into smaller, more focused modules?**
   _Cohesion score 0.07977207977207977 - nodes in this community are weakly interconnected._
+- **Should `Community 8` be split into smaller, more focused modules?**
+  _Cohesion score 0.05384615384615385 - nodes in this community are weakly interconnected._

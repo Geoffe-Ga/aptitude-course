@@ -403,8 +403,8 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_defs_chapter",
-      "community": 44,
-      "community_name": "order",
+      "community": 30,
+      "community_name": "$defs",
       "norm_label": "chapter"
     },
     {
@@ -414,8 +414,8 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_chapter_type",
-      "community": 44,
-      "community_name": "order",
+      "community": 30,
+      "community_name": "$defs",
       "norm_label": "type"
     },
     {
@@ -425,8 +425,8 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_chapter_additionalproperties",
-      "community": 44,
-      "community_name": "order",
+      "community": 30,
+      "community_name": "$defs",
       "norm_label": "additionalproperties"
     },
     {
@@ -557,8 +557,8 @@
       "source_location": "L37",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_chapter_properties",
-      "community": 44,
-      "community_name": "order",
+      "community": 14,
+      "community_name": "properties",
       "norm_label": "properties"
     },
     {
@@ -645,8 +645,8 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_properties_chapter",
-      "community": 44,
-      "community_name": "order",
+      "community": 30,
+      "community_name": "$defs",
       "norm_label": "chapter"
     },
     {
@@ -656,8 +656,8 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_chapter_minimum",
-      "community": 44,
-      "community_name": "order",
+      "community": 30,
+      "community_name": "$defs",
       "norm_label": "minimum"
     },
     {
@@ -700,7 +700,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_properties_slug",
-      "community": 31,
+      "community": 14,
       "community_name": "properties",
       "norm_label": "slug"
     },
@@ -711,7 +711,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_slug_type",
-      "community": 31,
+      "community": 14,
       "community_name": "properties",
       "norm_label": "type"
     },
@@ -722,7 +722,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_slug_pattern",
-      "community": 31,
+      "community": 14,
       "community_name": "properties",
       "norm_label": "pattern"
     },
@@ -733,7 +733,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_properties_title",
-      "community": 31,
+      "community": 14,
       "community_name": "properties",
       "norm_label": "title"
     },
@@ -744,7 +744,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_title_type",
-      "community": 31,
+      "community": 14,
       "community_name": "properties",
       "norm_label": "type"
     },
@@ -755,7 +755,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_title_minlength",
-      "community": 31,
+      "community": 14,
       "community_name": "properties",
       "norm_label": "minlength"
     },
@@ -766,8 +766,8 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_properties_content_type",
-      "community": 7,
-      "community_name": "Community 7",
+      "community": 14,
+      "community_name": "properties",
       "norm_label": "content_type"
     },
     {
@@ -777,8 +777,8 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_content_type_type",
-      "community": 7,
-      "community_name": "Community 7",
+      "community": 14,
+      "community_name": "properties",
       "norm_label": "type"
     },
     {
@@ -953,8 +953,8 @@
       "source_location": "L60",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_defs_site_resource",
-      "community": 30,
-      "community_name": "$defs",
+      "community": 31,
+      "community_name": "properties",
       "norm_label": "site_resource"
     },
     {
@@ -964,8 +964,8 @@
       "source_location": "L61",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_site_resource_type",
-      "community": 30,
-      "community_name": "$defs",
+      "community": 31,
+      "community_name": "properties",
       "norm_label": "type"
     },
     {
@@ -975,8 +975,8 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "workspace_aptitude_course_schema_manifest_schema_site_resource_additionalproperties",
-      "community": 30,
-      "community_name": "$defs",
+      "community": 31,
+      "community_name": "properties",
       "norm_label": "additionalproperties"
     },
     {
@@ -2056,17 +2056,6 @@
       "community": 12,
       "community_name": "Community 12",
       "norm_label": "repository maintenance"
-    },
-    {
-      "label": "Knowledge Graph (graphify) \u2014 query first",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L236",
-      "_origin": "ast",
-      "id": "claude_knowledge_graph_graphify_query_first",
-      "community": 12,
-      "community_name": "Community 12",
-      "norm_label": "knowledge graph (graphify) \u2014 query first"
     },
     {
       "label": "CONSUMPTION.md",
@@ -3538,8 +3527,8 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "markdown_02_purple_03_the_journaling_prompts_of_purple",
-      "community": 15,
-      "community_name": "README.md",
+      "community": 69,
+      "community_name": "03-the-journaling-prompts-of-purple.md",
       "norm_label": "03-the-journaling-prompts-of-purple.md"
     },
     {
@@ -3549,8 +3538,8 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "markdown_02_purple_03_the_journaling_prompts_of_purple_the_journaling_prompts_of_purple",
-      "community": 15,
-      "community_name": "README.md",
+      "community": 69,
+      "community_name": "03-the-journaling-prompts-of-purple.md",
       "norm_label": "the journaling prompts of purple"
     },
     {
@@ -3560,8 +3549,8 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "markdown_02_purple_04_the_relationship_to_free_will_at_purple_archetype_embodier",
-      "community": 50,
-      "community_name": "Stage 2: PURPLE",
+      "community": 15,
+      "community_name": "README.md",
       "norm_label": "04-the-relationship-to-free-will-at-purple-archetype-embodier.md"
     },
     {
@@ -3571,8 +3560,8 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "markdown_02_purple_04_the_relationship_to_free_will_at_purple_archetype_embodier_the_relationship_to_free_will_at_purple_archetype_embodier",
-      "community": 50,
-      "community_name": "Stage 2: PURPLE",
+      "community": 15,
+      "community_name": "README.md",
       "norm_label": "the relationship to free will at purple: archetype embodier"
     },
     {
@@ -3604,8 +3593,8 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "markdown_02_purple_06_the_practice_of_purple_a_daily_tarot_draw",
-      "community": 15,
-      "community_name": "README.md",
+      "community": 70,
+      "community_name": "06-the-practice-of-purple-a-daily-tarot-draw.md",
       "norm_label": "06-the-practice-of-purple-a-daily-tarot-draw.md"
     },
     {
@@ -3615,8 +3604,8 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "markdown_02_purple_06_the_practice_of_purple_a_daily_tarot_draw_the_practice_of_purple_a_daily_tarot_draw",
-      "community": 15,
-      "community_name": "README.md",
+      "community": 70,
+      "community_name": "06-the-practice-of-purple-a-daily-tarot-draw.md",
       "norm_label": "the practice of purple: a daily tarot draw"
     },
     {
@@ -3967,8 +3956,8 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "markdown_02_purple_12_purples_shadow_delusions_of_reference_and_magical_thinking",
-      "community": 69,
-      "community_name": "03-the-journaling-prompts-of-purple.md",
+      "community": 15,
+      "community_name": "README.md",
       "norm_label": "12-purples-shadow-delusions-of-reference-and-magical-thinking.md"
     },
     {
@@ -3978,8 +3967,8 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "markdown_02_purple_12_purples_shadow_delusions_of_reference_and_magical_thinking_purple_s_shadow_delusions_of_reference_and_magical_thinking",
-      "community": 69,
-      "community_name": "03-the-journaling-prompts-of-purple.md",
+      "community": 15,
+      "community_name": "README.md",
       "norm_label": "purple\u2019s shadow: delusions of reference and magical thinking"
     },
     {
@@ -4077,8 +4066,8 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "markdown_02_purple_14_pranasynthesis_as_the_cure_for_depression",
-      "community": 70,
-      "community_name": "06-the-practice-of-purple-a-daily-tarot-draw.md",
+      "community": 15,
+      "community_name": "README.md",
       "norm_label": "14-pranasynthesis-as-the-cure-for-depression.md"
     },
     {
@@ -4088,8 +4077,8 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "markdown_02_purple_14_pranasynthesis_as_the_cure_for_depression_pranasynthesis_as_the_cure_for_depression",
-      "community": 70,
-      "community_name": "06-the-practice-of-purple-a-daily-tarot-draw.md",
+      "community": 15,
+      "community_name": "README.md",
       "norm_label": "\u201cpranasynthesis\u201d as the cure for depression"
     },
     {
@@ -4132,8 +4121,8 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "markdown_02_purple_readme_stage_2_purple",
-      "community": 15,
-      "community_name": "README.md",
+      "community": 50,
+      "community_name": "Stage 2: PURPLE",
       "norm_label": "stage 2: purple"
     },
     {
@@ -4143,8 +4132,8 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "markdown_02_purple_readme_contents",
-      "community": 15,
-      "community_name": "README.md",
+      "community": 50,
+      "community_name": "Stage 2: PURPLE",
       "norm_label": "contents"
     },
     {
@@ -4154,8 +4143,8 @@
       "source_location": "L24",
       "_origin": "ast",
       "id": "markdown_02_purple_readme_navigation",
-      "community": 15,
-      "community_name": "README.md",
+      "community": 50,
+      "community_name": "Stage 2: PURPLE",
       "norm_label": "navigation"
     },
     {
@@ -4165,8 +4154,8 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "markdown_02_purple_readme_source",
-      "community": 15,
-      "community_name": "README.md",
+      "community": 50,
+      "community_name": "Stage 2: PURPLE",
       "norm_label": "source"
     },
     {
@@ -13950,17 +13939,6 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L236",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "claude_claude_md",
-      "target": "claude_knowledge_graph_graphify_query_first",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
       "source_location": "L229",
       "weight": 1.0,
       "_origin": "ast",
@@ -23474,5 +23452,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0e2586ee9890c4ece83456260fa1c8f35b683f22"
+  "built_at_commit": "b07548e78777c8292192b87727c09bfee143d056"
 }
