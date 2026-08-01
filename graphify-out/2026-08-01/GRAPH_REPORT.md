@@ -1,16 +1,16 @@
-# Graph Report - aptitude-course  (2026-08-01)
+# Graph Report - aptitude-course  (2026-07-31)
 
 ## Corpus Check
-- 255 files · ~342,052 words
+- 254 files · ~333,618 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1064 nodes · 1111 edges · 193 communities (58 shown, 135 thin omitted)
+- 1046 nodes · 1081 edges · 196 communities (57 shown, 139 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.8)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `3bf0df55`
+- Built from commit: `0e2586ee`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -168,6 +168,7 @@
 - 21-three-stories-of-equanimity-in-action.md
 - 22-the-long-game-what-happens-after-a-year-at-teal.md
 - 24-the-default-habit-deepened-baby-waterfall-conventions-as-lif.md
+- 02-the-mood-of-ultraviolet-wholenesshierarchy.md
 - 03-the-journaling-prompts-of-ultraviolet.md
 - 04-the-relationship-to-free-will-at-ultraviolet-hierarchical-or.md
 - 05-the-vibe-wavelength-of-ultraviolet-absorb-do.md
@@ -184,6 +185,7 @@
 - 20-what-450-hours-of-meditation-produces-a-developmental-milest.md
 - 21-the-void-practice-advanced-meditation-techniques-for-ultravi.md
 - 01-what-is-clear-light.md
+- 02-the-mood-of-clear-light-wholenessemptiness.md
 - 04-the-relationship-to-free-will-at-clear-light-adept.md
 - 05-the-vibe-wavelength-of-clear-light-be-neitherall.md
 - 06-the-practice-of-clear-light-cultivating-vipassana.md
@@ -191,6 +193,7 @@
 - 08-after-the-ecstasy-the-laundry.md
 - 09-obstacles-are-the-path.md
 - 11-the-practice-is-the-path.md
+- 12-the-90-minute-sit-the-practice-of-adepts.md
 - 13-the-bodhisattva-vow-clear-light-as-service.md
 - 14-what-clear-light-feels-like-a-phenomenological-account.md
 - 15-the-final-integration-all-stages-always-available.md
@@ -228,7 +231,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (193 total, 135 thin omitted)
+## Communities (196 total, 139 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.04
@@ -244,7 +247,7 @@ Nodes (6): type, media_item, additionalProperties, anyOf, required, type
 
 ### Community 3 - "Community 3"
 Cohesion: 0.04
-Nodes (32): Table of Contents, What is Blue?, The Mood of Blue: Love—Community Love, The Journaling Prompts of Blue, The Relationship to Free Will at Blue: Victim, The Mode of the Wavelength of Blue: Express (Feel), The Practice of Blue: Metta Meditation, Alternatives for Blue Practice (+24 more)
+Nodes (30): Table of Contents, What is Blue?, The Mood of Blue: Love—Community Love, The Journaling Prompts of Blue, The Relationship to Free Will at Blue: Victim, The Mode of the Wavelength of Blue: Express (Feel), The Practice of Blue: Metta Meditation, Alternatives for Blue Practice (+22 more)
 
 ### Community 4 - "Community 4"
 Cohesion: 0.26
@@ -291,12 +294,12 @@ Cohesion: 0.20
 Nodes (10): pattern, type, id, stage, summary, properties, maximum, minimum (+2 more)
 
 ### Community 15 - "README.md"
-Cohesion: 0.11
-Nodes (9): Table of Contents, What is Purple?, The Relationship to Free Will at Purple: Pleasure Seeker, The Mode of the Wavelength of Purple: Inhabit (Feel), The Default Habit of Purple: Vitamins, Probiotics, and Water, Purple’s Shadow: Delusions of Reference and Magical Thinking, The Quieter Shadow: Capture, “Pranasynthesis” as the Cure for Depression (+1 more)
+Cohesion: 0.10
+Nodes (11): Table of Contents, What is Purple?, The Journaling Prompts of Purple, The Mode of the Wavelength of Purple: Inhabit (Feel), The Practice of Purple: A Daily Tarot Draw, The Default Habit of Purple: Vitamins, Probiotics, and Water, Tarot in the Foxhole: Inviting in Source via Divination, Contents (+3 more)
 
 ### Community 16 - "aptitude-stages.md"
-Cohesion: 0.06
-Nodes (30): APTITUDE’s Stages Correspond to Steps in Human Development on the Path Toward Wholeness., Awareness: Emptiness (Clear Light, Pure Awareness, Whole Adept), Being: Unity (Ultraviolet, Effortless Being, The Blissy Adept), Let’s Take a Closer Look at the Individual Stages, Love: Community (Blue, Conformity, The Victim), Love: Self (Red, Power, The Dominator), The Ten Stages of Adepthood, Understanding; Embodied (Green, Plurality, The Shadow Glorifier) (+22 more)
+Cohesion: 0.14
+Nodes (13): APTITUDE’s Stages Correspond to Steps in Human Development on the Path Toward Wholeness., Awareness: Emptiness (Clear Light, Pure Awareness, Whole Adept), Being: Unity (Ultraviolet, Effortless Being, The Blissy Adept), Let’s Take a Closer Look at the Individual Stages, Love: Community (Blue, Conformity, The Victim), Love: Self (Red, Power, The Dominator), The Ten Stages of Adepthood, Understanding; Embodied (Green, Plurality, The Shadow Glorifier) (+5 more)
 
 ### Community 17 - "README.md"
 Cohesion: 0.15
@@ -311,8 +314,8 @@ Cohesion: 0.18
 Nodes (5): Table of Contents, The Journaling Prompts of Green, The Default Habit of Green: Active Recovery, The Rhythm of Yang and Yin, The Compost Heap: Death as Fertilizer
 
 ### Community 20 - "README.md"
-Cohesion: 0.15
-Nodes (6): Table of Contents, What is Yellow?, Deepening the Prompts: Advanced Journaling for Yellow, Building the Daily Meditation Habit: The First 100 Days, Three Examples of Model Integration in Action, The Odyssey: Integration as Homecoming
+Cohesion: 0.18
+Nodes (5): Table of Contents, Deepening the Prompts: Advanced Journaling for Yellow, Yellow's Divine Gender: Divine Masculine—Systems Integration, How to Practice Model Integration, Penelope's Test: Recognizing Integration
 
 ### Community 21 - "README.md"
 Cohesion: 0.18
@@ -335,8 +338,8 @@ Cohesion: 0.20
 Nodes (10): Alternative Purple Practices: Eight Five-Minute Receptivity Meditations, Archetypal Mantra: Receiving Resonance, Bibliomancy: Receiving a Passage, Candle Gazing (Trataka): Receiving Imagery, Dream Recollection and Symbol Mapping: Receiving the Night, I Ching: Receiving a Hexagram, Personal Totem: Receiving an Object, Same Muscle, Eight Doorways (+2 more)
 
 ### Community 26 - "Right now, let’s look at this Archetypal Wavelength."
-Cohesion: 0.40
-Nodes (4): chapters, schema_version, site_resources, stage_intros
+Cohesion: 0.20
+Nodes (9): APTITUDE Empowers Temperance and Equanimity in Relating to Life’s Many Varied Archetypal Wavelengths, Bottoming Out, Diminishing, Peaking, Restoration, Right now, let’s look at this Archetypal Wavelength., Rising, Whole Adepts Surf the Archetypal Wavelength (+1 more)
 
 ### Community 27 - "properties"
 Cohesion: 0.20
@@ -347,8 +350,8 @@ Cohesion: 0.22
 Nodes (8): Blue Practice (Love), Clear Light Info (Influence for Rising and Restoration), Clear Light Info (Influence, Highs and Lows), Clear Light Mode (Be, Neither/All), Clear Light Practice (Staying on the same practice despite the wave), Green Practice (Aversion Self-Care), Orange Practice (Attraction Self-Care), Red Practice (Confidence)
 
 ### Community 29 - "README.md"
-Cohesion: 0.18
-Nodes (5): Table of Contents, The Journaling Prompts of Clear Light, You Cannot Stay on the Summit, The 90-Minute Sit: The Practice of Adepts, Teaching as Practice: Becoming a Holder of Space
+Cohesion: 0.22
+Nodes (4): Table of Contents, The Journaling Prompts of Clear Light, You Cannot Stay on the Summit, Teaching as Practice: Becoming a Holder of Space
 
 ### Community 30 - "$defs"
 Cohesion: 0.29
@@ -423,8 +426,8 @@ Cohesion: 0.40
 Nodes (4): Fixed in this pass, Hierarchical Language Map (Issue #5), Patterns to watch in future writing, Reviewed and deliberately kept
 
 ### Community 48 - "manifest.json"
-Cohesion: 0.50
-Nodes (4): Contents, Navigation, Source, Stage 2: PURPLE
+Cohesion: 0.40
+Nodes (4): chapters, schema_version, site_resources, stage_intros
 
 ### Community 49 - "Stage 1: BEIGE"
 Cohesion: 0.50
@@ -458,29 +461,25 @@ Nodes (4): Contents, Navigation, Source, Stage 10: CLEARLIGHT
 Cohesion: 0.50
 Nodes (3): A Final Note on the Curriculum of the APTITUDE Course, Adepthood Calls You, Who is this for?
 
-### Community 181 - "15-the-final-integration-all-stages-always-available.md"
-Cohesion: 0.33
-Nodes (5): And then the laundry, The Adept as Shapeshifter, The appropriate response, The Final Integration: All Stages, Always Available, Wholeness is a relationship, not a rank
-
 ## Knowledge Gaps
-- **626 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+621 more)
+- **613 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+608 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **135 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **139 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Content Format Specification` connect `Community 13` to `Community 8`?**
-  _High betweenness centrality (0.032) - this node is a cross-community bridge._
 - **Why does `Alternative Purple Practices: Eight Five-Minute Receptivity Meditations` connect `Alternative Purple Practices: Eight Five-Minute Receptivity Meditations` to `README.md`?**
-  _High betweenness centrality (0.019) - this node is a cross-community bridge._
+  _High betweenness centrality (0.016) - this node is a cross-community bridge._
 - **What connects `convert_docs.sh script`, `schema_version`, `chapters` to the rest of the system?**
-  _626 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _613 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.04081632653061224 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.12561576354679804 - nodes in this community are weakly interconnected._
 - **Should `Community 3` be split into smaller, more focused modules?**
-  _Cohesion score 0.04081632653061224 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.0425531914893617 - nodes in this community are weakly interconnected._
 - **Should `Community 5` be split into smaller, more focused modules?**
   _Cohesion score 0.043478260869565216 - nodes in this community are weakly interconnected._
+- **Should `Community 6` be split into smaller, more focused modules?**
+  _Cohesion score 0.07977207977207977 - nodes in this community are weakly interconnected._
