@@ -10,6 +10,22 @@ This is the **APTITUDE Course** repository - a 10-stage, 9-month transformationa
 
 **Note on the model:** APTITUDE reframes Wilber/Graves developmental models. Rather than a ladder to climb, the ten stages are like **notes on a musical scale**—you learn to play the right chords for each moment. Wholeness = the ability to express any stage healthily as the situation demands.
 
+**Stages vs. capacities vs. chords (canonical — issue #52):**
+- **Stages** are the order in which the course introduces and strengthens the capacities. They organize *the course*.
+- **Capacities** are durable human abilities that remain available after a stage ends. They organize *a life*.
+- Real life rarely calls for one capacity in isolation. It calls for a **chord**: several capacities played together in proportions the situation requires.
+- **Wholeness** is not the last stage, an eleventh stage, or every capacity at maximum. It is the emergent harmony of capacities that are sufficiently developed, mutually supportive, and appropriately orchestrated. A chord becomes noise when every note is played as loudly as possible.
+- The practical north star is **the appropriate response**: what this actual moment needs. Not moderation, not niceness, not productivity, not conformity.
+- Never write "you are [Stage]" or treat an archetype as a person. The archetype is what a capacity looks like when it runs the show unexamined.
+- Canonical line: *Stages organize the course. Capacities organize a life.*
+- Full treatment: `markdown/resources/notes-and-chords.md`.
+
+**The six Aspect Categories** (per `APTITUDE Complete Map.csv`; NOT "Freedom", NOT "Wholeness"):
+Yes-And-Ness (Beige, Purple) · Love (Red, Blue) · Understanding (Orange, Green) · **Wisdom** (Yellow, Teal) · **Being** (Ultraviolet) · **Awareness** (Clear Light).
+Understanding = grokking how the exterior and interior work. Wisdom = knowing the right action based on fully developed knowledge.
+
+**Chakra map (ratified — issue #16):** Beige Root · Purple Sacral · Red Solar Plexus · Blue Heart · Orange & Green Throat · Yellow & Teal Third Eye · Ultraviolet Crown · Clear Light above the head, outside the body's system.
+
 ## Architecture & Content Structure
 
 ### The 10 Stages (Core Content)
@@ -17,13 +33,13 @@ This is the **APTITUDE Course** repository - a 10-stage, 9-month transformationa
 Located in `markdown/[1-10].[STAGE_NAME].md`:
 
 1. **BEIGE** - Agency/Survival (Biological Machine)
-2. **PURPLE** - Receptivity/Mythic (Archetype Embodier)
+2. **PURPLE** - Receptivity/Mythic (Pleasure Seeker)
 3. **RED** - Self-Love/Power (Dominator)
 4. **BLUE** - Community Love/Conformity (Victim)
 5. **ORANGE** - Intellectual Understanding/Rationality (Status Seeker)
 6. **GREEN** - Embodied Understanding/Plurality (Shadow Glorifier)
 7. **YELLOW** - Systems Wisdom/Integrative (Despairing Analyst)
-8. **TEAL** - Transcendent Wisdom/True Self Connection (True Self Embodier)
+8. **TEAL** - True Self Wisdom/True Self Connection (True Self Embodier)
 9. **ULTRAVIOLET** - Unity Being/Effortless Being (Blissy Adept)
 10. **CLEAR LIGHT** - Emptiness Awareness (Whole Adept)
 
@@ -96,6 +112,7 @@ All authoritative stage specifications live in `google_docs/database_of_course_c
 - `markdown/resources/about.md` - Course introduction
 - `markdown/resources/aptitude-stages.md` - Overview of all 10 stages
 - `markdown/resources/archetypal-wavelength.md` - Wavelength theory
+- `markdown/resources/notes-and-chords.md` - Stages vs. capacities vs. chords; Wholeness as orchestration; the appropriate response
 - `markdown/ExtendedInvitation.md` - Enrollment/philosophy
 - `markdown/resources/liminal-creep.md` - Target audience definition
 - `markdown/meta/metrics.md` - Auto-generated repository statistics
