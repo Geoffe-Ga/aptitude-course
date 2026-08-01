@@ -34,7 +34,9 @@ But here's the paradox Clear Light asks you to hold: enlightenment doesn't mean 
 
 The difference is: you're no longer *identified* with it. You're the space in which it all happens. And from that space, you're free. Not free *from* life, but free *as* life.
 
-Clear Light is where APTITUDE comes full circle. You started at Beige, grounding into your body. And you end here, recognizing that the body was never separate from the cosmos. You built agency, cultivated love, developed understanding, claimed freedom, and recognized wholeness. And now you see that all of it was one movement—the universe waking up to itself through you.
+Clear Light is where APTITUDE comes full circle. You started at Beige, grounding into your body. And you end here, recognizing that the body was never separate from the cosmos. You built agency and receptivity, cultivated love, developed understanding, grew wisdom, rested in Being, and woke into Awareness. And now you see that all of it was one movement—the universe waking up to itself through you.
+
+Which is not the same as being finished. Every one of those capacities is still in your hands, and you will still be reaching for them tomorrow. Emptiness doesn't retire the scale; it just stops you from mistaking any single note for yourself.
 
 Welcome home.
 

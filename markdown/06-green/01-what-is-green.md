@@ -32,6 +32,8 @@ Green teaches you that shadow work is not optional. That the parts of yourself y
 
 This is the stage where Understanding stops being abstract and becomes *lived*. Where you learn that you can't think your way to Wholeness. You have to *feel* your way there. And that means descending into the places you've been avoiding.
 
+Bring the other notes with you, though. A descent made on Green alone is just drowning with good vocabulary. You'll want Beige to keep the body fed and the sleep regular while you're down there. Red, so that meeting an exiled part doesn't mean handing it the keys. Orange, to notice when a month of feeling has produced no change and something in the method needs adjusting. Blue, so there's at least one person who knows where you went.
+
 Welcome to the underworld. Bring a light.
 
 ---

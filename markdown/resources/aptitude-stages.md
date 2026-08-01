@@ -29,7 +29,11 @@ This material can be shockingly sticky. You’ll find it
 organizing your thoughts, philosophies and ideologies. The Stages can
 act like a food pyramid, where you need a practice, a habit, a
 serving of each rung to
-be Whole and actualized.
+be Whole and actualized. Not one serving of the
+best one. A serving of each—which is a
+useful thing to remember every time you catch yourself
+wondering which Stage you *are*. You aren’t any
+of them. They’re all yours.
 
 You’ll keep on cycling back to the start of the spiral.
 Onward. Ever onward.
@@ -151,6 +155,13 @@ integration of the Archetypal Wavelength into the course.
 
 Each stage is listed below by its Category and its
 Name, followed by its Color, Theme, and Archetype in parentheses.
+
+Read them as capacities, not identities. The
+Archetype named in each set of parentheses is what that capacity looks
+like when it’s running the show *unexamined*—the default, not the
+person. Every one of these becomes something you can play deliberately,
+and none of them is anybody’s name. For more on how the ten notes
+become chords, see [Notes and Chords](./notes-and-chords.md).
 
 #### Yes-and-Ness: Agency (Beige, Survival, The Biological Machine)
 

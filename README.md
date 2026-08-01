@@ -28,10 +28,14 @@ Each stage is a capacity, a note you learn to play. Not a rung to climb past—a
 4. **BLUE** - Community Love: Move from isolation to embodied belonging
 5. **ORANGE** - Intellectual Understanding: Harness curiosity and achievement
 6. **GREEN** - Embodied Understanding: Integrate your shadow and know yourself as good
-7. **YELLOW** - Systems Wisdom: Amalgamate insights into your unique framework
-8. **TEAL** - True Self Connection: Channel wisdom from your transcendent nature
-9. **ULTRAVIOLET** - Unity: Yoke yourself to the greater currents of Source
-10. **CLEAR LIGHT** - Emptiness (śūnyatā): See through the illusion of inherent existence
+7. **YELLOW** - Wisdom (Systems Wisdom): See the structure, not just the symptom
+8. **TEAL** - Wisdom (True Self Wisdom): Act from Deep Intuition, not just analysis
+9. **ULTRAVIOLET** - Being (Unity): Yoke yourself to the greater currents of Source
+10. **CLEAR LIGHT** - Awareness (Emptiness): See through the illusion of inherent existence
+
+They group into six **Aspect Categories**: Yes-And-Ness (Beige, Purple) · Love (Red, Blue) · Understanding (Orange, Green) · Wisdom (Yellow, Teal) · Being (Ultraviolet) · Awareness (Clear Light). Understanding is grokking how things work; Wisdom is knowing what to do about it.
+
+**The Stages organize the course. The capacities organize a life.** Life almost never asks for one note at a time — see [Notes and Chords](./markdown/resources/notes-and-chords.md) for what that means in practice.
 
 Each stage includes:
 - **A Key Practice** (grounding, tarot, breathwork, metta, Wim Hof, shadow work, meditation, walking shamanism, jhanas, vipassana)

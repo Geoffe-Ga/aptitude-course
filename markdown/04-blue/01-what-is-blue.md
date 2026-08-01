@@ -36,6 +36,10 @@ Blue is also where meditation gets real. We're moving from 5 minutes (Purple) an
 
 So yes, Blue is about community. But not the hollow kind where you perform belonging to gain approval. The kind where you risk being seen, being honest, being imperfect—and you're loved anyway. That's the gift. That's why Blue matters.
 
-You're not here to conform. You're here to connect. Let's begin.
+You're not here to conform. You're here to connect.
+
+And notice: you'll be playing Blue with Red still in your hands. That's the whole trick of this Stage. Belonging that costs you your boundaries isn't belonging, it's absorption—and a boundary held against everyone forever isn't strength, it's a moat around an empty castle. Three weeks from now you'll want both notes at once, in the same conversation, without either one shouting. Start listening for how they sound together.
+
+Let's begin.
 
 ---

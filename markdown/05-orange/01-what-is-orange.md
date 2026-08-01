@@ -32,6 +32,10 @@ This is the stage where you learn to work *with* energy, not against it. Where y
 
 So yes, Orange is about achievement. But not the hollow kind. The kind that builds something real. The kind that makes you better, sharper, more capable—not so you can prove your worth, but because you already *know* it, and now you're ready to *use* it.
 
-You're not here to follow someone else's formula. You're here to experiment, iterate, and discover what works for you. Let's get to work.
+You're not here to follow someone else's formula. You're here to experiment, iterate, and discover what works for you.
+
+One caution before you do. Orange is the loudest note on the scale, and it plays well enough on its own that you may stop noticing the others. Watch for the weeks where the numbers go up and Purple has gone quiet—where you can tell me your metrics but not what you enjoyed. Watch for the mornings you skip the grounding because you've got momentum. Momentum is not the same as a life. Keep the earlier notes sounding underneath this one; they're what will still be there when the streak breaks.
+
+Let's get to work.
 
 ---

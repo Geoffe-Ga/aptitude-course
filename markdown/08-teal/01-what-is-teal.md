@@ -34,4 +34,6 @@ The paradox is that the True Self isn't trying to achieve anything. It already k
 
 And when that connection stabilizes, your life starts to move with a grace that effort alone could never produce. Not because you've dissolved into emptiness, but because you've found your eternal core—and it's wiser than you ever imagined.
 
+With one standing caveat, which you should probably tattoo somewhere. Deep Intuition still has to be played alongside Orange, Yellow, and Blue—alongside the capacity to check a claim, trace a consequence, and ask somebody who loves you whether this sounds right. A knowing that refuses every one of those tests isn't the True Self. It's the Pleasure Seeker in vestments, and it has fooled far better people than us.
+
 ---
