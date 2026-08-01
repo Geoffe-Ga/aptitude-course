@@ -17,7 +17,7 @@ This is the **APTITUDE Course** repository - a 10-stage, 9-month transformationa
 Located in `markdown/[1-10].[STAGE_NAME].md`:
 
 1. **BEIGE** - Agency/Survival (Biological Machine)
-2. **PURPLE** - Receptivity/Mythic (Archetype Embodier)
+2. **PURPLE** - Receptivity/Mythic (Pleasure Seeker)
 3. **RED** - Self-Love/Power (Dominator)
 4. **BLUE** - Community Love/Conformity (Victim)
 5. **ORANGE** - Intellectual Understanding/Rationality (Status Seeker)

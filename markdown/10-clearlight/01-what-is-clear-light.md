@@ -18,6 +18,8 @@ Clear Light is the tenth stage of APTITUDE—and paradoxically, it's not a stage
 
 And now you remember.
 
+Every other Stage has had a home in the body. Beige at the Root, Purple at the Sacral, Red at the Solar Plexus, Blue at the Heart, Orange and Green at the Throat, Yellow and Teal at the Third Eye, Ultraviolet at the Crown. Clear Light is the one that doesn't. It's the only Stage whose seat is above the head—outside the system, which is a poetic way of saying it isn't a seat at all.
+
 In Tibetan Buddhism, "Clear Light" (*ösel*) refers to the fundamental nature of mind—luminous and empty. Emptiness here doesn't mean "nothing exists." It means that nothing exists *independently*, *permanently*, or *essentially*. Everything arises dependent on conditions. Everything is empty of a fixed, separate self-nature.
 
 This includes you. The "you" you've been protecting, perfecting, and identifying with your whole life? Empty. A process. A pattern. A dance of causes and conditions with no solid core.

@@ -16,6 +16,8 @@ Welcome to Orange—the fifth stage of APTITUDE and the beginning of something e
 
 This is where agency meets intellect. Where doing meets understanding. Where the fire of Red gets focused through the lens of systematic inquiry, and the love of Blue expands to include not just people but *ideas*—big, beautiful, world-changing ideas.
 
+We've arrived at the Throat—the seat of expression, of putting the inside outside where it can be tested. Orange and Green share this chakra, because they're the two halves of a single act: Orange articulates the world, Green articulates the self. A hypothesis and a confession are the same gesture aimed in opposite directions.
+
 In Spiral Dynamics, Orange is the stage of rational achievement. The scientist, the entrepreneur, the optimizer. The culture that gave us the Enlightenment, the Industrial Revolution, capitalism, and Silicon Valley. It's progress-oriented, data-driven, and relentlessly focused on improvement. In Ken Wilber's Integral Theory, Orange represents the "rational" or "achievist" stage—where identity shifts from conformity to individual merit, and success is measured by tangible results.
 
 APTITUDE doesn't reject this. We honor it. But we reframe it.

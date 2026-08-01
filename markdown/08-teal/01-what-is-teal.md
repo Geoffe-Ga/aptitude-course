@@ -12,7 +12,9 @@ media: []
 
 ## What is Teal?
 
-If Yellow was about integrating *through* the mind—using analysis, systems thinking, and disciplined attention to see all stages as a system—Teal is about integrating *through the soul* by connecting to something beyond the conditioned personality: the **True Self**. This is where the small self meets the **Higher Self**. Where Free Will (Yellow) expands into **True Self Connection** (Teal).
+Yellow and Teal are the two halves of **Wisdom**—the capacity to know the right action, drawn from knowledge that has actually finished developing. Yellow supplied **Systems Wisdom**: integration *through the mind*, using analysis and disciplined attention to see the whole structure and find the leverage point. Teal supplies **True Self Wisdom**: integration *through the soul*, by connecting to something underneath the conditioned personality altogether. This is where the small self meets the **Higher Self**. Where the Intentional Actor's zoomed-out map gives way to Deep Intuition—gnosis of Dao, dharma, fundamental law.
+
+Both live at the Third Eye. That's not decoration—it's the reason they belong in one category. Yellow sees the structure of things; Teal sees through it. Integral knowing and deep intuition, the same organ at two focal lengths.
 
 Teal is the shift from the Intentional Actor to the **True Self Embodier**—from someone who consciously chooses their response to someone who *channels* wisdom from their transcendent nature, their Monad, what some traditions call the Holy Guardian Angel or the Higher Self.
 

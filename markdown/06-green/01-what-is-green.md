@@ -14,6 +14,8 @@ media: []
 
 If Orange is the building phase—achieving, optimizing, expanding your way toward mastery—Green is the integration phase. The exhale. The moment you stop pushing outward and turn inward to ask: *At what cost?*
 
+Green shares the Throat with Orange, which surprises people who expect the shadow work stage to live somewhere darker. But that's the point. Orange puts the world into words; Green puts *you* into them. Same chakra, opposite direction. And anyone who has tried to say the true thing about themselves out loud knows exactly which of the two is harder on the throat.
+
 This is the stage where you turn around and look at all the parts of yourself you disowned or suppressed in the pursuit of achievement. The messy parts. The vulnerable parts. The parts that don't perform well, that can't be optimized, that refuse to fit into neat categories. The parts you've been taught to hide.
 
 In Spiral Dynamics, Green is the "sensitive self" stage—pluralistic, egalitarian, deeply concerned with inclusivity and authenticity. It's the environmentalist, the social justice activist, the therapist. It values feelings over facts, process over outcome, We over I. It seeks to heal the wounds that Orange's relentless individualism left in its wake.

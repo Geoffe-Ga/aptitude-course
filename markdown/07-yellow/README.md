@@ -6,7 +6,7 @@ This folder contains the modular sections for the YELLOW stage of the APTITUDE c
 
 - [Table of Contents](./00-table-of-contents.md)
 - [What is Yellow?](./01-what-is-yellow.md)
-- [The Mood of Yellow: Freedom—Free Will](./02-the-mood-of-yellow-freedomfree-will.md)
+- [The Mood of Yellow: Wisdom—Systems Wisdom](./02-the-mood-of-yellow-wisdomsystems-wisdom.md)
 - [The Journaling Prompts of Yellow](./03-the-journaling-prompts-of-yellow.md)
 - [Deepening the Prompts: Advanced Journaling for Yellow](./04-deepening-the-prompts-advanced-journaling-for-yellow.md)
 - [The Relationship to Free Will at Yellow: Intentional Actor](./05-the-relationship-to-free-will-at-yellow-intentional-actor.md)
