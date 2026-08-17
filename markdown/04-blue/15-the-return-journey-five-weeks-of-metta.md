@@ -50,6 +50,34 @@ One week per circle, fifteen minutes a day, in this order:
 
 **Week Five: The whole world.** All beings, everywhere, without exception—which, note, includes both you and the “enemy,” now held in the same field. *May all beings be safe. May all beings be happy.* This is the week the Journey earns its name: you started collapsed around a wound, and you end facing the world again, on speaking terms with all of it.
 
+### If Week One is a wall
+
+For some people Week One isn’t hard—it’s impossible. The phrases go out and shame bats every one of them back, and by day four the sit has stopped being medicine and turned into a daily re-injury. If that’s you, don’t grind. Reorder.
+
+Walk it like this instead: someone easy to love, then an acquaintance, then the “enemy,” then the whole world, and then—last—yourself. Same five circles, same fifteen minutes, same week apiece. Only the starting point moves.
+
+It still works, because the Journey’s logic is de-isolation, and de-isolation runs in both directions. You can begin at the wound and widen outward, or you can warm the channel on someone your heart already opens toward and then follow that warmth home. Arriving at yourself in Week Five, after a month of evidence that the channel works, is sometimes the only way the phrases get through at all. This isn’t an improvisation, either. The old instructions have always said that when self-directed Metta won’t take, you start with someone it will.
+
+But know what you’re trading. The default order front-loads the hardest week while your motivation is highest, and it puts self-repair first at the moment self-repair is the emergency. Reordering buys reachability at that price. If you can walk Week One first, walk it first.
+
+And moving the circle is not skipping the circle. Yourself is the one that makes the other four hold. If you put it at the end, you still walk it.
+
+### When your mind wanders
+
+Fifteen minutes of holding one person in your attention is harder than it sounds—harder than the breath, honestly, because the breath doesn’t come with a history attached. So your mind will wander. In my experience, the best way to walk a Return Journey is to let it.
+
+Not sloppily. Let it wander the way it does in any breath practice: you hold the object, attention drifts, and at some point you notice. That noticing is the entire event. Congratulate yourself when it happens—actually congratulate yourself, not as a formality—because the moment you catch the drift is the moment your intention reasserts itself. And on a Return Journey, when the inner monologue has turned prosecutorial, greeting your own lapse with warmth *is* the training. You’re not interrupting the practice. You’re doing it.
+
+Then, before you go back, take stock of where you went. This is the one place the Return Journey parts ways with ordinary breath practice, where the instruction is to let the content go and come back to the object. Don’t let it go. Look at it. If you walked Purple’s daily draw you’ve done a version of this already: the mind drifts, the bell of awareness rings, and instead of shaking it off you turn around to see what it was showing you. Almost always you’ll find a memory: a person, a place, a thing. And on a Return Journey, more often than not, it will be a memory that inspires shame.
+
+That’s not the practice failing. That’s the practice surfacing its own material. You started this Journey because something knocked you down, and of course the mind keeps walking back to the spot.
+
+So work it right where it stands. Give every individual in that memory one round of every phrase—*May you be safe. May you be happy. May you be healthy. May you live with ease.*—then all beings, then yourself, arriving last and already warmed rather than cold. Then return to whichever circle this week belongs to.
+
+Meeting the memory beats shoving it away. A shame memory pushed out of a Metta sit doesn’t leave; it circles the block and comes back in ten minutes. What’s true of Week Four is true here—rage and shame both require a frozen image, and Metta melts the frame—except this time you didn’t have to choose the target. It chose itself.
+
+You don’t have to service every stray thought, though. Take the ones with a charge on them and let the idle drift go. Otherwise fifteen minutes becomes an hour, and that’s a different practice than the one you came for.
+
 ### Why it works
 
 The Return Journey is the Wavelength applied to the heart. The five circles trace the same arc as any Restoration: begin at the wound (you), warm the system (easy love), expand the range (neutral), metabolize the poison (enemy), and rejoin the whole (world). Shame isolates; the Journey systematically de-isolates. Rage fixates; the Journey systematically widens. You cannot complete five honest weeks of this and remain in the same relationship to what knocked you down.
