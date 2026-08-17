@@ -148,12 +148,18 @@ This script:
 ```bash
 python scripts/build_metrics.py           # regenerate markdown/meta/metrics.md
 python scripts/build_metrics.py --check   # verify the committed file is current
+python scripts/build_metrics.py --html _site  # preview the published page locally
 ```
 
 Metrics are generated from `manifest.json`, so run `build_manifest.py` first if
 you added or renamed a chapter. Output is deterministic (no timestamp) — the
 same corpus always renders the same file. Not enforced by CI; refresh it after
 significant content changes and commit the result.
+
+The same statistics are published to GitHub Pages by
+`.github/workflows/metrics-pages.yml` on every push to `main`, rebuilt from the
+corpus at deploy time. The published page is therefore current even when the
+committed `metrics.md` is not.
 
 `markdown/meta/metrics.md` is the current numbers — read it rather than
 quoting figures from here, which go stale the moment a chapter lands.

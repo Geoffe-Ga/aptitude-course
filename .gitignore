@@ -3,3 +3,7 @@
 #  stat-index.json embeds absolute paths and is rebuilt per machine)
 graphify-out/cache/stat-index.json
 graphify-out/graph.html
+
+# Local output of `python scripts/build_metrics.py --html _site`.
+# The Pages site is built in CI on every push to main, never committed.
+_site/

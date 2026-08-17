@@ -1,0 +1,83 @@
+# Corpus statistics → GitHub Pages
+#
+# Publishes markdown/meta/metrics.md as a web page on every push to `main`,
+# which in this repo's flow means every merged PR. The page is rebuilt from
+# the corpus at deploy time rather than served from the committed Markdown,
+# so the published numbers always reflect the merge that just landed — even
+# when a content PR forgot to re-run scripts/build_metrics.py.
+#
+# One-time repository setup (an admin has to do this once, in the UI):
+#   Settings → Pages → Build and deployment → Source: **GitHub Actions**
+# Until that is set, this workflow fails at the "Configure Pages" step with
+# "Get Pages site failed". Nothing else in CI is affected.
+#
+# The published URL appears in the workflow run summary, and afterwards under
+# Settings → Pages. It is public even though it is built from a private repo,
+# so treat the page as public content: it reports word counts and chapter
+# titles, never chapter bodies.
+#
+# No secrets are used; everything runs offline against the checkout.
+
+name: Metrics Pages
+
+on:
+  push:
+    branches: [main]
+    # Only rebuild when something that changes the numbers changes.
+    paths:
+      - "markdown/**"
+      - "manifest.json"
+      - "scripts/build_metrics.py"
+      - ".github/workflows/metrics-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; a newer merge supersedes an in-flight build.
+# In-progress runs are not cancelled, so a deploy already writing to Pages
+# is allowed to finish rather than leaving the site half-published.
+concurrency:
+  group: metrics-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: Build + deploy statistics page
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install tooling
+        run: pip install -r scripts/requirements.txt
+
+      # Measures the indexed corpus (manifest.json) and renders the same
+      # document model metrics.md uses. --stamp carries build provenance,
+      # which is why the committed Markdown can stay timestamp-free.
+      - name: Build statistics page
+        run: |
+          python scripts/build_metrics.py --html _site \
+            --stamp "Rebuilt from ${GITHUB_SHA:0:7} on $(date -u '+%B %-d, %Y at %H:%M UTC')"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
