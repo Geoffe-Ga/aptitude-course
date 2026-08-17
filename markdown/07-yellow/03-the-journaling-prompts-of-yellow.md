@@ -16,7 +16,9 @@ Yellow's journaling is integrative. You're not exploring one dimension (like Ora
 
 This is systems thinking applied to the self. And it requires rigor.
 
-**Prompt 1: Identify Patterns Across Your Life (At least 4x per week)**
+**How often.** One of these four is a short daily check-in; the rest are longer sittings you rotate through. Figure on the Wavelength map (Prompt 2) taking five minutes every day, Prompt 1 taking a full sitting twice a week, and Prompts 3 and 4 getting one or two sittings each across the 21 days. Rigor here means depth per entry, not volume of entries.
+
+**Prompt 1: Identify Patterns Across Your Life** *(2x per week — one pattern per sitting)*
 
 Look back over your life—across relationships, projects, challenges, transitions. What patterns keep repeating?
 
@@ -34,7 +36,7 @@ Finally, ask: *What would it look like to honor the need this pattern is trying 
 
 This is integrative journaling. You're not just seeing the pattern. You're *understanding the architecture* of it. And that understanding is the first step toward choice.
 
-**Prompt 2: Map Your Current State to the Archetypal Wavelength (At least 4x per week)**
+**Prompt 2: Map Your Current State to the Archetypal Wavelength** *(Daily — five minutes)*
 
 You're always somewhere on the Wavelength. Rising, Peaking, Withdrawing, Diminishing, Bottoming Out, or Restoring. Yellow asks you to *track* it consciously.
 
@@ -46,7 +48,7 @@ For example: "I'm in Diminishing creatively. The medicine is Reorienting—stepp
 
 This is practicing *real-time integration*. You're not just living the Wavelength unconsciously. You're *surfing* it. Collaborating with it. Using your awareness to navigate it more skillfully.
 
-**Prompt 3: Reflect on How All Models Are Wrong But Some Are Useful (At least 4x per week)**
+**Prompt 3: Reflect on How All Models Are Wrong But Some Are Useful** *(One or two sittings across the stage — one model at a time)*
 
 Yellow is the stage that can hold paradox. One of the core paradoxes is: *Every model is incomplete, and models are still essential*.
 
@@ -58,7 +60,7 @@ Pick a model you've been using—Spiral Dynamics, the Enneagram, attachment theo
 
 This practice trains you to use frameworks without being imprisoned by them. To appreciate the map without mistaking it for the territory. To integrate multiple models without needing them to agree.
 
-**Prompt 4: Write About Your Relationship to Determinism and Agency (At least 4x per week)**
+**Prompt 4: Write About Your Relationship to Determinism and Agency** *(One or two sittings across the stage)*
 
 Yellow is where the free will question gets personal. Journal about:
 - In what areas of my life do I feel I have choice?

@@ -14,7 +14,9 @@ media: []
 
 Ultraviolet's journaling is contemplative, precise, and devoted. You're not exploring (Orange), processing (Green), or mapping (Yellow) anymore. You're *deepening*. You're returning to the same questions again and again, not because you haven't answered them, but because each time you ask, you see more.
 
-**Prompt 1: Reflect on Your Understanding of Developmental Stages (At least 4x per week)**
+**How often.** Four sittings a week, one prompt per sitting, **rotating**. Returning to the same question again and again is the method—but "again and again" means across weeks, not four times in the same week. Prompt 2 is the exception: build your Developmental Profile once, early, then revisit it near the end of the stage to see what moved.
+
+**Prompt 1: Reflect on Your Understanding of Developmental Stages** *(Rotation — roughly weekly)*
 
 Write about the spiral. Not academically—*personally*. Which stages have you inhabited? Which do you still resist? Which do you romanticize?
 
@@ -39,7 +41,7 @@ Example entry structure:
 
 Do this for each stage. Over weeks and months, you'll have a complete developmental autobiography. And in writing it, you'll see the patterns, the recurring themes, the places where growth is asking to happen.
 
-**Prompt 2: Identify Where You Are on the Spiral in Different Domains (At least 4x per week)**
+**Prompt 2: Identify Where You Are on the Spiral in Different Domains** *(Build once early, revisit once near the end of the stage)*
 
 You're not at one stage in all areas of your life. You might be at Yellow intellectually, Green relationally, and Red in conflict.
 
@@ -62,7 +64,7 @@ Use a table to map yourself across life domains:
 
 Update this monthly. Notice: Where are you most fragmented? Where do you "level down" under stress? This map becomes a diagnostic tool—when you're struggling in any domain, check: what stage am I operating from? What would the next stage offer?
 
-**Prompt 3: Explore Moments of Non-Dual Awareness (At least 4x per week)**
+**Prompt 3: Explore Moments of Non-Dual Awareness** *(Rotation — roughly weekly, and whenever a glimpse arrives)*
 
 When have you touched the recognition that subject and object are not separate? When have you experienced the dissolving of the boundary between self and world?
 
@@ -103,7 +105,7 @@ Over months, you'll accumulate dozens of these entries. Read back through them. 
 
 This is how glimpses become stabilization.
 
-**Prompt 4: Reflect on the Role of Practice in Your Life (At least 4x per week)**
+**Prompt 4: Reflect on the Role of Practice in Your Life** *(Rotation — roughly weekly)*
 
 What is practice *for* at this stage? You're no longer practicing to "get better." You're no longer fixing yourself or chasing states.
 

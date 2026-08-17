@@ -14,7 +14,9 @@ media: []
 
 At Clear Light, journaling is no longer about processing or understanding. It's about *pointing*. You're using words to gesture toward what cannot be captured in words. You're documenting the glimpses. Honoring the mystery.
 
-**Prompt 1: Describe Experiences of Emptiness (Whenever they arise)**
+**How often.** Clear Light's cadence is the least scheduled of any stage, and deliberately so. One prompt is a two-minute daily check-in. One is opportunistic—you write it when a glimpse arrives, not when the calendar says to. The other two get a sitting each per week. If you find yourself forcing an entry to hit a number, you've mistaken the instrument for the music.
+
+**Prompt 1: Describe Experiences of Emptiness** *(Whenever they arise — no schedule)*
 
 When have you touched the recognition that phenomena—including the "self"—are empty of inherent existence?
 
@@ -55,7 +57,7 @@ Example: *"I'm not trying to get to non-duality. I'm removing the obstacles to w
 
 Over time, these entries create a phenomenological map of awakening. You're documenting your own path to liberation. And in that documentation, liberation deepens.
 
-**Prompt 2: Reflect on "Obstacles Are the Path" (At least 4x per week)**
+**Prompt 2: Reflect on "Obstacles Are the Path"** *(1–2x per week — one obstacle per sitting)*
 
 One of Clear Light's core teachings (which we'll explore in depth later) is that obstacles are not impediments to awakening—they *are* awakening. Every challenge, every difficulty, every moment you'd rather avoid is the path itself.
 
@@ -95,7 +97,7 @@ Example: *"Instead of trying to eliminate the fear, I can bring it with me. I ca
 
 This is the alchemical practice of Clear Light. You're not avoiding difficulty. You're metabolizing it into wisdom.
 
-**Prompt 3: Notice the Wavelength in All Domains (Daily)**
+**Prompt 3: Notice the Wavelength in All Domains** *(Daily — two minutes, the table below)*
 
 You're always somewhere on the Archetypal Wavelength. Always cycling. Even at Clear Light.
 
@@ -127,7 +129,7 @@ This daily check-in does three things:
 
 This is mastery of the Wavelength. Not transcendence—*navigation*.
 
-**Prompt 4: Write as the Adept (Aspirational Identity)**
+**Prompt 4: Write as the Adept (Aspirational Identity)** *(Once a week — ten minutes, timed)*
 
 Imagine you are the Adept—the version of you who is fully awake, fully embodied, fully free. Not some distant future self, but the *essence* of who you already are beneath the conditioning.
 

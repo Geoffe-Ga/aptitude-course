@@ -16,21 +16,9 @@ Green's journaling is different. It's not strategic (like Orange) or reflective 
 
 As always: pen, not pencil. Timer set. Hand moving. No crossing out. Let the unconscious speak.
 
-**Prompt 1: Write About a Memory Associated With Each Shadow Element (At least 4x per week)**
+**How often.** Journal four times a week across the 21 days, thirty minutes a sitting. The prompts run in sequence, and each hands its output to the next: build the Shadow List first, then work it one element at a time. Don't try to do all four every session—the memory work in Prompt 2 is the engine of this stage, and it needs room.
 
-Start by making your Shadow List (see Prompt 2 below). Then, for each element on that list—each behavior, characteristic, or identity you've disowned—write about a specific memory where you first learned that this part of you was unacceptable.
-
-Go back to the moment. Describe it in detail. What were you doing? Who was there? What did they say? What did you feel in your body?
-
-Don't analyze it yet. Just *be* with it. Let the memory unfold on the page like a film. Feel it fully.
-
-Then—and this is the alchemical part—reframe the shadow element as Light. Ask: What gift was hiding in this behavior? What need was I trying to meet? What would it look like to honor this part of myself *without* the shame?
-
-For example: If your Shadow element is "anger," write about the first time you were punished for being angry. Then reframe: "My anger was trying to protect my boundaries. It was telling me something important. If I could honor that energy without the violence, what would it become? Clarity. Advocacy. Sacred rage."
-
-This is shadow work. Not eliminating the dark, but *illuminating* it. Seeing it clearly enough to integrate it.
-
-**Prompt 2: Make a List of Behaviors, Characteristics, and Identities That Comprise Your Shadow (At least 4x per week)**
+**Prompt 1: Make a List of Behaviors, Characteristics, and Identities That Comprise Your Shadow** *(Build once — two sittings, then add as things surface)*
 
 Your Shadow is everything you've disowned. Every quality you've been told is "bad" or "wrong" or "too much" or "not enough." Every part of yourself you've hidden because it didn't fit the image of who you're supposed to be.
 
@@ -52,7 +40,25 @@ These aren't "bad" things. They're *human* things. But somewhere along the way, 
 
 The first step to reclaiming them is naming them. Write them all down. Don't judge. Just witness.
 
-**Prompt 3: Identify the Shadow Characteristics That Project Systemic Problems (At least 4x per week)**
+Two sittings is right for this. The list you make in one pass is the list you already knew about; what shows up on the second pass, after a few days of your unconscious chewing on it, is the material you actually came here for.
+
+**Prompt 2: Write About a Memory Associated With Each Shadow Element** *(3–4x per week — one element per sitting)*
+
+Take your Shadow List from Prompt 1. Then, working through it **one element per sitting**—not the whole list at once—write about a specific memory where you first learned that this part of you was unacceptable.
+
+One element per session is not a suggestion. This work goes deep, and going deep on one disowned part of yourself is a full thirty minutes. Trying to metabolize six of them in one evening is how people end up flooded, dissociated, or convinced that shadow work "doesn't do anything." You will not get through your whole list this stage. That's fine. Pick the ones that pull.
+
+Go back to the moment. Describe it in detail. What were you doing? Who was there? What did they say? What did you feel in your body?
+
+Don't analyze it yet. Just *be* with it. Let the memory unfold on the page like a film. Feel it fully.
+
+Then—and this is the alchemical part—reframe the shadow element as Light. Ask: What gift was hiding in this behavior? What need was I trying to meet? What would it look like to honor this part of myself *without* the shame?
+
+For example: If your Shadow element is "anger," write about the first time you were punished for being angry. Then reframe: "My anger was trying to protect my boundaries. It was telling me something important. If I could honor that energy without the violence, what would it become? Clarity. Advocacy. Sacred rage."
+
+This is shadow work. Not eliminating the dark, but *illuminating* it. Seeing it clearly enough to integrate it.
+
+**Prompt 3: Identify the Shadow Characteristics That Project Systemic Problems** *(Week 3 — one or two sittings)*
 
 This is where personal shadow work meets collective responsibility. Return to your list of Problems from Orange. Then ask: Which of my Shadow elements *contribute* to these problems?
 
@@ -80,7 +86,7 @@ The connection: *Your personal pattern of silencing yourself is a microcosm of t
 
 This doesn't mean you're responsible for the whole system. But it does mean your healing is *part* of the solution. When you reclaim your voice—when you learn to speak truth even when it's uncomfortable—you're not just healing yourself. You're modeling a different possibility for everyone around you.
 
-**Prompt 4: Share and Discuss Shadow Work With Your Digital Sangha**
+**Prompt 4: Share and Discuss Shadow Work With Your Digital Sangha** *(Once or twice across the stage — not every session)*
 
 Shadow work is not meant to be done alone. When you share what you're discovering—when you let others witness your process—the shame loses its grip. You realize: *Oh. I'm not the only one. We're all carrying this.*
 

@@ -16,7 +16,9 @@ Blue is the stage of relational reflection. The journaling prompts here are desi
 
 As always: set a timer, keep your pen moving, no crossing out. Let the truth surface.
 
-**Prompt 1: Make a List of Things You "Have To" Do (At least 4x per week)**
+**How often.** Journal four times a week across the 21 days, fifteen minutes a sitting. The four prompts are not four things you do every session—two of them are inventories you build once and then tend, and two are practices you return to. Spend your first two or three sittings building the lists (Prompts 1 and 2), then let Prompts 3 and 4 carry the rest of the stage.
+
+**Prompt 1: Make a List of Things You "Have To" Do** *(Build once — two sittings, then revisit as new "have to"s surface)*
 
 This is the central inquiry of Blue. What are all the things you tell yourself you *have* to do? Not want to. Not choose to. Have to.
 
@@ -24,13 +26,13 @@ Start each entry with "I have to…" and make the list as long as you can. Inclu
 
 Don't analyze yet. Just list. Let yourself see how many invisible chains you're carrying.
 
-Once you've exhausted the list, go back through it and add a new column: "I choose to do X because…"
+That's the first sitting. Stop there—don't rush to the reframe while your hand is still tired. Come back for the second sitting and go back through the list, adding a new column: "I choose to do X because…"
 
 This is the alchemical move. You're shifting from *obligation* to *agency*. From victim to author. You're recognizing that even the things that feel mandatory are, in some way, choices. Maybe you don't *have* to go to work—but you *choose* to because you value financial stability. Maybe you don't *have* to call your mom—but you *choose* to because you love her, or because you're afraid of the guilt if you don't, or because connection matters to you.
 
 The goal is not to eliminate all obligations. It's to reclaim your power within them. To see that even in the most constrained circumstances, you have *some* degree of choice. And that awareness changes everything.
 
-**Prompt 2: List 10 Systems That Demand Your Conformity (At least 4x per week)**
+**Prompt 2: List 10 Systems That Demand Your Conformity** *(Build once — one sitting)*
 
 What are the systems—social, cultural, economic, familial, institutional—that expect you to behave a certain way? That punish deviation and reward compliance?
 
@@ -45,7 +47,7 @@ Write them down. Name them. See them clearly.
 
 This isn't about becoming a rebel or rejecting all structure. It's about developing discernment. Some of these systems serve you. Some don't. But you can't choose which ones to engage with until you're aware of how many invisible hands are shaping your behavior.
 
-**Prompt 3: Gratitude List (At least 4x per week)**
+**Prompt 3: Gratitude List** *(3–4x per week — five minutes at the top of a sitting)*
 
 Write down 10 things you're grateful for. Or pick 3 and go deep—describe them in sensory detail, name why they matter, feel the warmth of the gratitude in your chest as you write.
 
@@ -53,7 +55,7 @@ This isn't toxic positivity. This is training your nervous system to notice what
 
 Gratitude is the antidote to resentment. It's the practice of saying, "Yes, I'm tired. Yes, it's hard. And also—I'm loved. I'm supported. I belong."
 
-**Prompt 4: Reflect on a Moment When You Felt Truly Seen by Someone (At least 2x per week)**
+**Prompt 4: Reflect on a Moment When You Felt Truly Seen by Someone** *(1–2x per week — one memory per sitting)*
 
 Write about a time when someone really *got* you. When you felt understood, valued, witnessed. What did they say or do? How did it feel in your body? What did it make possible for you?
 
