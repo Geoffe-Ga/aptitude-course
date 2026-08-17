@@ -14,7 +14,7 @@ media: []
 
 You don't find it by thinking harder. You find it by *doing the prompts*.
 
-Week after week, you list your curiosities. You name your problems. You combine them. You notice which combinations light you up. You draft vows. You share them. You iterate.
+You build the list of curiosities. You name the problems. You combine them, one combination at a time, and notice which ones light you up. You draft a vow. You share it. Then, months later, you come back and run it again with a different set of curiosities, because you're a different person by then.
 
 Over time, patterns emerge. Certain curiosities keep showing up. Certain problems won't let you go. And at some point—maybe in week three, maybe in month two—you'll write down a combination that makes your whole body say *yes*.
 
