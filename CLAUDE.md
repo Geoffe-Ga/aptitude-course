@@ -146,16 +146,17 @@ This script:
 ### Generating Statistics
 
 ```bash
-cd markdown
-# Run the metrics generation script (if exists)
-# Or regenerate metrics.md from scratch
+python scripts/build_metrics.py           # regenerate markdown/meta/metrics.md
+python scripts/build_metrics.py --check   # verify the committed file is current
 ```
 
-Current stats (Dec 2025):
-- **126,680 total words** across 15 documents
-- **117,565 words** in the 10 stage files (average ~11,750/stage)
-- **~8.5 hours** total reading time
-- **~470 minutes** for all 10 stages
+Metrics are generated from `manifest.json`, so run `build_manifest.py` first if
+you added or renamed a chapter. Output is deterministic (no timestamp) — the
+same corpus always renders the same file. Not enforced by CI; refresh it after
+significant content changes and commit the result.
+
+`markdown/meta/metrics.md` is the current numbers — read it rather than
+quoting figures from here, which go stale the moment a chapter lands.
 
 ### Git Workflow
 
