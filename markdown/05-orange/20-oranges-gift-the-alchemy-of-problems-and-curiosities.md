@@ -17,3 +17,5 @@ The deepest gift of Orange is the realization that *your life's work lives at th
 Think about it: you have curiosities—things you could study for hours without getting bored. And you have problems—issues that make you angry, sad, restless, awake at 3am. Most people treat these as separate. Curiosities are "hobbies." Problems are "causes." But Orange teaches you to *combine* them. To ask: What if my curiosity is the tool I need to address the problem that matters most to me?
 
 This is alchemy. This is the Four Quadrants in action. And it's how you find your path.
+
+Steven Kotler calls what you find there a Massively Transformative Purpose, and the journaling sequence you've been running all month—25 curiosities, 15 problems, then the combination—is his, from *The Art of the Impossible*. Orange's gift is that the recipe actually works: motivation stops being a thing you summon and becomes a thing you assemble.
