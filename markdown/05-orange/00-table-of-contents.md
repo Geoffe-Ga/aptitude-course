@@ -12,20 +12,6 @@
 
 [The Practice of Orange: Wim Hof Method](#the-practice-of-orange-wim-hof-method)
 
-[The Basic Wim Hof Protocol: A Step-by-Step Guide](#the-basic-wim-hof-protocol-a-step-by-step-guide)
-
-[Step One: Create Your Sacred Laboratory](#step-one-create-your-sacred-laboratory-2-minutes)
-
-[Step Two: The Breathing Rounds](#step-two-the-breathing-rounds-12-15-minutes)
-
-[Step Three: Optional Cold Exposure](#step-three-optional-cold-exposure-3-5-minutes)
-
-[The Science Behind the Method: What's Actually Happening](#the-science-behind-the-method-whats-actually-happening)
-
-[Common Experiences and How to Navigate Them](#common-experiences-and-how-to-navigate-them)
-
-[Tracking Your Progress: The Orange Way](#tracking-your-progress-the-orange-way)
-
 [Alternatives for Orange Practice](#alternatives-for-orange-practice)
 
 [The Default Habit of Orange: Exercise](#the-default-habit-of-orange-exercise)

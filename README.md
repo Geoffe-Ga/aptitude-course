@@ -125,7 +125,7 @@ A critical distinction in the later stages:
 - **Total Word Count**: 126,680 words
 - **Total Reading Time**: ~8.5 hours (at 250 wpm)
 - **Average Stage Length**: 11,756 words
-- **Total Sections**: 219 modular files + 10 stage READMEs
+- **Total Sections**: 212 modular files + 10 stage READMEs
 - **Course Duration**: 36 weeks (9 months)
 - **Practice Progression**: 1 minute → 90 minutes daily
 
@@ -213,7 +213,7 @@ This repo maintains a [graphify](https://github.com/Graphify-Labs/graphify)
 knowledge graph in `graphify-out/` (committed) so the
 [adepthood](https://github.com/Geoffe-Ga/adepthood) hub can merge it into the
 ecosystem pan-graph. The committed baseline covers the build tooling; the
-curriculum itself (219 chapters + the source-of-truth CSVs) is ingested by a
+curriculum itself (202 chapters + the source-of-truth CSVs) is ingested by a
 weekly semantic workflow once an `ANTHROPIC_API_KEY` secret is configured —
 see `.github/workflows/graph-update.yml`.
 

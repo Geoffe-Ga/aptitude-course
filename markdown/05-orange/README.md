@@ -11,13 +11,6 @@ This folder contains the modular sections for the ORANGE stage of the APTITUDE c
 - [The Relationship to Free Will at Orange: Status Seeker](./04-the-relationship-to-free-will-at-orange-status-seeker.md)
 - [The Mode of the Wavelength of Orange: Collaborate (Do)](./05-the-vibe-wavelength-of-orange-collaborate-do.md)
 - [The Practice of Orange: Wim Hof Method](./06-the-practice-of-orange-wim-hof-method.md)
-- [The Basic Wim Hof Protocol: A Step-by-Step Guide](./07-the-basic-wim-hof-protocol-a-step-by-step-guide.md)
-- [Step One: Create Your Sacred Laboratory (2 minutes)](./08-step-one-create-your-sacred-laboratory-2-minutes.md)
-- [Step Two: The Breathing Rounds (12-15 minutes)](./09-step-two-the-breathing-rounds-12-15-minutes.md)
-- [Step Three: Optional Cold Exposure (3-5 minutes)](./10-step-three-optional-cold-exposure-3-5-minutes.md)
-- [The Science Behind the Method: What's Actually Happening](./11-the-science-behind-the-method-whats-actually-happening.md)
-- [Common Experiences and How to Navigate Them](./12-common-experiences-and-how-to-navigate-them.md)
-- [Tracking Your Progress: The Orange Way](./13-tracking-your-progress-the-orange-way.md)
 - [Alternatives for Orange Practice](./14-alternatives-for-orange-practice.md)
 - [The Default Habit of Orange: Exercise](./15-the-default-habit-of-orange-exercise.md)
 - [Why Exercise is Non-Negotiable for Understanding](./16-why-exercise-is-non-negotiable-for-understanding.md)
@@ -46,4 +39,4 @@ This folder contains the modular sections for the ORANGE stage of the APTITUDE c
 
 Original monolithic file: `../5.ORANGE.md` (preserved as backup)
 
-Total sections: 30
+Total sections: 23
