@@ -22,7 +22,7 @@ This folder contains the modular sections for the ORANGE stage of the APTITUDE c
 - [The Default Habit of Orange: Exercise](./15-the-default-habit-of-orange-exercise.md)
 - [Why Exercise is Non-Negotiable for Understanding](./16-why-exercise-is-non-negotiable-for-understanding.md)
 - [How to Structure Your Exercise Practice](./17-how-to-structure-your-exercise-practice.md)
-- [Exercise as Meditation: The Flow State](./18-exercise-as-meditation-the-flow-state.md)
+- [From Exercise to Flow: The Anatomy of Maximum Self-Expression](./18-from-exercise-to-flow-the-anatomy-of-maximum-self-expression.md)
 - [Orange's Divine Gender: Divine Masculine—Achievement and Curiosity](./19-oranges-divine-gender-divine-masculineachievement-and-curios.md)
 - [Orange's Gift: The Alchemy of Problems and Curiosities](./20-oranges-gift-the-alchemy-of-problems-and-curiosities.md)
 - [Three Real Examples of Curiosity-Problem Alchemy](./21-three-real-examples-of-curiosity-problem-alchemy.md)

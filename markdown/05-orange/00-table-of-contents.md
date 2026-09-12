@@ -34,7 +34,7 @@
 
 [How to Structure Your Exercise Practice](#how-to-structure-your-exercise-practice)
 
-[Exercise as Meditation: The Flow State](#exercise-as-meditation-the-flow-state)
+[From Exercise to Flow: The Anatomy of Maximum Self-Expression](#from-exercise-to-flow-the-anatomy-of-maximum-self-expression)
 
 [Orange's Divine Gender: Divine Masculine—Achievement and Curiosity](#oranges-divine-gender-divine-masculine-achievement-and-curiosity)
 
