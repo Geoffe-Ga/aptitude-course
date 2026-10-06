@@ -191,8 +191,8 @@ Practice duration builds slowly (reference Complete Map CSV for exact practice n
 
 ### Stage 8: TEAL
 - **Mode**: Integrate (Feel)
-- **Aspect**: Wisdom: Transcendent Wisdom
-- **Archetype**: Adept
+- **Aspect**: Wisdom: True Self Wisdom
+- **Archetype**: True Self Embodier
 - **Practice**: Steven Kotler's "MacGyver Method" (45 min+)
 - **Habit**: Caffeine awareness
 - **Divine Gender**: Divine Feminine (reference Complete Map CSV)
@@ -440,7 +440,7 @@ Reference the book recommendations in the CSV for each stage. Major influences i
 
 **Yellow (Stage 7)**: THE turning point. Blissy Meditation introduction. The Despairing Analyst sees totality of conditioning. Reference Complete Map for Free Will description. Draw heavily on Mind Illuminated and related sources.
 
-**Teal (Stage 8)**: Nonduality emerges. Reference Complete Map for exact specifications. MacGyver Method is about spontaneous insight. Free Will as located in soul/Atman.
+**Teal (Stage 8)**: Connection to the True Self emerges—the Higher Self, the Monad that chose to incarnate (not nonduality, not witness consciousness; those belong to later stages). Reference Complete Map for exact specifications. MacGyver Method is about spontaneous insight. Free Will as located in the True Self.
 
 **Ultraviolet & Clear Light (Stages 9-10)**: Advanced practices. Frame as doorways, not destinations. "After the ecstasy, the laundry." Integration is lifelong. Reference Complete Map for Divine Hermaphrodite gender and all other specifications.
 
