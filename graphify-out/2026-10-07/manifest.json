@@ -1,1396 +1,1396 @@
 {
   "convert_docs.sh": {
-    "mtime": 1791407771.1533332,
+    "mtime": 1785556978.8290021,
     "ast_hash": "0f26b678e2b2bdcf8d5b120b5cd9b6b9",
     "semantic_hash": "0f26b678e2b2bdcf8d5b120b5cd9b6b9"
   },
   "manifest.json": {
-    "mtime": 1791407771.1872149,
-    "ast_hash": "6bc5cf5ceb19a8a6a53f11910bebbeb5",
+    "mtime": 1785556978.8530424,
+    "ast_hash": "a0bf4571762131d4741c85b00283a3d5",
     "semantic_hash": ""
   },
   "schema/manifest.schema.json": {
-    "mtime": 1791407771.2132316,
+    "mtime": 1785556978.8744876,
     "ast_hash": "2a64ec7e8506da8938b7280974fef8fe",
     "semantic_hash": "2a64ec7e8506da8938b7280974fef8fe"
   },
   "scripts/add_frontmatter.py": {
-    "mtime": 1791407771.2132316,
+    "mtime": 1785556978.8744876,
     "ast_hash": "a400653a30e4fd768acf0b0ce208bf74",
     "semantic_hash": "a400653a30e4fd768acf0b0ce208bf74"
   },
   "scripts/build_manifest.py": {
-    "mtime": 1791407771.2136679,
+    "mtime": 1785556978.8747733,
     "ast_hash": "21ee4730efef6f2d592fee21fb183855",
     "semantic_hash": "21ee4730efef6f2d592fee21fb183855"
   },
   "scripts/check_links.py": {
-    "mtime": 1791407771.2136679,
+    "mtime": 1785556978.8747733,
     "ast_hash": "d59195a13cbd76b75cd810bc92cf5022",
     "semantic_hash": "d59195a13cbd76b75cd810bc92cf5022"
   },
   "scripts/normalize_markdown.py": {
-    "mtime": 1791407771.2136679,
+    "mtime": 1785556978.8747733,
     "ast_hash": "867a7983ad208b8ed460b7579b5e17f4",
     "semantic_hash": "867a7983ad208b8ed460b7579b5e17f4"
   },
   "CLAUDE.md": {
-    "mtime": 1791407771.1533332,
+    "mtime": 1785556978.8290021,
     "ast_hash": "4f9158d3bc70b6ab688cebaf0520f6c0",
     "semantic_hash": ""
   },
   "CONSUMPTION.md": {
-    "mtime": 1791407771.1533332,
+    "mtime": 1785556978.8290021,
     "ast_hash": "9a4887436bd372aa8f34aaa14f3a9dbc",
     "semantic_hash": ""
   },
   "CONTENT_FORMAT.md": {
-    "mtime": 1791407771.1533332,
+    "mtime": 1785556978.8290021,
     "ast_hash": "9eac624ab94483238131b94c19460d05",
     "semantic_hash": ""
   },
   "CONTRIBUTING.md": {
-    "mtime": 1791407771.1533332,
+    "mtime": 1785556978.8290021,
     "ast_hash": "784c8018c95e16bfa357683a26140e13",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1791407771.1533332,
+    "mtime": 1785556978.8290021,
     "ast_hash": "8a28fe254581df9284032257f6de1546",
     "semantic_hash": ""
   },
   "google_docs/1.BEIGE.html": {
-    "mtime": 1791407771.1562147,
+    "mtime": 1785556978.8310416,
     "ast_hash": "ca1b183407a45f8a02db902ac4f49292",
     "semantic_hash": ""
   },
   "google_docs/2.PURPLE.html": {
-    "mtime": 1791407771.1582148,
+    "mtime": 1785556978.8330417,
     "ast_hash": "224b81c8568ee1c129c657764c6507cb",
     "semantic_hash": ""
   },
   "google_docs/3.RED.html": {
-    "mtime": 1791407771.1582148,
+    "mtime": 1785556978.8330417,
     "ast_hash": "613a5e62e5b0afd4a1b3cc508fba5442",
     "semantic_hash": ""
   },
   "google_docs/4.BLUE.html": {
-    "mtime": 1791407771.1582148,
+    "mtime": 1785556978.8330417,
     "ast_hash": "93c95071e0c81db7792a2fbae6518115",
     "semantic_hash": ""
   },
   "google_docs/APTITUDELandingPage.html": {
-    "mtime": 1791407771.1592147,
+    "mtime": 1785556978.8340416,
     "ast_hash": "e9e5052b1d27d40ade95fdff5d6034eb",
     "semantic_hash": ""
   },
   "google_docs/APTITUDEStagesDeepDive.html": {
-    "mtime": 1791407771.1592147,
+    "mtime": 1785556978.8340416,
     "ast_hash": "ce3a83aaf81737079a5a677e13d59e37",
     "semantic_hash": ""
   },
   "google_docs/ArchetypalWavelengthIntroduction.html": {
-    "mtime": 1791407771.1592147,
+    "mtime": 1785556978.8340416,
     "ast_hash": "06dce4029c8faa7bb6a02e50f5d5400e",
     "semantic_hash": ""
   },
   "google_docs/ExtendedInvitation.html": {
-    "mtime": 1791407771.1592147,
+    "mtime": 1785556978.8340416,
     "ast_hash": "6792453cfbad279a6eda0b0b40694a92",
     "semantic_hash": ""
   },
   "google_docs/ImageDescriptions.md": {
-    "mtime": 1791407771.1592147,
-    "ast_hash": "90a9e46ca9ea75664235270bb93551e5",
+    "mtime": 1785556978.8340416,
+    "ast_hash": "b1b25dfb84a9bc5e0a8236f36048677b",
     "semantic_hash": ""
   },
   "google_docs/LiminalCreepIntroduction.html": {
-    "mtime": 1791407771.1592147,
+    "mtime": 1785556978.8340416,
     "ast_hash": "3170b3342cd0ba1412b1f1d08a02e29e",
     "semantic_hash": ""
   },
   "markdown/01-beige/00-table-of-contents.md": {
-    "mtime": 1791407771.1884277,
-    "ast_hash": "26f5206871f8b2912054cbb1bb36e9ea",
+    "mtime": 1785556978.853876,
+    "ast_hash": "ad3686269aac432b296a367506d6ff1b",
     "semantic_hash": ""
   },
   "markdown/01-beige/01-what-is-beige.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "5076b34e53bb21cc1ef06e364ccc03c1",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "f326911e3aa62e2547f5f91e9b66a953",
     "semantic_hash": ""
   },
   "markdown/01-beige/02-why-beige-matters-the-physiology-of-safety-and-the-soul-of-s.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "698fed66b4ddea99967c5856ef877c0d",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "dbf2e20b98e613e479f4eee5a5a6eb46",
     "semantic_hash": ""
   },
   "markdown/01-beige/03-the-journaling-prompts-of-beige.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "88af56dec867947e45e0a75480a8e07f",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "00cac8c54816a7464c841a6f29b06868",
     "semantic_hash": ""
   },
   "markdown/01-beige/04-the-relationship-to-free-will-at-beige.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "85bc354ec5e0180463269f27ad0b50fa",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "a3aa4bdf3d897b8c75daa28f0bae6800",
     "semantic_hash": ""
   },
   "markdown/01-beige/05-the-vibe-wavelength-of-beige-internalize-do.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "0e64425472d864704d0597cf2247a922",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "4d02bd19e23d7749a7fa453ba5f00d92",
     "semantic_hash": ""
   },
   "markdown/01-beige/06-the-grounding-protocol-5-4-3-2-1.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "7a50dd8e66dc6469247901c6b3c86972",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "d1b79248d17d5e5e82cc6ce53e2ec978",
     "semantic_hash": ""
   },
   "markdown/01-beige/07-the-default-habit-of-beige-take-work-seriously.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "33a4b6ddc7433d18a6d5788e28d19002",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "5e0c382e0025d5b06c9dc1c31724dc60",
     "semantic_hash": ""
   },
   "markdown/01-beige/08-energy-scaffolding.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "91444092bd0f05531a4c7f801991a80f",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "ac9b120941a422a5de70b3512f4084b2",
     "semantic_hash": ""
   },
   "markdown/01-beige/09-how-to-perform-energy-scaffolding.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "b14a775d16f2b94d5043c14d78d35c67",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "fecaee3da2ebd092da353af6eac3c2e4",
     "semantic_hash": ""
   },
   "markdown/01-beige/10-the-four-gates-of-habit-alchemy.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "341f95521c489f96b3b11a3c8f1538bd",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "01939bfbfa0c64740f7635bae698d15c",
     "semantic_hash": ""
   },
   "markdown/01-beige/11-internalize-do.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "b7c6ae7e7b049f9357f127663d0bce25",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "d94b84377b6c194422feb97691d4d4d9",
     "semantic_hash": ""
   },
   "markdown/01-beige/13-the-sacred-highand-the-temptation-to-stay-there-forever.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "feed93b9df6f01858d83616c594c3b8d",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "401406b1b9bee2e80ab4ce725ed9209c",
     "semantic_hash": ""
   },
   "markdown/01-beige/14-when-you-dont-ground-you-float-into-disconnection.md": {
-    "mtime": 1791407771.188628,
+    "mtime": 1785556978.8539782,
     "ast_hash": "92889407b5aac628f2f0ac4795c0b624",
     "semantic_hash": ""
   },
   "markdown/01-beige/15-and-then-the-dangerous-temptation-to-repeat.md": {
-    "mtime": 1791407771.188628,
+    "mtime": 1785556978.8539782,
     "ast_hash": "28c4644601d237ff64495a2b3a9c06a3",
     "semantic_hash": ""
   },
   "markdown/01-beige/16-the-5-4-3-2-1-technique-your-root-chakra-reset.md": {
-    "mtime": 1791407771.188628,
+    "mtime": 1785556978.8539782,
     "ast_hash": "e0ef5998900b3be90676c8ef8781fb50",
     "semantic_hash": ""
   },
   "markdown/01-beige/17-alternative-practice-options.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "80cc75e52a7d278c29a4e4169083187a",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "4041969cfa8e193da89aefac65449700",
     "semantic_hash": ""
   },
   "markdown/01-beige/18-a-note-on-beige-practice.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "80cdedb67c65f49e4b4f0f4f7dd74274",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "7daa2c3611b5c92fa90017e0390db18a",
     "semantic_hash": ""
   },
   "markdown/01-beige/README.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "4a4cdd9123743b2234cc82b2331c8c30",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "34ba8c3733c90ca2f5cb83d93428e88f",
     "semantic_hash": ""
   },
   "markdown/02-purple/00-table-of-contents.md": {
-    "mtime": 1791407771.188628,
-    "ast_hash": "7762d9e6094279786de05cae4907f878",
+    "mtime": 1785556978.8539782,
+    "ast_hash": "f29722c43c04f67ef5fcf00d5b3deacb",
     "semantic_hash": ""
   },
   "markdown/02-purple/01-what-is-purple.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "e0c91f44f5dedef072aa202820e62101",
     "semantic_hash": ""
   },
   "markdown/02-purple/02-the-mood-of-purple-yes-and-nessreceptivity.md": {
-    "mtime": 1791407771.1897247,
-    "ast_hash": "799e11ff367ca3acc45a37c7ba964e5c",
+    "mtime": 1785556978.8540423,
+    "ast_hash": "9394cae7687df2aa08b242ec76ef4733",
     "semantic_hash": ""
   },
   "markdown/02-purple/03-the-journaling-prompts-of-purple.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "8e436442d8681f4c689816a9dbb87eca",
     "semantic_hash": ""
   },
   "markdown/02-purple/05-the-vibe-wavelength-of-purple-internalize-feel.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "e4ce72eea0fa9d9316382598174cfe1b",
     "semantic_hash": ""
   },
   "markdown/02-purple/06-the-practice-of-purple-a-daily-tarot-draw.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "4484ca6ef1d11a4a3e98ed991762338d",
     "semantic_hash": ""
   },
   "markdown/02-purple/07-alternative-practice-examples-i-ching-traffic-lights-bibliom.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "cc3448717405e16a5498b0346679833d",
     "semantic_hash": ""
   },
   "markdown/02-purple/08-the-default-habit-of-purple-vitamins-probiotics-and-water.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "2463f6732486d0af13604e658bb65334",
     "semantic_hash": ""
   },
   "markdown/02-purple/09-yes-and-ness-a-balance-between-radical-agency-and-radical-ac.md": {
-    "mtime": 1791407771.1897247,
-    "ast_hash": "61bfd6d3e155d7ff76be11b83826d0c8",
+    "mtime": 1785556978.8540423,
+    "ast_hash": "3d01dd8de8ba0b5852823df89899f123",
     "semantic_hash": ""
   },
   "markdown/02-purple/10-archetypal-gender-masculine-feminine-and-baphomet.md": {
-    "mtime": 1791407771.1897247,
-    "ast_hash": "277789e6c91cc03a2a074816c922acad",
+    "mtime": 1785556978.8540423,
+    "ast_hash": "90b6d3329a35cd4c738e478ab8c209ee",
     "semantic_hash": ""
   },
   "markdown/02-purple/11-purples-gift-welcoming-in-beauty.md": {
-    "mtime": 1791407771.1897247,
-    "ast_hash": "8eea8976643a43524acc3b7758a1d4a0",
+    "mtime": 1785556978.8540423,
+    "ast_hash": "2a4d07b11409e946a6a5d1c3b7d74055",
     "semantic_hash": ""
   },
   "markdown/02-purple/12-purples-shadow-delusions-of-reference-and-magical-thinking.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "1404af5d4c5f7cab8b2947d599c41b55",
     "semantic_hash": ""
   },
   "markdown/02-purple/13-internalize-feel.md": {
-    "mtime": 1791407771.1897247,
-    "ast_hash": "d7b7b378c79feac6a60bad9b55292754",
+    "mtime": 1785556978.8540423,
+    "ast_hash": "dab67c29066b69f93335f21cb5c397ba",
     "semantic_hash": ""
   },
   "markdown/02-purple/14-pranasynthesis-as-the-cure-for-depression.md": {
-    "mtime": 1791407771.1897247,
-    "ast_hash": "e25d375fa56df238a6da04df90ba95b8",
+    "mtime": 1785556978.8540423,
+    "ast_hash": "64622ef5448f737397375242aa1bef44",
     "semantic_hash": ""
   },
   "markdown/02-purple/15-tarot-in-the-foxhole-inviting-in-source-via-divination.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "b7563cb05da3f8e6b5772bdea4dbb1ea",
     "semantic_hash": ""
   },
   "markdown/02-purple/README.md": {
-    "mtime": 1791407771.1897247,
-    "ast_hash": "0eb4374420c78eee7344e5a4f495256a",
+    "mtime": 1785556978.8540423,
+    "ast_hash": "63ea283f843a5798d55d8a40e7beb670",
     "semantic_hash": ""
   },
   "markdown/03-red/00-table-of-contents.md": {
-    "mtime": 1791407771.1897247,
-    "ast_hash": "b8d52efc6b4c118be21925875c5bda3b",
+    "mtime": 1785556978.8540423,
+    "ast_hash": "98089bfe2c07d7a76f063a810a9adfc2",
     "semantic_hash": ""
   },
   "markdown/03-red/01-what-is-red.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "35ad2593e6cc9c7dea3bc85bd21da0c6",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "eef6fbacac0a55f6eadf9fb9a44e23a7",
     "semantic_hash": ""
   },
   "markdown/03-red/02-the-mood-of-red-self-love-and-power.md": {
-    "mtime": 1791407771.190809,
+    "mtime": 1785556978.8554096,
     "ast_hash": "debc83ebbc69e0ddc8008584831da39f",
     "semantic_hash": ""
   },
   "markdown/03-red/03-the-journaling-prompts-of-red.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "616677608ba806767a8dfc3e502a5d02",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "6eb55581bd0f6e62576fa8555af5e058",
     "semantic_hash": ""
   },
   "markdown/03-red/04-the-relationship-to-free-will-at-red-dominator.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "5534cdd0ce0420dff43c95fba46a195e",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "7b8b2798087ffe0ac1dd136a13eb1b74",
     "semantic_hash": ""
   },
   "markdown/03-red/05-the-vibe-wavelength-of-red-externalize-do.md": {
-    "mtime": 1791407771.190809,
+    "mtime": 1785556978.8554096,
     "ast_hash": "465efc37d5da6dee3024f664ea2be13f",
     "semantic_hash": ""
   },
   "markdown/03-red/06-the-practice-of-red-paced-breathing.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "93ebce27ea13459f6411ca6e27840cfe",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "7bd4ea3ea19cfc99b0e773fc67c8db22",
     "semantic_hash": ""
   },
   "markdown/03-red/07-alternatives-for-red-practice.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "56ed04cbcf23bf3c174335f3200356b0",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "8e6ff87734785c4fb3f9323b45c5988b",
     "semantic_hash": ""
   },
   "markdown/03-red/08-the-default-habit-of-red-looking-at-alcoholintoxicants.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "8efe7123abe396513424e914ce3c7833",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "234ef0180511f68ab6fcdc7c0998f714",
     "semantic_hash": ""
   },
   "markdown/03-red/09-reds-divine-gender-back-to-the-masculine-i-self-expressing.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "80f9094e7d51c3a4625d2e11d0fb34f2",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "deb9c5040c5aab808f5af17812153ae2",
     "semantic_hash": ""
   },
   "markdown/03-red/10-reframing-red-self-love-rather-than-power.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "0e146522a407a0eadc5dd4618951bc50",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "a44fcf3bfe34bbe4c4ec0f58f47ac011",
     "semantic_hash": ""
   },
   "markdown/03-red/11-reds-shadow-power-over-vs-power-with.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "d348b2b6e93b18f3ed9e8fe49b863cc4",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "da67badcfb7fb708a24ba8c164356c8f",
     "semantic_hash": ""
   },
   "markdown/03-red/12-externalize-do.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "fb3f417f70c66eb3645f0a7055653ea8",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "4759a32463a677576ca558bfd734df19",
     "semantic_hash": ""
   },
   "markdown/03-red/13-the-archetypal-wavelength-reveals-everything-is-a-practice.md": {
-    "mtime": 1791407771.190809,
+    "mtime": 1785556978.8554096,
     "ast_hash": "c643452854c026a3e0e72fb13662a16c",
     "semantic_hash": ""
   },
   "markdown/03-red/14-practicing-confidence-off-the-cushion.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "d8e28f42299b8fb80ace7beda005a29d",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "35bd1ae0f3dce23862ef45e633316f95",
     "semantic_hash": ""
   },
   "markdown/03-red/README.md": {
-    "mtime": 1791407771.190809,
+    "mtime": 1785556978.8554096,
     "ast_hash": "4e630ba11702bd7437d9bf65de09286f",
     "semantic_hash": ""
   },
   "markdown/04-blue/00-table-of-contents.md": {
-    "mtime": 1791407771.190809,
-    "ast_hash": "4eebacafa883e60b117cc6b25cc8ce0a",
+    "mtime": 1785556978.8554096,
+    "ast_hash": "e5e9fc9bf0de0db9dccdf337854f5ace",
     "semantic_hash": ""
   },
   "markdown/04-blue/01-what-is-blue.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "d2aefeeed2ec75b1f2d7bf861487fde5",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "39d02d8e33d3de986ba2e47b057c879e",
     "semantic_hash": ""
   },
   "markdown/04-blue/02-the-mood-of-blue-lovecommunity-love.md": {
-    "mtime": 1791407771.1921177,
+    "mtime": 1785556978.8563027,
     "ast_hash": "4c395c8070e440730336a4b4307f1061",
     "semantic_hash": ""
   },
   "markdown/04-blue/03-the-journaling-prompts-of-blue.md": {
-    "mtime": 1791407771.1921177,
+    "mtime": 1785556978.8563027,
     "ast_hash": "3fd2b16a0847e40d42b603a0eb97a506",
     "semantic_hash": ""
   },
   "markdown/04-blue/04-the-relationship-to-free-will-at-blue-victim.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "5f5d5b7649ca8a99d728453bd498bb7a",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "a1f1c49f57d479ff54e5b874521fb0f9",
     "semantic_hash": ""
   },
   "markdown/04-blue/05-the-vibe-wavelength-of-blue-express-feel.md": {
-    "mtime": 1791407771.1921177,
+    "mtime": 1785556978.8563027,
     "ast_hash": "d5ff3ed813a3db3a774f3eda1f66c78d",
     "semantic_hash": ""
   },
   "markdown/04-blue/06-the-practice-of-blue-metta-meditation.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "f3fed5605b83741f77ce0acf7f5c59ee",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "8cdb69e914a3f76759096749211d0ce2",
     "semantic_hash": ""
   },
   "markdown/04-blue/07-alternatives-for-blue-practice.md": {
-    "mtime": 1791407771.1921177,
+    "mtime": 1785556978.8563027,
     "ast_hash": "a787f80e39306242f8d6e8c4aa93a879",
     "semantic_hash": ""
   },
   "markdown/04-blue/08-the-default-habit-of-blue-looking-at-alcoholintoxicants.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "f7c42f60c206c6e90014fedbf2ab12eb",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "7d20e701ce609f5553e1ebc12cfe3210",
     "semantic_hash": ""
   },
   "markdown/04-blue/09-blues-divine-gender-divine-femininewe-self-sacrificing.md": {
-    "mtime": 1791407771.1921177,
+    "mtime": 1785556978.8563027,
     "ast_hash": "ed0d7c05c314aba4e882126a1ae4267d",
     "semantic_hash": ""
   },
   "markdown/04-blue/11-blues-gift-from-conformity-to-community.md": {
-    "mtime": 1791407771.1921177,
+    "mtime": 1785556978.8563027,
     "ast_hash": "db7b409519c7a8b5cc51e9adfb03a1ae",
     "semantic_hash": ""
   },
   "markdown/04-blue/12-blues-shadow-the-drama-triangle-victim-villain-savior.md": {
-    "mtime": 1791407771.1921177,
+    "mtime": 1785556978.8563027,
     "ast_hash": "1c41598ec9cf03eda39bf88ae403991e",
     "semantic_hash": ""
   },
   "markdown/04-blue/13-express-feelfull-6-phase-wavelength-breakdown.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "b5b4ee696c6d6cd74495ce69fce3965d",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "883f6337e87b3a3fa39607eaa26a8ea5",
     "semantic_hash": ""
   },
   "markdown/04-blue/14-practicing-love-off-the-cushion.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "c98ad2502ab6bf8006490cd757e2aec6",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "ac3651334176e11ae056c0e4091850bc",
     "semantic_hash": ""
   },
   "markdown/04-blue/15-the-return-journey-five-weeks-of-metta.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "8641bedb98bd85655a669ac223566254",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "7d4ecfef014ec02fabe594eda81c2742",
     "semantic_hash": ""
   },
   "markdown/04-blue/README.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "204578faab89e7816d325aa5d4f5e244",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "40e5698a877d37dd05a6dc4c6ec7ad3b",
     "semantic_hash": ""
   },
   "markdown/05-orange/00-table-of-contents.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "67cfddc75ce26e07abcf48f0cccbe285",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "97484e7a11caa5cc79f51b78fc7d8ead",
     "semantic_hash": ""
   },
   "markdown/05-orange/01-what-is-orange.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "88b556db3241e5d86644765e6c1971c4",
     "semantic_hash": ""
   },
   "markdown/05-orange/02-the-mood-of-orange-understandingintellectual-understanding.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "7a43d092a1add1e47908f87f1de7c76f",
     "semantic_hash": ""
   },
   "markdown/05-orange/03-the-journaling-prompts-of-orange.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "da912904de049743f72067fd928bbb6b",
+    "mtime": 1785556978.856888,
+    "ast_hash": "8cac075967175424b6f46c18973fc61a",
     "semantic_hash": ""
   },
   "markdown/05-orange/04-the-relationship-to-free-will-at-orange-status-seeker.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "a55527b6d7fa6e8c69bd93d2129f45fc",
+    "mtime": 1785556978.856888,
+    "ast_hash": "3121099b6e66c5d04ca669f3b37aa286",
     "semantic_hash": ""
   },
   "markdown/05-orange/05-the-vibe-wavelength-of-orange-collaborate-do.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "da7df38d1e90374113cb0ddd9023dc86",
     "semantic_hash": ""
   },
   "markdown/05-orange/06-the-practice-of-orange-wim-hof-method.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "85644a65212837b1858729423d82beb7",
     "semantic_hash": ""
   },
   "markdown/05-orange/07-the-basic-wim-hof-protocol-a-step-by-step-guide.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "45c5fa7c4074bb6871f89bcdf223e0d9",
     "semantic_hash": ""
   },
   "markdown/05-orange/08-step-one-create-your-sacred-laboratory-2-minutes.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "ccb1502c9a797fed7d131bf1ea8e1c18",
     "semantic_hash": ""
   },
   "markdown/05-orange/09-step-two-the-breathing-rounds-12-15-minutes.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "402084b1419be69214e5ec3f3e43d91b",
+    "mtime": 1785556978.856888,
+    "ast_hash": "63c53331421afc57e9a12e2b853f1fd4",
     "semantic_hash": ""
   },
   "markdown/05-orange/10-step-three-optional-cold-exposure-3-5-minutes.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "eef53a5b6fdc622e92879d6cd5e59edb",
+    "mtime": 1785556978.856888,
+    "ast_hash": "87cc0d4b0269c938685e135141fdb8a3",
     "semantic_hash": ""
   },
   "markdown/05-orange/11-the-science-behind-the-method-whats-actually-happening.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "c770ac27b0dacf75aed660f2ef3673c6",
     "semantic_hash": ""
   },
   "markdown/05-orange/12-common-experiences-and-how-to-navigate-them.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "f05d097c00c9e39ef3a4ff11b407b5cb",
     "semantic_hash": ""
   },
   "markdown/05-orange/13-tracking-your-progress-the-orange-way.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "886aa1678e257e08b18b00e7cbdd4eb6",
+    "mtime": 1785556978.856888,
+    "ast_hash": "e59b6dac636264ae2746944ac82f058e",
     "semantic_hash": ""
   },
   "markdown/05-orange/14-alternatives-for-orange-practice.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "15e445c337a68605176ba65dee42fd43",
     "semantic_hash": ""
   },
   "markdown/05-orange/15-the-default-habit-of-orange-exercise.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "e7cf54e6c66f450fb6c98223f4e918b3",
+    "mtime": 1785556978.856888,
+    "ast_hash": "401f0289131c3f01a5214e17781b5b1c",
     "semantic_hash": ""
   },
   "markdown/05-orange/16-why-exercise-is-non-negotiable-for-understanding.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "4781bbfd64e4ca8d39153be57224ea4d",
+    "mtime": 1785556978.856888,
+    "ast_hash": "999f61ee4b16090071346910fdde55c8",
     "semantic_hash": ""
   },
   "markdown/05-orange/17-how-to-structure-your-exercise-practice.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "24cf91751e18b375d9bcd7b788448f99",
     "semantic_hash": ""
   },
   "markdown/05-orange/18-exercise-as-meditation-the-flow-state.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "30bb8d395c1d5bfe0eb387e447d077a4",
+    "mtime": 1785556978.856888,
+    "ast_hash": "8c8dcdd9bae1b3398e315dc9bb44bfa3",
     "semantic_hash": ""
   },
   "markdown/05-orange/19-oranges-divine-gender-divine-masculineachievement-and-curios.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "f852787ecfc0cef2cc8c8f4492d7c8ae",
+    "mtime": 1785556978.856888,
+    "ast_hash": "87e1fd66a05f78ba1b7cf4ab942d250f",
     "semantic_hash": ""
   },
   "markdown/05-orange/20-oranges-gift-the-alchemy-of-problems-and-curiosities.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "30c85b5d33f20a6f5016cc6c91028ddc",
     "semantic_hash": ""
   },
   "markdown/05-orange/21-three-real-examples-of-curiosity-problem-alchemy.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "8548ad63452656c637e9ec794ece6a85",
     "semantic_hash": ""
   },
   "markdown/05-orange/22-how-to-find-your-intersection.md": {
-    "mtime": 1791407771.1931043,
-    "ast_hash": "6d10d004a63907fc204d88670a125293",
+    "mtime": 1785556978.856888,
+    "ast_hash": "b5fc68676d3f4ff0330a02273c3d286d",
     "semantic_hash": ""
   },
   "markdown/05-orange/23-oranges-shadow-when-achievement-becomes-addiction.md": {
-    "mtime": 1791407771.1931043,
+    "mtime": 1785556978.856888,
     "ast_hash": "6c823c85212f632a455ccea8c462b570",
     "semantic_hash": ""
   },
   "markdown/05-orange/24-collaborate-dofull-6-phase-wavelength-breakdown.md": {
-    "mtime": 1791407771.193215,
-    "ast_hash": "cf714c9e33bc5c3626982dd73d7cb086",
+    "mtime": 1785556978.856888,
+    "ast_hash": "de30a26ab8a6a981336b8e2dda5f159c",
     "semantic_hash": ""
   },
   "markdown/05-orange/25-the-prometheus-principle-stealing-fire-from-the-gods.md": {
-    "mtime": 1791407771.193215,
+    "mtime": 1785556978.856888,
     "ast_hash": "ad4cea08170d1025c7ec13545ca9fda9",
     "semantic_hash": ""
   },
   "markdown/05-orange/26-orange-as-the-theft-of-fire.md": {
-    "mtime": 1791407771.193215,
-    "ast_hash": "2b286bfc04402275a373c15a6bb6c7f5",
+    "mtime": 1785556978.856888,
+    "ast_hash": "1e550e83f3272695f3f31319ce876fbd",
     "semantic_hash": ""
   },
   "markdown/05-orange/27-the-lever-and-the-fulcrum-archimedes-and-the-power-of-unders.md": {
-    "mtime": 1791407771.193215,
-    "ast_hash": "edf816b57262bd58b41373cef0ea9238",
+    "mtime": 1785556978.856888,
+    "ast_hash": "5217a63f0829d4948ccbfb93c252efd0",
     "semantic_hash": ""
   },
   "markdown/05-orange/28-the-library-of-alexandria-knowledge-as-sacred-responsibility.md": {
-    "mtime": 1791407771.193215,
-    "ast_hash": "7d0937b7e2fa9babc6774e65ec411244",
+    "mtime": 1785556978.8570423,
+    "ast_hash": "cf8bb78cf9471ea9cd2e624ebee5d58f",
     "semantic_hash": ""
   },
   "markdown/05-orange/29-practicing-understanding-off-the-cushion.md": {
-    "mtime": 1791407771.193215,
+    "mtime": 1785556978.8570423,
     "ast_hash": "3e9d6ee8636a2d7be0a3a4d22dd792a1",
     "semantic_hash": ""
   },
   "markdown/05-orange/README.md": {
-    "mtime": 1791407771.193215,
-    "ast_hash": "6bbcc32627525a0dcecc6a6913cf6c45",
+    "mtime": 1785556978.8570423,
+    "ast_hash": "78b907d4d31dce87676a7933ae0fb9c5",
     "semantic_hash": ""
   },
   "markdown/06-green/00-table-of-contents.md": {
-    "mtime": 1791407771.193215,
+    "mtime": 1785556978.8570423,
     "ast_hash": "846fd28c1a904be8a611ebbae4548a4e",
     "semantic_hash": ""
   },
   "markdown/06-green/01-what-is-green.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "144c3ec7078fd7d00d46e9457c6bacfd",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "8db2cc3186c8c9839b3dd2e193227d1a",
     "semantic_hash": ""
   },
   "markdown/06-green/02-the-mood-of-green-understandingembodied-understanding.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "2ead92f0c0ec437ee5a8c874d86f08be",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "cf03bb3c78c9c2618f17756f75450722",
     "semantic_hash": ""
   },
   "markdown/06-green/03-the-journaling-prompts-of-green.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "caff68a04e17aa973c5c2bda86a9f3d1",
     "semantic_hash": ""
   },
   "markdown/06-green/04-the-relationship-to-free-will-at-green-shadow-glorifier.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "0c89204bf8d3c5b59e4b2829c1108795",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "aabfeeaa2eee827da7723d4776305724",
     "semantic_hash": ""
   },
   "markdown/06-green/05-the-vibe-wavelength-of-green-collaborate-feel.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "79f3c2bdd8ddb7d1848e7faaa19644fe",
     "semantic_hash": ""
   },
   "markdown/06-green/06-the-practice-of-green-shadow-work-ritual.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "22f702d85351ffb50971cf302e3f68ca",
     "semantic_hash": ""
   },
   "markdown/06-green/07-what-to-expect-the-first-month-of-shadow-work.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "503e2dbdc54b12e2b1cc7a8dbb2063f6",
     "semantic_hash": ""
   },
   "markdown/06-green/08-advanced-shadow-work-going-deeper.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "0566e388642b470f29e85bdd22deeae1",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "82de9e4c4e9de0d9d2a44aba154d5b4f",
     "semantic_hash": ""
   },
   "markdown/06-green/09-alternatives-for-green-practice.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "a1a6497bf41fa76cff9782bd63caee39",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "3fbd3de5de70b5419937e20627c2409c",
     "semantic_hash": ""
   },
   "markdown/06-green/10-the-default-habit-of-green-active-recovery.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "9fd62d937a0c944052860d0834a0b5e3",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "e4fc8cd7d9487764b974bf26754425f1",
     "semantic_hash": ""
   },
   "markdown/06-green/11-why-active-recovery-is-essential-for-shadow-work.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "e3bd13393f79a78676fc15ef8d42ca93",
     "semantic_hash": ""
   },
   "markdown/06-green/12-the-rhythm-of-yang-and-yin.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "0df47255f8348e9dbf830619b74f81f8",
     "semantic_hash": ""
   },
   "markdown/06-green/13-greens-divine-gender-divine-femininedescent-and-integration.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "d8c577134f695a4103ff5e1ca4136134",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "8067c9421c9615479f0055429093ea9a",
     "semantic_hash": ""
   },
   "markdown/06-green/14-greens-gift-the-shadow-as-teacher.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "823b473dd27e922337a46915c1fe6d1f",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "7721f2e0afcb34c1c8be5e7661175454",
     "semantic_hash": ""
   },
   "markdown/06-green/15-three-shadow-integration-stories.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "14e715cfb62090d30672731967a0b4cd",
     "semantic_hash": ""
   },
   "markdown/06-green/16-the-pattern-from-shadow-to-gift.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "be04c51983f897ad4b00d6bc81a98913",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "bbf66e74331012faa2ab2212f0ee7e87",
     "semantic_hash": ""
   },
   "markdown/06-green/17-greens-shadow-spiritual-bypassing-and-toxic-positivity.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "4f5d572b076446d0c06547b102ab6acc",
     "semantic_hash": ""
   },
   "markdown/06-green/18-collaborate-feelfull-6-phase-wavelength-breakdown.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "9494aeaa8f476c821b78e3872957d699",
     "semantic_hash": ""
   },
   "markdown/06-green/19-the-descent-of-inanna-the-mythic-template-for-shadow-work.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "fc7babdb61cae0d4f0052871fb7d18d4",
     "semantic_hash": ""
   },
   "markdown/06-green/20-what-the-myth-teaches-about-green.md": {
-    "mtime": 1791407771.1946096,
-    "ast_hash": "a3444bf9bc690a20e651864116e0ab68",
+    "mtime": 1785556978.8577874,
+    "ast_hash": "9e9e7f2edb0d00086dde80340a3ac213",
     "semantic_hash": ""
   },
   "markdown/06-green/21-ereshkigal-the-sister-in-the-shadow.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "bf60b43245fc6bc8e44ace7074a0ba38",
     "semantic_hash": ""
   },
   "markdown/06-green/22-the-katabasis-descent-as-spiritual-practice.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "0366d3f41a6fcd517e15295265df0244",
     "semantic_hash": ""
   },
   "markdown/06-green/23-the-compost-heap-death-as-fertilizer.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "85bd3988b98a5234420f9d454f1c4d6d",
     "semantic_hash": ""
   },
   "markdown/06-green/24-practicing-embodied-understanding-off-the-cushion.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8577874,
     "ast_hash": "780507e52b3dfaa34434b68f5bbc85a8",
     "semantic_hash": ""
   },
   "markdown/06-green/README.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8580425,
     "ast_hash": "bbe69d649e71e944049aa0c5b73911a8",
     "semantic_hash": ""
   },
   "markdown/07-yellow/00-table-of-contents.md": {
-    "mtime": 1791407771.1946096,
+    "mtime": 1785556978.8580425,
     "ast_hash": "01d527d1292a5fe692b7fd1cebaf7ed2",
     "semantic_hash": ""
   },
   "markdown/07-yellow/01-what-is-yellow.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "17518aff7a9f12e35da74da16f239427",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "fca7ca7ff0933d1b86f1ab84266c5097",
     "semantic_hash": ""
   },
   "markdown/07-yellow/03-the-journaling-prompts-of-yellow.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "0d4598529f2d32ab8fd11ae713ba8dee",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "e7f60801d00475f642ae97ccc2fbd53a",
     "semantic_hash": ""
   },
   "markdown/07-yellow/04-deepening-the-prompts-advanced-journaling-for-yellow.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "5f0e11a80e6636007b3d53b6ab05f23e",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "8c015f80cebe41566a9b07efb714b05e",
     "semantic_hash": ""
   },
   "markdown/07-yellow/05-the-relationship-to-free-will-at-yellow-intentional-actor.md": {
-    "mtime": 1791407771.1961286,
+    "mtime": 1785556978.8588111,
     "ast_hash": "33505b777899848578efecb9490429d3",
     "semantic_hash": ""
   },
   "markdown/07-yellow/06-the-vibe-wavelength-of-yellow-integrate-do.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "b44dda38a32b46841abdc762b6ac5568",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "6039d3e7d6672ea970992cdaa26f6e1e",
     "semantic_hash": ""
   },
   "markdown/07-yellow/07-the-practice-of-yellow-blissy-meditation.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "bff925fad27185b4285520ae8bd67b2b",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "f4363fccca001b0a5cd70b8a5d85b662",
     "semantic_hash": ""
   },
   "markdown/07-yellow/08-the-neuroscience-of-45-minute-sits.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "bf57eb43a7ac750db42358829e8b958f",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "1a22d7b1d315ee22faf03627ca851e10",
     "semantic_hash": ""
   },
   "markdown/07-yellow/09-what-to-track-building-your-practice-log.md": {
-    "mtime": 1791407771.1961286,
+    "mtime": 1785556978.8588111,
     "ast_hash": "e0c25889bcf3fc5423c43d34ccaa1ced",
     "semantic_hash": ""
   },
   "markdown/07-yellow/10-alternatives-for-yellow-practice.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "c1cd0273d7b7d5860b45807de6502dc8",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "9a8a62546dbaa5bb5a34ce7068c6ebdf",
     "semantic_hash": ""
   },
   "markdown/07-yellow/11-common-meditation-pitfalls-and-how-to-avoid-them.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "1ace191fad7689a15a1a44c3d1e13edd",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "9fddd062f1215cc91e99c3ebdbcddc27",
     "semantic_hash": ""
   },
   "markdown/07-yellow/12-the-default-habit-of-yellow-daily-meditation.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "cc0800d4f8cbe4785afdd9b3ddbd04c3",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "5b79bd31493d2b93e84d9e974a14967f",
     "semantic_hash": ""
   },
   "markdown/07-yellow/13-building-the-daily-meditation-habit-the-first-100-days.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "4639b5e775f67da383b156f1d0c09f05",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "78c6bba4f151513237083684a6917bf5",
     "semantic_hash": ""
   },
   "markdown/07-yellow/14-troubleshooting-common-obstacles-and-solutions.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "7c194958faa8c9edf27e4d118fbff7d6",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "e9a1c72e280770c287f5d992b414679f",
     "semantic_hash": ""
   },
   "markdown/07-yellow/15-the-long-game-what-happens-after-a-year.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "077820c86c7c0bfa8d8b47e14a0e55b5",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "f5d8d226af859a6448327bd9140a6a2c",
     "semantic_hash": ""
   },
   "markdown/07-yellow/16-yellows-divine-gender-divine-masculinesystems-integration.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "305a13dd054801a19821a8f0674a482c",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "a37ac4b17a77677481aa458dee95aac2",
     "semantic_hash": ""
   },
   "markdown/07-yellow/17-yellows-gift-the-integration-of-all-models.md": {
-    "mtime": 1791407771.1961286,
+    "mtime": 1785556978.8588111,
     "ast_hash": "32ee68dd6040e9e8bc645cd1f2668691",
     "semantic_hash": ""
   },
   "markdown/07-yellow/18-three-examples-of-model-integration-in-action.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "5b960521a64ee26690bb13a634fc2e17",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "30bbb36daff745d438038a2b7186e03f",
     "semantic_hash": ""
   },
   "markdown/07-yellow/19-how-to-practice-model-integration.md": {
-    "mtime": 1791407771.1961286,
+    "mtime": 1785556978.8588111,
     "ast_hash": "df8129196cd879a857174db8fc304a5a",
     "semantic_hash": ""
   },
   "markdown/07-yellow/20-yellows-shadow-paralysis-by-analysis.md": {
-    "mtime": 1791407771.1961286,
+    "mtime": 1785556978.8588111,
     "ast_hash": "10c92a97db70871149c595eee8ffd653",
     "semantic_hash": ""
   },
   "markdown/07-yellow/21-integrate-dofull-6-phase-wavelength-breakdown.md": {
-    "mtime": 1791407771.1961286,
-    "ast_hash": "4c1e7f058ac0b479a620280483b2b208",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "686d7e98f808bddb9224e4282fb90e6e",
     "semantic_hash": ""
   },
   "markdown/07-yellow/22-the-odyssey-integration-as-homecoming.md": {
-    "mtime": 1791407771.196215,
+    "mtime": 1785556978.8588111,
     "ast_hash": "b4ff8bfb908976c0376a09d1044b0847",
     "semantic_hash": ""
   },
   "markdown/07-yellow/23-what-the-odyssey-teaches-about-yellow.md": {
-    "mtime": 1791407771.196215,
-    "ast_hash": "410e0f6507333b27546eb51aa7bfc961",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "68cae0b753cc8f50789015ff895c0fd3",
     "semantic_hash": ""
   },
   "markdown/07-yellow/24-penelopes-test-recognizing-integration.md": {
-    "mtime": 1791407771.196215,
-    "ast_hash": "3ce064a22c65f255a50abc8eeea2b989",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "227cb585438d1f093c1f247ee8a61e29",
     "semantic_hash": ""
   },
   "markdown/07-yellow/25-the-spiral-as-odyssey.md": {
-    "mtime": 1791407771.196215,
+    "mtime": 1785556978.8588111,
     "ast_hash": "14618a48c51ac1edd6f62e5e5af71b43",
     "semantic_hash": ""
   },
   "markdown/07-yellow/26-practicing-free-will-off-the-cushion.md": {
-    "mtime": 1791407771.196215,
-    "ast_hash": "6b7b29110e00e766aace75afc43c2c24",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "194e000e94a7fe0f779aadb0f05e89d1",
     "semantic_hash": ""
   },
   "markdown/07-yellow/README.md": {
-    "mtime": 1791407771.196215,
+    "mtime": 1785556978.8588111,
     "ast_hash": "dec0faab9257a617ba55dd3126c27a3e",
     "semantic_hash": ""
   },
   "markdown/08-teal/00-table-of-contents.md": {
-    "mtime": 1791407771.196215,
-    "ast_hash": "a80d6200d03d358d3820ccc55ab74464",
+    "mtime": 1785556978.8588111,
+    "ast_hash": "f6b03d1093d710ecfa0705aac9001f0e",
     "semantic_hash": ""
   },
   "markdown/08-teal/01-what-is-teal.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "c2bc0efcc1e76c8c143ebf49b637983c",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "4d142a1d358c097bdfb4b3283a7482c5",
     "semantic_hash": ""
   },
   "markdown/08-teal/03-the-journaling-prompts-of-teal.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "2f08ce9b141569f0c79f534608df3df7",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "0546f3e26653adfd8dcc323ff719bd31",
     "semantic_hash": ""
   },
   "markdown/08-teal/04-the-relationship-to-free-will-at-teal-true-self-embodier.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "0567a94c52c526720b65d4343f204d33",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "9f6564bd96f3c1eb7ed305917df6c663",
     "semantic_hash": ""
   },
   "markdown/08-teal/05-the-vibe-wavelength-of-teal-integrate-feel.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "cab193900f94f550087027bb43a63b7f",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "04f7fff466cdcb9e99509283ea7211a6",
     "semantic_hash": ""
   },
   "markdown/08-teal/06-the-practice-of-teal-dog-walkin-shamanism.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "5c35414279a1bfc01af7ac6489a6635a",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "f472e165038c7178ff8fc80660b8b44e",
     "semantic_hash": ""
   },
   "markdown/08-teal/07-alternatives-for-teal-practice.md": {
-    "mtime": 1791407771.197519,
+    "mtime": 1785556978.8596148,
     "ast_hash": "e77a9967127f19e569fb696142b42b8e",
     "semantic_hash": ""
   },
   "markdown/08-teal/08-the-practice-decoded-what-dog-walkin-shamanism-actually-is.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "6dceaa038bec7a93a7d6af8c927704ef",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "a34b51a3ac047db2dc5981c0cc0e78f8",
     "semantic_hash": ""
   },
   "markdown/08-teal/09-the-neuropsychology-of-extended-walking.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "a4d9006cb11ab4f75d368cba1d75a2b4",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "a7aed5e04f77b6b2aeed20eeea33f519",
     "semantic_hash": ""
   },
   "markdown/08-teal/10-advanced-dog-walkin-sensory-gating-practice.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "7d60fe18d105ef240c5b8bfdb5bf7282",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "6c5a155e3a1b07440431ef5f1444e7d0",
     "semantic_hash": ""
   },
   "markdown/08-teal/11-the-moon-lodge-teals-mythology.md": {
-    "mtime": 1791407771.197519,
+    "mtime": 1785556978.8596148,
     "ast_hash": "e68e4ca499647ada637648cc350ee7dc",
     "semantic_hash": ""
   },
   "markdown/08-teal/12-beginners-mind-the-koan-of-not-knowing.md": {
-    "mtime": 1791407771.197519,
+    "mtime": 1785556978.8596148,
     "ast_hash": "971c6959f20cb6610027e67c590fb148",
     "semantic_hash": ""
   },
   "markdown/08-teal/13-the-default-habit-of-teal-baby-waterfall-conventions.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "2a550331db01bc824e208ec4db5a3867",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "919b857a9fe0447b0ddf7b2e20e31182",
     "semantic_hash": ""
   },
   "markdown/08-teal/14-teals-divine-gender-divine-femininereceptive-integration.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "1858f5bafadfcf9a466a0c4aa793b6d5",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "50fb6f644a5e1113069f28939ed6b123",
     "semantic_hash": ""
   },
   "markdown/08-teal/15-teals-gift-beginners-mind.md": {
-    "mtime": 1791407771.197519,
+    "mtime": 1785556978.8596148,
     "ast_hash": "4d4c8e0a4309e46dde8a8a8af61781d3",
     "semantic_hash": ""
   },
   "markdown/08-teal/16-teals-shadow-spiritual-dissociation.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "ab87237c6941347dc1fe9a5193a04650",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "ebf25d22b7e14bb7ec91656fd68a8ba1",
     "semantic_hash": ""
   },
   "markdown/08-teal/17-integrate-feelfull-6-phase-wavelength-breakdown.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "3ae5fc567d8d290b33c4f8cda5bd7c5d",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "74afe88ca248963fccb743192728817a",
     "semantic_hash": ""
   },
   "markdown/08-teal/18-practicing-equanimity-off-the-cushion.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "f39d89e1487761a85223ba8a2cc5aed6",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "d5a7e65527be33babf35626bd198042c",
     "semantic_hash": ""
   },
   "markdown/08-teal/19-baby-waterfall-conventions-the-architecture-of-micro-practic.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "774b21c34d013a36e69897edb78ab11d",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "3d61648e4d3ae0f4d65109aa32b78b07",
     "semantic_hash": ""
   },
   "markdown/08-teal/20-the-witness-and-the-participator-teals-paradox.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "697bdc5a007611a1f0d6a8f1c8e9ef3c",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "a67b77504be194d136b03014e8b38704",
     "semantic_hash": ""
   },
   "markdown/08-teal/21-three-stories-of-equanimity-in-action.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "e8cba1b3bde88b12c6dd1be6d3dfed73",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "58efb259ffb234bf756a01cb10c28835",
     "semantic_hash": ""
   },
   "markdown/08-teal/22-the-long-game-what-happens-after-a-year-at-teal.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "7a70cffe72a09263aa6722f8abdb1bd4",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "43bb44d3a133ae08ce958921b8e8dde0",
     "semantic_hash": ""
   },
   "markdown/08-teal/23-journaling-prompt-expansion-deepening-your-reflections.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "26bde749f5613067183d1aef94302aab",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "c3a2a04b64259c14945d585760f36b16",
     "semantic_hash": ""
   },
   "markdown/08-teal/24-the-default-habit-deepened-baby-waterfall-conventions-as-lif.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "bc7e228e4a8c8386df5ff86625ef7a60",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "7da3c5ee66c43de85fbd43fba2c7f6b4",
     "semantic_hash": ""
   },
   "markdown/08-teal/README.md": {
-    "mtime": 1791407771.197519,
+    "mtime": 1785556978.8596148,
     "ast_hash": "3ba64c397c6e5d77b8af8a42b228e0df",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/00-table-of-contents.md": {
-    "mtime": 1791407771.197519,
-    "ast_hash": "cd3a41371dc68895392a3ba85e1b69eb",
+    "mtime": 1785556978.8596148,
+    "ast_hash": "c3518b6734563765801cf8fa5526c207",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/01-what-is-ultraviolet.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "726f7369645dd49d00745c48f69f1675",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "80168dd3aea7f0631d310c732b7759aa",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/03-the-journaling-prompts-of-ultraviolet.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "8085f9f21da4aacb5129bfc6f1301e77",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "bc266d549d8168b54f51f06554a85635",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/04-the-relationship-to-free-will-at-ultraviolet-hierarchical-or.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "ca78c5d38878459a8e335a15978c8ee2",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "100e81f0eef0b50b1e09c4adff633d43",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/05-the-vibe-wavelength-of-ultraviolet-absorb-do.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "6c3ebcdc3343382486b394b626d0836a",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "64c14cfdfec8ef51deadf21fd220731e",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/06-the-practice-of-ultraviolet-cultivating-samatha-jhanas.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "077932cc250130d7946a9d002adddc63",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "f48f148b2eaf1196af13b2f3e903dd23",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/07-alternatives-for-ultraviolet-practice.md": {
-    "mtime": 1791407771.1988623,
+    "mtime": 1785556978.8604498,
     "ast_hash": "73192ecad51e950fdcbf5ba87a4b03db",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/08-the-default-habit-of-ultraviolet-meditation-retreats.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "31fed3cfc55250ebddfaa236bb0b87f1",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "91d283423d4a857c46290dfdca7ac53d",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/09-ultraviolets-divine-gender-divine-masculineprecision-and-hie.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "f6b68ea91b2f7b1a338a02afbaa4fbdc",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "cabe6a80bbe47a1371259b54fa2414c8",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/10-ultraviolets-gift-the-recognition-of-natural-hierarchy.md": {
-    "mtime": 1791407771.1988623,
+    "mtime": 1785556978.8604498,
     "ast_hash": "0104ae2b84b7119d2e75ccf5c9cda8ef",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/11-ultraviolets-shadow-spiritual-superiority.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "e9972c149a2d391232fed743f6729764",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "b16578591fe61af76403d3651ff04c72",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/12-absorb-dofull-6-phase-wavelength-breakdown.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "eab858abecfd9f0a5d4c367519704467",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "135c31af2d14d14ce0fa377be1d79000",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/13-practicing-hierarchy-off-the-cushion.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "287203ac694e5167478c34ca5338ff05",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "024d476da5628eeb0ea73bf5496e76ed",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/14-the-75-minute-threshold-why-this-is-the-gateway-practice.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "86dcab49faba2350ef3c22fe47805c90",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "51d46732a6deffd693ca867cf423ed3b",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/15-becoming-nobody-the-dissolution-of-spiritual-identity.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "f4e47d21156dd2d0ae6a93fe78d7ffe2",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "34713d3a1be0f9cddfbe459f490892e6",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/16-the-ultraviolet-shadow-when-emptiness-becomes-nihilism.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "8f85f7c9a27e4f2d55d6d59a4ffe1814",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "1a12851c8b6008f7ed160dec682e71ee",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/17-the-practice-as-prayer-what-happens-at-75-minutes.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "e13dfdc285e2df68b885f68d104f7326",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "a13ecabddc260099be9041a0d136b3c6",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/18-the-hierarchy-that-serves-skillful-use-of-developmental-mode.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "34c395ab4328ea6ada9639fd2e3e0f75",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "35549681e86c6560de2c9bfd401d23a4",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/19-the-dark-night-ultraviolets-inevitable-passage.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "b0749b018324afc866c9a57c718d7fb2",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "4f9c7398127687720f28bf378e6d83c4",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/20-what-450-hours-of-meditation-produces-a-developmental-milest.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "698d61f19637918b7c202b6337254dc5",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "690f790d826e4969dcf88831d93c057f",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/21-the-void-practice-advanced-meditation-techniques-for-ultravi.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "e3f2f8075bbd076bd22d567fd6351189",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "07c24e071cf9a01df71762ea8ef69e48",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/README.md": {
-    "mtime": 1791407771.1988623,
-    "ast_hash": "f41f99223cb9eb583d350d66e90aa890",
+    "mtime": 1785556978.8604498,
+    "ast_hash": "622f2583d1a0c01b084f75db01cf58de",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/00-table-of-contents.md": {
-    "mtime": 1791407771.1988623,
+    "mtime": 1785556978.8604498,
     "ast_hash": "a3f9c7f9c43a811f32e4fc6938b2bc3b",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/01-what-is-clear-light.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "a63ea5eb38b00a93d1ef68534733834a",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "df433c1a06d9059fffa94dce7d9f46a0",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/03-the-journaling-prompts-of-clear-light.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "2e50505683f493836827078928086dd3",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "8c2a121efc24917f58a484da52f084f9",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/04-the-relationship-to-free-will-at-clear-light-adept.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "0b47e22d4b37404a10c472031d3ad158",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "a93facc9010d9a5bca48b861c6dfa8ee",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/05-the-vibe-wavelength-of-clear-light-be-neitherall.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "ede15f19997c23234664c0ff1ed2e3ad",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "87b1d322343ae9a92b0fb177f7ca9531",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/06-the-practice-of-clear-light-cultivating-vipassana.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "790dab42732cc165544bf05d0d996a60",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "5f593db7070f71b92d9d9226c73d97a5",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/07-the-archetypal-wavelength-in-clear-light-full-cycle.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "249dc5d20805db696cb5a7d67a4a0e70",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "61dedc123b4c7432cb6e3d4ac81515d1",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/08-after-the-ecstasy-the-laundry.md": {
-    "mtime": 1791407771.200086,
+    "mtime": 1785556978.8611867,
     "ast_hash": "074cd46302e116a98cd6fb62874a64c5",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/09-obstacles-are-the-path.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "7ad7dabcf6f39f79c579691527b2af28",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "648e5401f2566b447d7b861633ca6382",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/10-you-cannot-stay-on-the-summit.md": {
-    "mtime": 1791407771.200086,
+    "mtime": 1785556978.8611867,
     "ast_hash": "98211503863485ba243d3f9299b81cf9",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/11-the-practice-is-the-path.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "2e3263e15d57d69c463f31f2f6037e6c",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "555e287e567ac91fff9d96bd7cd2f3ee",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/12-the-90-minute-sit-the-practice-of-adepts.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "4804a38bf7524efe5cac79123b9565e1",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "efd9ae3827d46ad0d6502beb86cbb3fa",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/13-the-bodhisattva-vow-clear-light-as-service.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "49bceb5794425d76096863d6ca0f7095",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "44c49a41a8aa3704f9a3f7dec7096c8b",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/14-what-clear-light-feels-like-a-phenomenological-account.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "1c8f948e284c6dae074661dfdbb55c0d",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "9593cba3a36ef9b30feade6a74c907bc",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/15-the-final-integration-all-stages-always-available.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "58167b08f71d89455c8630bbbb91b18a",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "e7335346ec38df228f82b800267f4706",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/16-the-practice-never-ends-maintenance-and-deepening.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "f1e8ee2de2a4bc120128ac9aa68b3a01",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "3429ce536db1d295eb7e0982616cf82a",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/17-the-ecology-of-practice-sustaining-90-minutes-for-life.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "f54fb59f394938abeab9aaf307767d13",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "786f55fdcec6eb6fb2956dc625ff4b30",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/18-the-transmission-how-realization-spreads.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "f965ceba0827262f757e08fa6971280f",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "3473d0d75ee6fc0ca9d122ff8b47a3b5",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/19-three-decades-of-practice-the-long-view.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "4d715a8dfcfa828845abbe06d60ba87e",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "a5b40b26ed0522830cf3c939ccab50ff",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/20-the-final-invitation.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "a3fd0bdc3a045d7c2fbb9c10be323bd8",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "456399852f3a03ccf2815d72b58699ee",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/21-the-90-minute-progression-a-month-by-month-guide.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "ed64e30daf75f7bb41ca7c26e9d16590",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "86335c8abfa0921932f88abd6f084079",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/22-the-adepts-relationship-to-suffering.md": {
-    "mtime": 1791407771.2002149,
-    "ast_hash": "cf0b05beb0e8b40d3f1bc65b5694cd00",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "1c8bf9eb1b051b708b9b66e24c120643",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/23-teaching-as-practice-becoming-a-holder-of-space.md": {
-    "mtime": 1791407771.2002149,
+    "mtime": 1785556978.8611867,
     "ast_hash": "9f0d250dcb24766210c16a30b0125bce",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/24-the-complete-integration-living-all-ten-stages.md": {
-    "mtime": 1791407771.2002149,
-    "ast_hash": "335957fcfcf8ee395b0575d866c57160",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "ba4b7cc0cd7e4edf5242f5bf1aa2c338",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/README.md": {
-    "mtime": 1791407771.2002149,
-    "ast_hash": "658178ea9c4310164225421cfcb9fd3b",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "a65fd563f9339690b17ce769afc00280",
     "semantic_hash": ""
   },
   "markdown/ExtendedInvitation.md": {
-    "mtime": 1791407771.2002149,
-    "ast_hash": "d3ccfb4be7fe127fec28bda5f89557e0",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "36df29f68637321dc7928cf8ea5a6b0d",
     "semantic_hash": ""
   },
   "markdown/meta/metrics.md": {
-    "mtime": 1791407771.211215,
+    "mtime": 1785556978.8730428,
     "ast_hash": "5450c27ed1b48c86cb202040db5118c1",
     "semantic_hash": ""
   },
   "markdown/resources/about.md": {
-    "mtime": 1791407771.211215,
-    "ast_hash": "087529904e54c372963f29340b6aece8",
+    "mtime": 1785556978.8730428,
+    "ast_hash": "f4249be2f5af698da5d72f4227fc06af",
     "semantic_hash": ""
   },
   "markdown/resources/aptitude-stages.md": {
-    "mtime": 1791407771.2125607,
-    "ast_hash": "68bc3996d438e0a9692737ee1088db11",
+    "mtime": 1785556978.8739471,
+    "ast_hash": "9810a2606023ba3925b39d008a9b8745",
     "semantic_hash": ""
   },
   "markdown/resources/archetypal-wavelength.md": {
-    "mtime": 1791407771.2125607,
-    "ast_hash": "ef663c3595120a610ebb37f9a9279d1d",
+    "mtime": 1785556978.8739471,
+    "ast_hash": "57efa7f8302582e845218683e3471c29",
     "semantic_hash": ""
   },
   "markdown/resources/liminal-creep.md": {
-    "mtime": 1791407771.2125607,
-    "ast_hash": "ee4a2d34ee0fde7559b185849f43fe39",
+    "mtime": 1785556978.8739471,
+    "ast_hash": "04d0d2c6f3e652c0d19c9620da853b1b",
     "semantic_hash": ""
   },
   "markdown/resources/wavelength-explainer.md": {
-    "mtime": 1791407771.2125607,
-    "ast_hash": "d4523c3e79163df04b849fc033f0c76f",
+    "mtime": 1785556978.8739471,
+    "ast_hash": "0c1cdd767ebd1411ffd5f2ba92740b6b",
     "semantic_hash": ""
   },
   "prompts/2025-12-04-stage-coauthoring-prompt.md": {
-    "mtime": 1791407771.2125607,
+    "mtime": 1785556978.8739471,
     "ast_hash": "b53a3ceebd8766f7150921196ac9155c",
     "semantic_hash": ""
   },
   "prompts/2025-12-05-stage-coauthoring-prompt.md": {
-    "mtime": 1791407771.2132316,
-    "ast_hash": "e5fada1f3eab332f36680c6ac94523f7",
+    "mtime": 1785556978.8744876,
+    "ast_hash": "822f4e4aa6b76e7e9fba400b3708e9cc",
     "semantic_hash": ""
   },
   "prompts/2025-12-06-fine-grained-hierarchical-language-audit.md": {
-    "mtime": 1791407771.2132316,
+    "mtime": 1785556978.8744876,
     "ast_hash": "8b7443f07d1546c0d9c2349c0548a1e0",
     "semantic_hash": ""
   },
   "prompts/2025-12-06-stages-as-chords-remaining-edits.md": {
-    "mtime": 1791407771.2132316,
+    "mtime": 1785556978.8744876,
     "ast_hash": "fcf22d47be8f6cb4bf7a5839507aeb04",
     "semantic_hash": ""
   },
   "prompts/2026-06-09-hierarchical-language-map.md": {
-    "mtime": 1791407771.2132316,
+    "mtime": 1785556978.8744876,
     "ast_hash": "7b5fef39dfb72e2d9e5d0441da2d4d6b",
     "semantic_hash": ""
   },
   "scripts/requirements.txt": {
-    "mtime": 1791407771.2136679,
+    "mtime": 1785556978.8747733,
     "ast_hash": "0b3a6d2a4395472c603f3d7c9d843a63",
     "semantic_hash": ""
   },
   "google_docs/images/image1.jpg": {
-    "mtime": 1791407771.163215,
+    "mtime": 1785556978.8390417,
     "ast_hash": "65c6281dcc71f3381695e4e4451a63fd",
     "semantic_hash": ""
   },
   "google_docs/images/image1.png": {
-    "mtime": 1791407771.1642148,
+    "mtime": 1785556978.8390417,
     "ast_hash": "ed91facf84e80bf9f43d3e9e902e9cc1",
     "semantic_hash": ""
   },
   "google_docs/images/image2.png": {
-    "mtime": 1791407771.1652148,
+    "mtime": 1785556978.8400419,
     "ast_hash": "241c58ec4c17b02796508c284f96cc7b",
     "semantic_hash": ""
   },
   "google_docs/images/image3.png": {
-    "mtime": 1791407771.1652148,
+    "mtime": 1785556978.8410418,
     "ast_hash": "aa1a731eeffb02eb2c136a93214388cf",
     "semantic_hash": ""
   },
   "google_docs/images/image4.png": {
-    "mtime": 1791407771.166215,
+    "mtime": 1785556978.8410418,
     "ast_hash": "e2f69f010d3a0caeb1f5dbd2431e6abf",
     "semantic_hash": ""
   },
   "google_docs/images/image5.png": {
-    "mtime": 1791407771.166215,
+    "mtime": 1785556978.842042,
     "ast_hash": "813437c19750d7a0b4ee9c2e482099b2",
     "semantic_hash": ""
   },
   "google_docs/images/image6.png": {
-    "mtime": 1791407771.1672149,
+    "mtime": 1785556978.843042,
     "ast_hash": "e94afb7fa177e49bacf7bee81b201040",
     "semantic_hash": ""
   },
   "markdown/images/images/image1.jpg": {
-    "mtime": 1791407771.2072148,
+    "mtime": 1785556978.8680427,
     "ast_hash": "65c6281dcc71f3381695e4e4451a63fd",
     "semantic_hash": ""
   },
   "markdown/images/images/image1.png": {
-    "mtime": 1791407771.2072148,
+    "mtime": 1785556978.8690429,
     "ast_hash": "ed91facf84e80bf9f43d3e9e902e9cc1",
     "semantic_hash": ""
   },
   "markdown/images/images/image2.png": {
-    "mtime": 1791407771.208215,
+    "mtime": 1785556978.8700428,
     "ast_hash": "241c58ec4c17b02796508c284f96cc7b",
     "semantic_hash": ""
   },
   "markdown/images/images/image3.png": {
-    "mtime": 1791407771.208215,
+    "mtime": 1785556978.8700428,
     "ast_hash": "aa1a731eeffb02eb2c136a93214388cf",
     "semantic_hash": ""
   },
   "markdown/images/images/image4.png": {
-    "mtime": 1791407771.209215,
+    "mtime": 1785556978.871043,
     "ast_hash": "e2f69f010d3a0caeb1f5dbd2431e6abf",
     "semantic_hash": ""
   },
   "markdown/images/images/image5.png": {
-    "mtime": 1791407771.2102149,
+    "mtime": 1785556978.872043,
     "ast_hash": "813437c19750d7a0b4ee9c2e482099b2",
     "semantic_hash": ""
   },
   "markdown/images/images/image6.png": {
-    "mtime": 1791407771.211215,
+    "mtime": 1785556978.8730428,
     "ast_hash": "e94afb7fa177e49bacf7bee81b201040",
     "semantic_hash": ""
   },
   "markdown/02-purple/04-the-relationship-to-free-will-at-purple-pleasure-seeker.md": {
-    "mtime": 1791407771.1897247,
+    "mtime": 1785556978.8540423,
     "ast_hash": "d667899478df4485bd6fcd4c5465f65d",
     "semantic_hash": ""
   },
   "markdown/04-blue/10-yes-and-ness-love-understanding-and-wisdom-the-broader-aspec.md": {
-    "mtime": 1791407771.1921177,
-    "ast_hash": "d0e07c5966a5b24eb8e33427b7bb8caa",
+    "mtime": 1785556978.8563027,
+    "ast_hash": "d148e22472591c991032c8be136ad0c0",
     "semantic_hash": ""
   },
   "markdown/07-yellow/02-the-mood-of-yellow-wisdomsystems-wisdom.md": {
-    "mtime": 1791407771.1961286,
+    "mtime": 1785556978.8588111,
     "ast_hash": "28eb1da5c7b91150b2a1f9e239000f15",
     "semantic_hash": ""
   },
   "markdown/08-teal/02-the-mood-of-teal-wisdomtrue-self-wisdom.md": {
-    "mtime": 1791407771.197519,
+    "mtime": 1785556978.8596148,
     "ast_hash": "df188a89aa46f1eb3a1acc91d2e81092",
     "semantic_hash": ""
   },
   "markdown/09-ultraviolet/02-the-mood-of-ultraviolet-beingunity.md": {
-    "mtime": 1791407771.1988623,
+    "mtime": 1785556978.8604498,
     "ast_hash": "e99987665088cf7e35be5503f1fc63f1",
     "semantic_hash": ""
   },
   "markdown/10-clearlight/02-the-mood-of-clear-light-awarenessemptiness.md": {
-    "mtime": 1791407771.200086,
-    "ast_hash": "f9bdac1891806e98c066e99bd7533f48",
+    "mtime": 1785556978.8611867,
+    "ast_hash": "01b75d7bf7755ddb3e6968a0b6df0573",
     "semantic_hash": ""
   },
   "markdown/resources/notes-and-chords.md": {
-    "mtime": 1791407771.2125607,
+    "mtime": 1785556978.8739471,
     "ast_hash": "54765e0cbfded9097469d19ec6dae34c",
     "semantic_hash": ""
   }

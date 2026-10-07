@@ -1,7 +1,7 @@
-# Graph Report - aptitude-course  (2026-10-07)
+# Graph Report - aptitude-course  (2026-08-01)
 
 ## Corpus Check
-- 255 files · ~345,550 words
+- 255 files · ~342,052 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -10,7 +10,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `c5e7d278`
+- Built from commit: `3bf0df55`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -292,11 +292,11 @@ Nodes (10): pattern, type, id, stage, summary, properties, maximum, minimum (+2 
 
 ### Community 15 - "README.md"
 Cohesion: 0.11
-Nodes (9): Table of Contents, What is Purple?, The Relationship to Free Will at Purple: Pleasure Seeker, The Mode of the Wavelength of Purple: Inhabit (Feel), The Default Habit of Purple: Vitamins, Probiotics, and Water, Purple’s Shadow: Delusions of Reference and Magical Thinking, The Quieter Shadow: Capture, “Pranasynthesis”: Taking in Light When You’re Depressed (+1 more)
+Nodes (9): Table of Contents, What is Purple?, The Relationship to Free Will at Purple: Pleasure Seeker, The Mode of the Wavelength of Purple: Inhabit (Feel), The Default Habit of Purple: Vitamins, Probiotics, and Water, Purple’s Shadow: Delusions of Reference and Magical Thinking, The Quieter Shadow: Capture, “Pranasynthesis” as the Cure for Depression (+1 more)
 
 ### Community 16 - "aptitude-stages.md"
 Cohesion: 0.06
-Nodes (30): Awareness: Emptiness (Clear Light, Pure Awareness, Whole Adept), Being: Unity (Ultraviolet, Effortless Being, The Blissy Adept), Let’s Take a Closer Look at the Individual Stages, Love: Community (Blue, Conformity, The Victim), Love: Self (Red, Power, The Dominator), The Ten Stages of Adepthood, Understanding; Embodied (Green, Plurality, The Shadow Glorifier), Understanding: Intellectual (Orange, Rationality, The Status Seeker) (+22 more)
+Nodes (30): APTITUDE’s Stages Correspond to Steps in Human Development on the Path Toward Wholeness., Awareness: Emptiness (Clear Light, Pure Awareness, Whole Adept), Being: Unity (Ultraviolet, Effortless Being, The Blissy Adept), Let’s Take a Closer Look at the Individual Stages, Love: Community (Blue, Conformity, The Victim), Love: Self (Red, Power, The Dominator), The Ten Stages of Adepthood, Understanding; Embodied (Green, Plurality, The Shadow Glorifier) (+22 more)
 
 ### Community 17 - "README.md"
 Cohesion: 0.15
@@ -320,7 +320,7 @@ Nodes (5): Table of Contents, The Journaling Prompts of Teal, Advanced Dog Walki
 
 ### Community 22 - "README.md"
 Cohesion: 0.18
-Nodes (5): Table of Contents, What is Ultraviolet?, The Default Habit of Ultraviolet: Food Choices, Ultraviolet's Divine Gender: Divine Hermaphrodite—Precision Married to Receptivity, Ultraviolet's Gift: The Recognition of Developmental Complexity
+Nodes (5): Table of Contents, What is Ultraviolet?, The Default Habit of Ultraviolet: Meditation Retreats, Ultraviolet's Divine Gender: Divine Masculine—Precision and Hierarchy, Ultraviolet's Gift: The Recognition of Developmental Complexity
 
 ### Community 23 - "APTITUDE Course - Comprehensive Statistics"
 Cohesion: 0.18
@@ -460,7 +460,7 @@ Nodes (3): A Final Note on the Curriculum of the APTITUDE Course, Adepthood Call
 
 ### Community 181 - "15-the-final-integration-all-stages-always-available.md"
 Cohesion: 0.33
-Nodes (5): And then the laundry, The Adept as Shapeshifter, The appropriate response, The Whole Instrument: All Stages, Always Available, Wholeness is a relationship, not a rank
+Nodes (5): And then the laundry, The Adept as Shapeshifter, The appropriate response, The Final Integration: All Stages, Always Available, Wholeness is a relationship, not a rank
 
 ## Knowledge Gaps
 - **626 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+621 more)
