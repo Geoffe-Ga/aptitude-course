@@ -187,6 +187,32 @@ git push origin main
 - **Honest about difficulty** - Don't spiritual bypass; name the struggle
 - **Literary and rich** - Use metaphors, quotes, extended examples
 - **Target ~900-950 words per section** for major topics
+- **Confident, not modest** - The course has an opinion about whether you should do it. Say so, with the reason (see Right Effort below)
+
+### Right Effort: argue the case honestly
+
+The rules above forbid pressure, ranking, and the guru. This one forbids the opposite failure, false modesty. "If it feels right, there's a practice here, waiting quietly" is not neutrality: it decides on the reader's behalf that the practice is worth little, and a choice made without the facts is not a free choice.
+
+1. **Argue the case.** Say what the program does for the person who engages, at its true size, with its mechanism: one minute kept for 21 days changes what you believe you can keep.
+2. **Right Effort is not Zero Effort.** The course may say showing up matters and the practice is worth the minutes. "You're already complete, take it or leave it" is a verdict, not a freedom.
+3. **Write to the True Self under the cloud.** The Will comes from the True Self, and the toxic frequencies obscure it without destroying it, so name the objection a clouded capacity raises and answer it with something true. Never agree with it to seem kind: toxic Blue says "this is for people who have their act together," toxic Ultraviolet says "effort is ego," and neither gets a nod.
+4. **The line.** Persuasion addresses the Will and gives it something true to weigh. Manipulation addresses a fear, a lack, or a reflex.
+   - Name the benefit with its mechanism / never inflate it or promise an outcome
+   - Say why this, for this person, now / never invent urgency
+   - Speak to the capable reader underneath the story / never agree with the story or exploit it
+   - Make declining one tap, and say what it costs when it costs something / never frame declining as failure
+   - Argue from experience and evidence / never from authority or mystery
+   - Keep the program's limits in view / never bypass the hard parts
+5. **Two tests for every line.** The wise-friend test: would a friend who knew this person say it, unprompted, now (a good friend sometimes says "do this, and here is why")? The clear-morning test: with the cloud lifted, would the reader feel respected or handled?
+6. **Never claimed.** Healing, enlightenment, a cure, measurable outcomes the program hasn't measured, or that it works for everyone. The honest case is strong enough without them.
+
+The same door, three ways:
+
+- Pressure: "Don't lose your streak. Start now."
+- False modesty: "There's a practice here if you like."
+- Right Effort: "You have kept this habit three weeks. The next one is one minute, and it is here when you want it, and I think you want it."
+
+Principles 1 through 6 still hold: nothing is gated, nothing nags, no stage is higher, declining is always free. This rule adds the one freedom the others were withholding, the freedom to decide on full information.
 
 ### When Editing or Expanding Stages
 
