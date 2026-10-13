@@ -80,6 +80,16 @@ automatically from the stage's existing chapter 1 ("What is `<Stage>`?").
 Editing that chapter's `title` or `summary` updates the intro too the next
 time you run `python scripts/build_manifest.py`. There's nothing else to do.
 
+## Site resources ("Start Here")
+
+The pages in `markdown/resources/` are the ungated **Start Here** reading
+list (CONTENT_FORMAT.md §3.4). They are named `NN-slug.md` like chapters,
+and the `NN` prefix is their reading order: the generator emits it as
+`order`, and the build fails if the prefixes are not unique and contiguous
+from 1. To add a resource, pick its slot, rename any later files up by one,
+and re-run `python scripts/build_manifest.py`. Never change a shipped slug
+(the app reads resource bodies by slug); renumbering a prefix is safe.
+
 ## Edit a chapter
 
 Edit the body freely — no manifest rebuild needed unless you touched

@@ -196,6 +196,44 @@ a `1.0.0`-only consumer.
 
 ---
 
+### 3.4 Site resources: the "Start Here" reading list (`site_resources[]`, schema `1.3.0`)
+
+> Issue [#75](https://github.com/Geoffe-Ga/aptitude-course/issues/75) · pairs
+> with the adepthood "Start Here" epic.
+
+The pages under `markdown/resources/` are not stage-gated. The app presents
+them as a single ordered **Start Here** section for newly onboarded readers,
+so their order is deliberate and machine-readable.
+
+- **Filename:** `markdown/resources/NN-slug.md`, exactly like a chapter. The
+  two-digit prefix **is** the reading order; the part after it is the `slug`.
+- **Frontmatter:** `slug`, `title`, `content_type: essay`, optional
+  `description` and `media[]`. No `id`, `stage`, `chapter` or `release_day`.
+  A frontmatter `order` is allowed only if it equals the filename prefix.
+- **`order`** is emitted by the generator from the prefix (1-based). The
+  build fails unless the orders across `site_resources[]` are unique and
+  contiguous from 1, so the app never has to guess at a gap.
+- **`slug` is identity**, as for chapters: the app reads a resource body by
+  slug, so renumbering a prefix reorders the list without breaking any
+  bookmark. Never change a shipped slug.
+
+The committed order, with the reason for each slot:
+
+| `order` | `slug` | Why here |
+|---------|--------|----------|
+| 1 | `liminal-creep` | the "is this for me" hook |
+| 2 | `about` | what the course is: 36 weeks, 10 stages |
+| 3 | `energy-scaffolding` | the habit method everything hangs on; leads into Habits onboarding |
+| 4 | `aptitude-stages` | the tour of all ten stages |
+| 5 | `archetypal-wavelength` | the six-phase theory |
+| 6 | `wavelength-explainer` | the short visual companion to 5 |
+| 7 | `notes-and-chords` | written to be read early; reframes the sequential stages |
+
+`markdown/ExtendedInvitation.md` is not in the list (it never was in the
+manifest); it is a candidate for a later slot.
+
+---
+
 ## 4. Stage-numbering reconciliation
 
 The content repo numbers stages **1–10 by archetype**:
@@ -428,5 +466,10 @@ throats in our sleep.
 - `1.1.0` is the first such minor bump: it adds the optional `stage_intros[]`
   tier (§3.3) without touching `chapters[]`/`site_resources[]`, so a `1.0.0`
   consumer (the pre-#717 Adepthood app) keeps working unmodified.
+- `1.3.0` adds the required integer `order` to every `site_resources[]`
+  entry (§3.4). It is additive for a consumer that ignores unknown fields;
+  a consumer whose resource schema forbids unknown fields must add `order`
+  before pinning a `1.3.0` manifest. (`1.2.0` is the app-side label for the
+  optional `site_resource.media[]` this repo already emitted.)
 - See [CONTRIBUTING.md](./CONTRIBUTING.md) (issue #24) for the day-to-day
   authoring workflow.

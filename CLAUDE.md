@@ -18,7 +18,7 @@ This is the **APTITUDE Course** repository - a 10-stage, 9-month transformationa
 - The practical north star is **the appropriate response**: what this actual moment needs. Not moderation, not niceness, not productivity, not conformity.
 - Never write "you are [Stage]" or treat an archetype as a person. The archetype is what a capacity looks like when it runs the show unexamined.
 - Canonical line: *Stages organize the course. Capacities organize a life.*
-- Full treatment: `markdown/resources/notes-and-chords.md`.
+- Full treatment: `markdown/resources/07-notes-and-chords.md`.
 
 **The six Aspect Categories** (per `APTITUDE Complete Map.csv`; NOT "Freedom", NOT "Wholeness"):
 Yes-And-Ness (Beige, Purple) · Love (Red, Blue) · Understanding (Orange, Green) · **Wisdom** (Yellow, Teal) · **Being** (Ultraviolet) · **Awareness** (Clear Light).
@@ -109,12 +109,12 @@ All authoritative stage specifications live in `google_docs/database_of_course_c
 
 ### Supporting Materials
 
-- `markdown/resources/about.md` - Course introduction
-- `markdown/resources/aptitude-stages.md` - Overview of all 10 stages
-- `markdown/resources/archetypal-wavelength.md` - Wavelength theory
-- `markdown/resources/notes-and-chords.md` - Stages vs. capacities vs. chords; Wholeness as orchestration; the appropriate response
+- `markdown/resources/02-about.md` - Course introduction
+- `markdown/resources/04-aptitude-stages.md` - Overview of all 10 stages
+- `markdown/resources/05-archetypal-wavelength.md` - Wavelength theory
+- `markdown/resources/07-notes-and-chords.md` - Stages vs. capacities vs. chords; Wholeness as orchestration; the appropriate response
 - `markdown/ExtendedInvitation.md` - Enrollment/philosophy
-- `markdown/resources/liminal-creep.md` - Target audience definition
+- `markdown/resources/01-liminal-creep.md` - Target audience definition
 - `markdown/meta/metrics.md` - Auto-generated repository statistics
 
 ### Content Source Pipeline
@@ -224,7 +224,7 @@ Principles 1 through 6 still hold: nothing is gated, nothing nags, no stage is h
    - Concrete scenarios and examples
    - Detailed phenomenology (what it actually feels like)
    - Real-world "off the cushion" applications
-   - Conceptual deep-dives (like "Energy Scaffolding" in Beige)
+   - Conceptual deep-dives (like "Energy Scaffolding", now a Start Here resource)
 5. **Wavelength breakdowns must:**
    - Use exact Rx/OD terms from database
    - Include phenomenology for each phase

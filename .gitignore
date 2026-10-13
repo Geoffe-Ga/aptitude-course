@@ -3,3 +3,7 @@
 #  stat-index.json embeds absolute paths and is rebuilt per machine)
 graphify-out/cache/stat-index.json
 graphify-out/graph.html
+
+# Python tooling caches (scripts/ gate tests)
+__pycache__/
+.pytest_cache/

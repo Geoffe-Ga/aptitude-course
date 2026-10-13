@@ -46,7 +46,7 @@ Two corollaries:
 
 ## 2. `schema_version` semver rules
 
-`manifest.json` carries `schema_version` (currently `1.1.0`), the semver of
+`manifest.json` carries `schema_version` (currently `1.3.0`), the semver of
 the **manifest contract** — not of the content. Bumps are coordinated with
 adepthood#389, which owns the consuming schema.
 
@@ -56,6 +56,14 @@ adepthood#717) is the first minor bump under this policy — it added one new
 optional top-level array and touched nothing else, so a `1.0.0` consumer
 built before the tier existed keeps validating and rendering the manifest
 correctly; it simply never sees `stage_intros`.
+
+**Precedent (`1.1.0` → `1.3.0`, issue #75):** `site_resources[]` entries gain
+a required integer `order` (CONTENT_FORMAT.md §3.4) so the app can show the
+resources as an ordered "Start Here" list. Additive for a consumer that
+tolerates unknown fields; a consumer whose `site_resource` schema sets
+`additionalProperties: false` must add `order` before bumping its pin. The
+skipped `1.2.0` is the app-side label (adepthood#389) for the optional
+`site_resource.media[]` that this repo was already emitting under `1.1.0`.
 
 | Bump | When | Examples |
 |------|------|----------|
