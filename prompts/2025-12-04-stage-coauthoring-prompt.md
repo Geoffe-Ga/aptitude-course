@@ -80,7 +80,7 @@ Practice duration builds slowly, one stage at a time:
 ### Stage 2: PURPLE
 - **Aspect**: Yes-And-Ness: Receptivity
 - **Chakra**: Sacral
-- **Archetype**: Archetype Embodier
+- **Archetype**: Pleasure Seeker
 - **Wavelength**: Internalize (Feel)
 - **Practice**: Daily Tarot draw (or I-Ching, bibliomancy, synchronicity tracking)
 - **Habit**: Vitamins, probiotics, water
