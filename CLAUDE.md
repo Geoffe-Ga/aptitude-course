@@ -53,7 +53,7 @@ Each stage file (~11,000-14,000 words) follows this pattern:
 
 - **What is [Stage]?** - Introduction and philosophical framing
 - **The Mood of [Stage]** - Core quality (Rx/Medicine) with Integrated/Repressed/Excessive expressions
-- **Journaling Prompts** - 4 prompts, 4x/week minimum
+- **Journaling Prompts** - 4 prompts; a cadence appears in the headline only when the Complete Map gives one (Daily, Whenever they arise, At least 2x per week). "4x per week" is never a journaling cadence
 - **Relationship to Free Will** - Archetype and developmental view
 - **Mode of the Wavelength** - Mode (Inhabit/Express/Collaborate/Integrate/Absorb/Be)
 - **The Practice** - Primary meditative/embodied practice with duration
