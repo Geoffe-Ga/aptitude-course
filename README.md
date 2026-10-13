@@ -35,7 +35,7 @@ Each stage is a capacity, a note you learn to play. Not a rung to climb past—a
 
 They group into six **Aspect Categories**: Yes-And-Ness (Beige, Purple) · Love (Red, Blue) · Understanding (Orange, Green) · Wisdom (Yellow, Teal) · Being (Ultraviolet) · Awareness (Clear Light). Understanding is grokking how things work; Wisdom is knowing what to do about it.
 
-**The Stages organize the course. The capacities organize a life.** Life almost never asks for one note at a time — see [Notes and Chords](./markdown/resources/notes-and-chords.md) for what that means in practice.
+**The Stages organize the course. The capacities organize a life.** Life almost never asks for one note at a time — see [Notes and Chords](./markdown/resources/07-notes-and-chords.md) for what that means in practice.
 
 Each stage includes:
 - **A Key Practice** (grounding, tarot, breathwork, metta, Wim Hof, shadow work, meditation, walking shamanism, jhanas, vipassana)
@@ -59,17 +59,17 @@ APTITUDE/
 ├── schema/ (manifest JSON Schema)
 ├── scripts/ (build_manifest.py, check_links.py, …)
 ├── markdown/
-│   ├── 01-beige/ (19 sections)
+│   ├── 01-beige/ (18 sections)
 │   ├── 02-purple/ (16 sections)
 │   ├── 03-red/ (15 sections)
 │   ├── 04-blue/ (15 sections)
-│   ├── 05-orange/ (30 sections)
+│   ├── 05-orange/ (27 sections)
 │   ├── 06-green/ (25 sections)
 │   ├── 07-yellow/ (27 sections)
 │   ├── 08-teal/ (25 sections)
 │   ├── 09-ultraviolet/ (22 sections)
 │   ├── 10-clearlight/ (25 sections)
-│   ├── resources/             # Site-resource pages (about, stages, wavelength, liminal-creep)
+│   ├── resources/             # "Start Here" pages, NN- prefix = reading order
 │   ├── ExtendedInvitation.md
 │   └── meta/
 │       └── metrics.md (repository statistics)
@@ -165,8 +165,8 @@ There is no spiritual retirement. There is no enlightenment you can rest in fore
 
 ## Get Started
 
-1. **Read the Landing Page**: `markdown/resources/about.md`
-2. **Understand the Wavelength**: `markdown/resources/archetypal-wavelength.md`
+1. **Read the Landing Page**: `markdown/resources/02-about.md`
+2. **Understand the Wavelength**: `markdown/resources/05-archetypal-wavelength.md`
 3. **Begin with Beige**: `markdown/01-beige/README.md`
 4. **Move through the stages** at your own pace (recommended: 3-4 weeks per stage)
 

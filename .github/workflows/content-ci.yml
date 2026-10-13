@@ -45,6 +45,11 @@ jobs:
       - name: Build manifest + drift check
         run: python scripts/build_manifest.py --check
 
+      # Proves the generator's gates fail on violating fixtures (resource
+      # order gaps/duplicates, unprefixed filenames, slug/filename drift).
+      - name: Generator gate tests
+        run: python -m pytest scripts -q
+
   lint:
     name: Markdown lint
     runs-on: ubuntu-latest

@@ -12,6 +12,12 @@ duplicate ``id`` / ``(stage, chapter)``, missing required fields, a bad
 ``content_type``/``release_day``, or a ``slug`` that disagrees with the
 filename.
 
+Site resources (``markdown/resources/NN-slug.md``) form the ordered "Start
+Here" reading list (issue #75, ``schema_version`` ``1.3.0``): each entry's
+``order`` is derived from the two-digit filename prefix, exactly as a
+chapter's number is, and the build fails unless the orders are unique and
+contiguous from 1. Slugs never change; only the prefix carries the order.
+
 Each stage's optional ``stage_intros[]`` entry (content-repo spec CR-B,
 adepthood#717, ``schema_version`` ``1.1.0``) is **derived**, not authored: it
 is a second, ungated, non-drip-fed manifest view onto that stage's existing
@@ -41,18 +47,19 @@ RESOURCES_DIR = MARKDOWN_DIR / "resources"
 MANIFEST_PATH = REPO_ROOT / "manifest.json"
 SCHEMA_PATH = REPO_ROOT / "schema" / "manifest.schema.json"
 
-SCHEMA_VERSION = "1.1.0"  # coordinate bumps with adepthood#389 (see CONSUMPTION.md)
+SCHEMA_VERSION = "1.3.0"  # coordinate bumps with adepthood#389 (see CONSUMPTION.md)
 
 EXCLUDED_DIRS = {"backup", "images", "meta", ".obsidian", "resources"}
 STAGE_DIR_RE = re.compile(r"^\d{2}-[a-z0-9]+$")
 CHAPTER_FILE_RE = re.compile(r"^(\d{2})-(.+)\.md$")
+RESOURCE_FILE_RE = CHAPTER_FILE_RE  # resources use the same NN-slug.md convention
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 CONTENT_TYPES = {"chapter", "essay", "prompt", "video"}
 
 # Field order in the emitted manifest (deterministic, human-readable).
 CHAPTER_KEYS = ["id", "stage", "chapter", "order", "slug", "title",
                 "content_type", "release_day", "summary", "media", "path"]
-RESOURCE_KEYS = ["slug", "title", "description", "media", "path"]
+RESOURCE_KEYS = ["order", "slug", "title", "description", "media", "path"]
 STAGE_INTRO_KEYS = ["stage", "id", "slug", "title", "summary", "path"]
 
 
@@ -133,17 +140,37 @@ def collect_stage_intros(chapters: list[dict]) -> list[dict]:
 
 
 def collect_site_resources() -> list[dict]:
+    """Collect the "Start Here" reading list from ``markdown/resources/``.
+
+    A resource's ``order`` comes from its ``NN-`` filename prefix (the same
+    convention chapters use), never from hand-maintained frontmatter: a
+    frontmatter ``order`` is allowed only when it agrees with the prefix.
+    The result is sorted by that order; ``validate_site_resources`` then
+    checks it is unique and contiguous from 1.
+    """
     if not RESOURCES_DIR.is_dir():
         return []
     resources: list[dict] = []
     for path in sorted(RESOURCES_DIR.glob("*.md")):
+        m = RESOURCE_FILE_RE.match(path.name)
+        if not m:
+            raise ManifestError(
+                f"{rel(path)}: site resources must be named NN-slug.md "
+                "(the NN prefix is the Start Here reading order)")
         fm = read_frontmatter(path)
         entry = {k: fm[k] for k in RESOURCE_KEYS if k in fm}
         if "description" not in entry and "summary" in fm:
             entry["description"] = fm["summary"]
+        prefix_order = int(m.group(1))
+        if "order" in entry and entry["order"] != prefix_order:
+            raise ManifestError(
+                f"{rel(path)}: frontmatter order {entry['order']} != "
+                f"filename prefix {prefix_order}")
+        entry["order"] = prefix_order
         entry["path"] = rel(path)
+        entry["_filename_slug"] = m.group(2)
         resources.append(entry)
-    resources.sort(key=lambda r: r.get("slug", ""))
+    resources.sort(key=lambda r: r["order"])
     return resources
 
 
@@ -218,6 +245,39 @@ def validate_stage_intros(intros: list[dict], seen_ids: dict[str, str]) -> None:
         seen_stages[intro["stage"]] = path
 
 
+def validate_site_resources(resources: list[dict]) -> None:
+    """Validate site_resources[] (issue #75): identity plus a contiguous order.
+
+    ``order`` must run 1, 2, …, n with no gaps or duplicates so the app can
+    present the list as a numbered "Start Here" section without guessing.
+    """
+    seen_slugs: dict[str, str] = {}
+    required = ["order", "slug", "title"]
+
+    for r in resources:
+        path = r["path"]
+        for field in required:
+            if r.get(field) is None:
+                raise ManifestError(f"{path}: missing required field '{field}'")
+        if r["slug"] != r["_filename_slug"]:
+            raise ManifestError(
+                f"{path}: slug '{r['slug']}' != filename slug '{r['_filename_slug']}'")
+        if not SLUG_RE.match(r["slug"]):
+            raise ManifestError(f"{path}: slug '{r['slug']}' is not URL-safe")
+        if r["slug"] in seen_slugs:
+            raise ManifestError(
+                f"duplicate resource slug '{r['slug']}' in {path} and {seen_slugs[r['slug']]}")
+        seen_slugs[r["slug"]] = path
+        validate_media(r.get("media", []), path)
+
+    orders = [r["order"] for r in resources]
+    expected = list(range(1, len(resources) + 1))
+    if orders != expected:
+        raise ManifestError(
+            "site resource order must be unique and contiguous from 1; "
+            f"got {orders} from {[r['path'] for r in resources]}")
+
+
 MEDIA_TYPES = {"video", "image", "audio"}
 
 
@@ -268,10 +328,14 @@ def build_manifest() -> dict:
     validate_stage_intros(intros, seen_ids)
     clean_intros = [{k: i[k] for k in STAGE_INTRO_KEYS if k in i} for i in intros]
 
+    resources = collect_site_resources()
+    validate_site_resources(resources)
+    clean_resources = [{k: r[k] for k in RESOURCE_KEYS if k in r} for r in resources]
+
     manifest = {
         "schema_version": SCHEMA_VERSION,
         "chapters": clean_chapters,
-        "site_resources": collect_site_resources(),
+        "site_resources": clean_resources,
     }
     if clean_intros:
         manifest["stage_intros"] = clean_intros

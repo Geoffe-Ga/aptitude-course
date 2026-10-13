@@ -263,7 +263,7 @@ Based on completed stages, each stage document should include:
 
 4. **The Journaling Prompts of [Color]**
    - Use the I, IT, ITS, WE prompts from the Complete Map CSV
-   - Format: At least 1x per week, at least 3x per week, at least 4x per week, etc. as specified
+   - Format: a trailing parenthetical cadence only where the Complete Map specifies one (Daily, Whenever they arise, At least 2x per week); omit it otherwise. Never "at least 4x per week" — every such cadence on a journaling prompt was a typo (issue #73)
    - Always include the standard instruction about sharing in Digital Sangha
    - Explain each prompt and how to engage with it
 
