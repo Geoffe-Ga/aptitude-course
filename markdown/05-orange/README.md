@@ -30,9 +30,6 @@ This folder contains the modular sections for the ORANGE stage of the APTITUDE c
 - [Orange's Shadow: When Achievement Becomes Addiction](./23-oranges-shadow-when-achievement-becomes-addiction.md)
 - ["COLLABORATE (Do)"—Full 6-Phase Wavelength Breakdown](./24-collaborate-dofull-6-phase-wavelength-breakdown.md)
 - [The Prometheus Principle: Stealing Fire from the Gods](./25-the-prometheus-principle-stealing-fire-from-the-gods.md)
-- [Orange as the Theft of Fire](./26-orange-as-the-theft-of-fire.md)
-- [The Lever and the Fulcrum: Archimedes and the Power of Understanding](./27-the-lever-and-the-fulcrum-archimedes-and-the-power-of-unders.md)
-- [The Library of Alexandria: Knowledge as Sacred Responsibility](./28-the-library-of-alexandria-knowledge-as-sacred-responsibility.md)
 - [Practicing Understanding Off the Cushion](./29-practicing-understanding-off-the-cushion.md)
 
 ## Navigation
@@ -46,4 +43,4 @@ This folder contains the modular sections for the ORANGE stage of the APTITUDE c
 
 Original monolithic file: `../5.ORANGE.md` (preserved as backup)
 
-Total sections: 30
+Total sections: 27

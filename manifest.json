@@ -1034,42 +1034,6 @@
       "path": "markdown/05-orange/25-the-prometheus-principle-stealing-fire-from-the-gods.md"
     },
     {
-      "id": "orange-26",
-      "stage": 5,
-      "chapter": 26,
-      "order": 26,
-      "slug": "orange-as-the-theft-of-fire",
-      "title": "Orange as the Theft of Fire",
-      "content_type": "chapter",
-      "release_day": 25,
-      "media": [],
-      "path": "markdown/05-orange/26-orange-as-the-theft-of-fire.md"
-    },
-    {
-      "id": "orange-27",
-      "stage": 5,
-      "chapter": 27,
-      "order": 27,
-      "slug": "the-lever-and-the-fulcrum-archimedes-and-the-power-of-unders",
-      "title": "The Lever and the Fulcrum: Archimedes and the Power of Understanding",
-      "content_type": "chapter",
-      "release_day": 26,
-      "media": [],
-      "path": "markdown/05-orange/27-the-lever-and-the-fulcrum-archimedes-and-the-power-of-unders.md"
-    },
-    {
-      "id": "orange-28",
-      "stage": 5,
-      "chapter": 28,
-      "order": 28,
-      "slug": "the-library-of-alexandria-knowledge-as-sacred-responsibility",
-      "title": "The Library of Alexandria: Knowledge as Sacred Responsibility",
-      "content_type": "chapter",
-      "release_day": 27,
-      "media": [],
-      "path": "markdown/05-orange/28-the-library-of-alexandria-knowledge-as-sacred-responsibility.md"
-    },
-    {
       "id": "orange-29",
       "stage": 5,
       "chapter": 29,
@@ -1077,7 +1041,7 @@
       "slug": "practicing-understanding-off-the-cushion",
       "title": "Practicing Understanding Off the Cushion",
       "content_type": "chapter",
-      "release_day": 28,
+      "release_day": 25,
       "media": [],
       "path": "markdown/05-orange/29-practicing-understanding-off-the-cushion.md"
     },
