@@ -1,0 +1,314 @@
+{
+  "communities": {
+    "0": [
+      "schema_manifest_schema_chapter_properties",
+      "schema_manifest_schema_content_type_type",
+      "schema_manifest_schema_id_pattern",
+      "schema_manifest_schema_id_type",
+      "schema_manifest_schema_order_minimum",
+      "schema_manifest_schema_order_type",
+      "schema_manifest_schema_properties_content_type",
+      "schema_manifest_schema_properties_id",
+      "schema_manifest_schema_properties_order",
+      "schema_manifest_schema_properties_release_day",
+      "schema_manifest_schema_properties_stage",
+      "schema_manifest_schema_properties_summary",
+      "schema_manifest_schema_properties_title",
+      "schema_manifest_schema_release_day_minimum",
+      "schema_manifest_schema_release_day_type",
+      "schema_manifest_schema_stage_intro_properties",
+      "schema_manifest_schema_stage_maximum",
+      "schema_manifest_schema_stage_minimum",
+      "schema_manifest_schema_stage_type",
+      "schema_manifest_schema_summary_type",
+      "schema_manifest_schema_title_minlength",
+      "schema_manifest_schema_title_type"
+    ],
+    "1": [
+      "exception",
+      "scripts_build_manifest",
+      "scripts_build_manifest_build_manifest",
+      "scripts_build_manifest_collect_chapters",
+      "scripts_build_manifest_collect_site_resources",
+      "scripts_build_manifest_collect_stage_intros",
+      "scripts_build_manifest_main",
+      "scripts_build_manifest_manifesterror",
+      "scripts_build_manifest_py_path",
+      "scripts_build_manifest_rationale_105",
+      "scripts_build_manifest_rationale_194",
+      "scripts_build_manifest_rationale_225",
+      "scripts_build_manifest_rationale_249",
+      "scripts_build_manifest_rationale_60",
+      "scripts_build_manifest_read_frontmatter",
+      "scripts_build_manifest_rel",
+      "scripts_build_manifest_serialize",
+      "scripts_build_manifest_validate",
+      "scripts_build_manifest_validate_against_schema",
+      "scripts_build_manifest_validate_media",
+      "scripts_build_manifest_validate_stage_intros"
+    ],
+    "2": [
+      "ref_type",
+      "schema_manifest_schema_caption_type",
+      "schema_manifest_schema_defs_media_item",
+      "schema_manifest_schema_media_item_additionalproperties",
+      "schema_manifest_schema_media_item_anyof",
+      "schema_manifest_schema_media_item_properties",
+      "schema_manifest_schema_media_item_required",
+      "schema_manifest_schema_media_item_type",
+      "schema_manifest_schema_path_pattern",
+      "schema_manifest_schema_path_type",
+      "schema_manifest_schema_poster_type",
+      "schema_manifest_schema_properties_caption",
+      "schema_manifest_schema_properties_path",
+      "schema_manifest_schema_properties_poster",
+      "schema_manifest_schema_properties_url",
+      "schema_manifest_schema_url_type"
+    ],
+    "3": [
+      "schema_manifest_schema_chapters_items",
+      "schema_manifest_schema_chapters_type",
+      "schema_manifest_schema_items_ref",
+      "schema_manifest_schema_properties",
+      "schema_manifest_schema_properties_chapters",
+      "schema_manifest_schema_properties_schema_version",
+      "schema_manifest_schema_properties_site_resources",
+      "schema_manifest_schema_properties_stage_intros",
+      "schema_manifest_schema_schema_version_description",
+      "schema_manifest_schema_schema_version_pattern",
+      "schema_manifest_schema_schema_version_type",
+      "schema_manifest_schema_site_resources_items",
+      "schema_manifest_schema_site_resources_type",
+      "schema_manifest_schema_stage_intros_description",
+      "schema_manifest_schema_stage_intros_items",
+      "schema_manifest_schema_stage_intros_type"
+    ],
+    "4": [
+      "ref_content_type",
+      "ref_id",
+      "ref_media",
+      "ref_order",
+      "ref_path",
+      "ref_release_day",
+      "ref_slug",
+      "ref_stage",
+      "ref_title",
+      "schema_manifest_schema_chapter_required",
+      "schema_manifest_schema_site_resource_required",
+      "schema_manifest_schema_stage_intro_required"
+    ],
+    "5": [
+      "schema_manifest_schema_defs_site_resource",
+      "schema_manifest_schema_description_type",
+      "schema_manifest_schema_media_items",
+      "schema_manifest_schema_media_type",
+      "schema_manifest_schema_properties_description",
+      "schema_manifest_schema_properties_media",
+      "schema_manifest_schema_properties_slug",
+      "schema_manifest_schema_site_resource_additionalproperties",
+      "schema_manifest_schema_site_resource_properties",
+      "schema_manifest_schema_site_resource_type",
+      "schema_manifest_schema_slug_pattern",
+      "schema_manifest_schema_slug_type"
+    ],
+    "6": [
+      "ref_chapters",
+      "ref_schema_version",
+      "ref_site_resources",
+      "schema_manifest_schema",
+      "schema_manifest_schema_additionalproperties",
+      "schema_manifest_schema_description",
+      "schema_manifest_schema_id",
+      "schema_manifest_schema_required",
+      "schema_manifest_schema_schema",
+      "schema_manifest_schema_title",
+      "schema_manifest_schema_type"
+    ],
+    "7": [
+      "ref_audio",
+      "ref_chapter",
+      "ref_essay",
+      "ref_image",
+      "ref_prompt",
+      "ref_video",
+      "schema_manifest_schema_content_type_enum",
+      "schema_manifest_schema_properties_type",
+      "schema_manifest_schema_type_enum",
+      "schema_manifest_schema_type_type"
+    ],
+    "8": [
+      "scripts_add_frontmatter",
+      "scripts_add_frontmatter_build_frontmatter",
+      "scripts_add_frontmatter_chapter_files",
+      "scripts_add_frontmatter_main",
+      "scripts_add_frontmatter_py_path",
+      "scripts_add_frontmatter_rationale_52",
+      "scripts_add_frontmatter_slug_from_filename",
+      "scripts_add_frontmatter_stage_dirs",
+      "scripts_add_frontmatter_title_from_body",
+      "scripts_add_frontmatter_yaml_quote"
+    ],
+    "9": [
+      "scripts_normalize_markdown",
+      "scripts_normalize_markdown_corpus_files",
+      "scripts_normalize_markdown_first_divergence",
+      "scripts_normalize_markdown_main",
+      "scripts_normalize_markdown_normalize",
+      "scripts_normalize_markdown_py_path",
+      "scripts_normalize_markdown_rationale_121",
+      "scripts_normalize_markdown_rationale_142",
+      "scripts_normalize_markdown_rationale_48",
+      "scripts_normalize_markdown_visible_words"
+    ],
+    "10": [
+      "schema_manifest_schema_chapter_additionalproperties",
+      "schema_manifest_schema_chapter_minimum",
+      "schema_manifest_schema_chapter_type",
+      "schema_manifest_schema_defs",
+      "schema_manifest_schema_defs_chapter",
+      "schema_manifest_schema_defs_stage_intro",
+      "schema_manifest_schema_properties_chapter",
+      "schema_manifest_schema_stage_intro_additionalproperties",
+      "schema_manifest_schema_stage_intro_type"
+    ],
+    "11": [
+      "scripts_check_links",
+      "scripts_check_links_iter_markdown_files",
+      "scripts_check_links_iter_media_targets",
+      "scripts_check_links_iter_targets",
+      "scripts_check_links_main",
+      "scripts_check_links_py_path",
+      "scripts_check_links_rationale_55",
+      "scripts_check_links_rationale_70"
+    ],
+    "12": [
+      "manifest",
+      "manifest_chapters",
+      "manifest_schema_version",
+      "manifest_site_resources",
+      "manifest_stage_intros"
+    ],
+    "13": [
+      "convert_docs",
+      "convert_docs_sh__entry"
+    ]
+  },
+  "cohesion": {
+    "0": 0.1038961038961039,
+    "1": 0.19047619047619047,
+    "2": 0.125,
+    "3": 0.14166666666666666,
+    "4": 0.25757575757575757,
+    "5": 0.16666666666666666,
+    "6": 0.18181818181818182,
+    "7": 0.2,
+    "8": 0.35555555555555557,
+    "9": 0.28888888888888886,
+    "10": 0.2222222222222222,
+    "11": 0.35714285714285715,
+    "12": 0.4,
+    "13": 1.0
+  },
+  "gods": [
+    {
+      "id": "schema_manifest_schema_chapter_required",
+      "label": "required",
+      "degree": 11
+    },
+    {
+      "id": "scripts_build_manifest_manifesterror",
+      "label": "ManifestError",
+      "degree": 7
+    },
+    {
+      "id": "scripts_build_manifest_build_manifest",
+      "label": "build_manifest()",
+      "degree": 7
+    },
+    {
+      "id": "schema_manifest_schema_properties_path",
+      "label": "path",
+      "degree": 6
+    },
+    {
+      "id": "schema_manifest_schema_defs_media_item",
+      "label": "media_item",
+      "degree": 6
+    },
+    {
+      "id": "schema_manifest_schema_stage_intro_required",
+      "label": "required",
+      "degree": 6
+    },
+    {
+      "id": "scripts_add_frontmatter_main",
+      "label": "main()",
+      "degree": 6
+    },
+    {
+      "id": "scripts_build_manifest_read_frontmatter",
+      "label": "read_frontmatter()",
+      "degree": 6
+    },
+    {
+      "id": "scripts_build_manifest_rel",
+      "label": "rel()",
+      "degree": 6
+    },
+    {
+      "id": "scripts_normalize_markdown_main",
+      "label": "main()",
+      "degree": 6
+    }
+  ],
+  "surprises": [
+    {
+      "source": "main()",
+      "target": "rel()",
+      "source_files": [
+        "scripts/normalize_markdown.py",
+        "scripts/build_manifest.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `$defs` connect `Community 10` to `Community 2`, `Community 5`, `Community 6`?",
+      "why": "High betweenness centrality (0.167) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `properties` connect `Community 0` to `Community 10`, `Community 2`, `Community 5`?",
+      "why": "High betweenness centrality (0.157) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `chapter` connect `Community 10` to `Community 0`, `Community 4`?",
+      "why": "High betweenness centrality (0.106) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `convert_docs.sh script`, `schema_version`, `chapters` to the rest of the system?",
+      "why": "62 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1038961038961039 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.125 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 3` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.14166666666666666 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

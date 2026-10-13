@@ -1,16 +1,16 @@
-# Graph Report - aptitude-course  (2026-10-07)
+# Graph Report - aptitude-course  (2026-10-13)
 
 ## Corpus Check
-- 255 files · ~345,550 words
+- 253 files · ~348,151 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1064 nodes · 1111 edges · 193 communities (58 shown, 135 thin omitted)
+- 1083 nodes · 1161 edges · 203 communities (63 shown, 140 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.8)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `c5e7d278`
+- Built from commit: `c9d1fb8e`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -168,6 +168,7 @@
 - 21-three-stories-of-equanimity-in-action.md
 - 22-the-long-game-what-happens-after-a-year-at-teal.md
 - 24-the-default-habit-deepened-baby-waterfall-conventions-as-lif.md
+- 04-the-relationship-to-free-will-at-blue-victim.md
 - 03-the-journaling-prompts-of-ultraviolet.md
 - 04-the-relationship-to-free-will-at-ultraviolet-hierarchical-or.md
 - 05-the-vibe-wavelength-of-ultraviolet-absorb-do.md
@@ -184,6 +185,7 @@
 - 20-what-450-hours-of-meditation-produces-a-developmental-milest.md
 - 21-the-void-practice-advanced-meditation-techniques-for-ultravi.md
 - 01-what-is-clear-light.md
+- 05-the-vibe-wavelength-of-blue-express-feel.md
 - 04-the-relationship-to-free-will-at-clear-light-adept.md
 - 05-the-vibe-wavelength-of-clear-light-be-neitherall.md
 - 06-the-practice-of-clear-light-cultivating-vipassana.md
@@ -191,6 +193,7 @@
 - 08-after-the-ecstasy-the-laundry.md
 - 09-obstacles-are-the-path.md
 - 11-the-practice-is-the-path.md
+- 08-the-default-habit-of-blue-looking-at-alcoholintoxicants.md
 - 13-the-bodhisattva-vow-clear-light-as-service.md
 - 14-what-clear-light-feels-like-a-phenomenological-account.md
 - 15-the-final-integration-all-stages-always-available.md
@@ -208,18 +211,25 @@
 - Path
 - Path
 - Path
+- 14-practicing-love-off-the-cushion.md
+- 09-step-two-the-breathing-rounds-12-15-minutes.md
+- 12-common-experiences-and-how-to-navigate-them.md
+- 13-tracking-your-progress-the-orange-way.md
+- 25-the-prometheus-principle-stealing-fire-from-the-gods.md
+- 01-liminal-creep.md
+- 03-energy-scaffolding.md
 
 ## God Nodes (most connected - your core abstractions)
 1. `APTITUDE Stage Co-Authoring Brief — 2025-12-05` - 14 edges
 2. `APTITUDE Course` - 12 edges
 3. `APTITUDE Stage Co-Authoring Brief — 2025-12-04` - 12 edges
 4. `required` - 11 edges
-5. `Let’s Take a Closer Look at the Individual Stages` - 11 edges
-6. `Findings by Stage` - 11 edges
-7. `Contributing to the APTITUDE Course Corpus` - 10 edges
+5. `Contributing to the APTITUDE Course Corpus` - 11 edges
+6. `Let’s Take a Closer Look at the Individual Stages` - 11 edges
+7. `Findings by Stage` - 11 edges
 8. `Alternative Purple Practices: Eight Five-Minute Receptivity Meditations` - 10 edges
-9. `Content Format Specification` - 9 edges
-10. `“INHABIT (Do)”` - 8 edges
+9. `ManifestError` - 9 edges
+10. `_write_resource()` - 9 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `main()` --calls--> `rel()`  [INFERRED]
@@ -228,26 +238,26 @@
 ## Import Cycles
 - None detected.
 
-## Communities (193 total, 135 thin omitted)
+## Communities (203 total, 140 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.04
 Nodes (33): Table of Contents, What is Red?, The Mood of Red: Self-Love and Power, The Journaling Prompts of Red, The Relationship to Free Will at Red: Dominator, The Mode of the Wavelength of Red: Express (Do), The Practice of Red: Paced Breathing, Alternatives for Red Practice (+25 more)
 
 ### Community 1 - "Community 1"
-Cohesion: 0.13
-Nodes (27): Exception, build_manifest(), collect_chapters(), collect_site_resources(), collect_stage_intros(), main(), ManifestError, Derive stage_intros[] from each stage's own chapter 1.      A stage's existing " (+19 more)
+Cohesion: 0.33
+Nodes (8): corpus_files(), first_divergence(), main(), normalize(), Extract the sequence of visible prose words, ignoring all markup.      Applied i, Human-readable description of where two word lists first differ., Return the clean-Markdown form of ``text`` (word-preserving)., visible_words()
 
 ### Community 2 - "Community 2"
 Cohesion: 0.33
 Nodes (6): type, media_item, additionalProperties, anyOf, required, type
 
 ### Community 3 - "Community 3"
-Cohesion: 0.04
-Nodes (32): Table of Contents, What is Blue?, The Mood of Blue: Love—Community Love, The Journaling Prompts of Blue, The Relationship to Free Will at Blue: Victim, The Mode of the Wavelength of Blue: Express (Feel), The Practice of Blue: Metta Meditation, Alternatives for Blue Practice (+24 more)
+Cohesion: 0.18
+Nodes (5): Table of Contents, The Mood of Blue: Love—Community Love, The Practice of Blue: Metta Meditation, Alternatives for Blue Practice, Blue's Gift: From Conformity to Community
 
 ### Community 4 - "Community 4"
-Cohesion: 0.26
+Cohesion: 0.27
 Nodes (12): content_type, id, media, order, path, release_day, slug, stage (+4 more)
 
 ### Community 5 - "Community 5"
@@ -259,12 +269,12 @@ Cohesion: 0.08
 Nodes (26): chapters, schema_version, site_resources, additionalProperties, items, type, description, $id (+18 more)
 
 ### Community 7 - "Community 7"
-Cohesion: 0.17
-Nodes (12): audio, chapter, essay, image, prompt, video, enum, type (+4 more)
+Cohesion: 0.20
+Nodes (10): audio, chapter, essay, image, prompt, video, enum, type (+2 more)
 
 ### Community 8 - "Community 8"
 Cohesion: 0.05
-Nodes (36): 1. The published surface, 2. `schema_version` semver rules, 3. Release tagging, 4. The update handshake, 5. Breaking-change policy, Consumption Contract & Release Versioning, Cutting a release, 1. Setup (+28 more)
+Nodes (37): 1. The published surface, 2. `schema_version` semver rules, 3. Release tagging, 4. The update handshake, 5. Breaking-change policy, Consumption Contract & Release Versioning, Cutting a release, 1. Setup (+29 more)
 
 ### Community 9 - "Community 9"
 Cohesion: 0.05
@@ -279,32 +289,32 @@ Cohesion: 0.09
 Nodes (22): 1. Stage Files (219 section files across 10 folders), 2. Supplementary Material Files, 3. Database Files (Important!), 4. Philosophical Consistency Points, 5. Special Considerations, 6. Test for Contradiction, APTITUDEStagesDeepDive.md, ArchetypalWavelengthIntroduction.md (+14 more)
 
 ### Community 12 - "Community 12"
-Cohesion: 0.09
-Nodes (21): Architecture & Content Structure, Co-Authoring Prompts, Common Queries, Conceptual Distinctions to Maintain, Content Source Pipeline, Converting Google Docs to Markdown, Core Principles, Database Files (Single Source of Truth) (+13 more)
+Cohesion: 0.08
+Nodes (22): Architecture & Content Structure, Co-Authoring Prompts, Common Queries, Conceptual Distinctions to Maintain, Content Source Pipeline, Converting Google Docs to Markdown, Core Principles, Database Files (Single Source of Truth) (+14 more)
 
 ### Community 13 - "Community 13"
 Cohesion: 0.09
-Nodes (22): 1. Why this exists, 2.1 Allowed, 2.2 Disallowed, 2.3 Heading levels, 2. The Markdown dialect, 3.1 Field reference, 3.2 Identity & uniqueness rules, 3.3 Stage introductions (`stage_intros[]`, schema `1.1.0`) (+14 more)
+Nodes (23): 1. Why this exists, 2.1 Allowed, 2.2 Disallowed, 2.3 Heading levels, 2. The Markdown dialect, 3.1 Field reference, 3.2 Identity & uniqueness rules, 3.3 Stage introductions (`stage_intros[]`, schema `1.1.0`) (+15 more)
 
 ### Community 14 - "properties"
-Cohesion: 0.20
-Nodes (10): pattern, type, id, stage, summary, properties, maximum, minimum (+2 more)
+Cohesion: 0.06
+Nodes (30): Awareness: Emptiness (Clear Light, Pure Awareness, Whole Adept), Being: Unity (Ultraviolet, Effortless Being, The Blissy Adept), Let’s Take a Closer Look at the Individual Stages, Love: Community (Blue, Conformity, The Victim), Love: Self (Red, Power, The Dominator), The Ten Stages of Adepthood, Understanding; Embodied (Green, Plurality, The Shadow Glorifier), Understanding: Intellectual (Orange, Rationality, The Status Seeker) (+22 more)
 
 ### Community 15 - "README.md"
 Cohesion: 0.11
 Nodes (9): Table of Contents, What is Purple?, The Relationship to Free Will at Purple: Pleasure Seeker, The Mode of the Wavelength of Purple: Inhabit (Feel), The Default Habit of Purple: Vitamins, Probiotics, and Water, Purple’s Shadow: Delusions of Reference and Magical Thinking, The Quieter Shadow: Capture, “Pranasynthesis”: Taking in Light When You’re Depressed (+1 more)
 
 ### Community 16 - "aptitude-stages.md"
-Cohesion: 0.06
-Nodes (30): Awareness: Emptiness (Clear Light, Pure Awareness, Whole Adept), Being: Unity (Ultraviolet, Effortless Being, The Blissy Adept), Let’s Take a Closer Look at the Individual Stages, Love: Community (Blue, Conformity, The Victim), Love: Self (Red, Power, The Dominator), The Ten Stages of Adepthood, Understanding; Embodied (Green, Plurality, The Shadow Glorifier), Understanding: Intellectual (Orange, Rationality, The Status Seeker) (+22 more)
+Cohesion: 0.17
+Nodes (23): Exception, build_manifest(), collect_chapters(), collect_site_resources(), collect_stage_intros(), main(), ManifestError, Path (+15 more)
 
 ### Community 17 - "README.md"
 Cohesion: 0.15
-Nodes (6): Table of Contents, What is Beige?, The Mode of the Wavelength of Beige: Inhabit (Do), Energy Scaffolding, The 5-4-3-2-1 Technique (Your Root Chakra Reset), A Note on Beige Practice
+Nodes (6): Table of Contents, What is Beige?, The Mode of the Wavelength of Beige: Inhabit (Do), And then… the dangerous temptation to repeat, Alternative Practice Options, A Note on Beige Practice
 
 ### Community 18 - "README.md"
-Cohesion: 0.15
-Nodes (6): Table of Contents, Step Two: The Breathing Rounds (12-15 minutes), Common Experiences and How to Navigate Them, Tracking Your Progress: The Orange Way, Orange's Divine Gender: Divine Masculine—Achievement and Curiosity, The Prometheus Principle: Stealing Fire from the Gods
+Cohesion: 0.18
+Nodes (5): Table of Contents, The Relationship to Free Will at Orange: Status Seeker, Why Exercise Does So Much for Understanding, Orange's Divine Gender: Divine Masculine—Achievement and Curiosity, Practicing Understanding Off the Cushion
 
 ### Community 19 - "README.md"
 Cohesion: 0.18
@@ -339,8 +349,8 @@ Cohesion: 0.40
 Nodes (4): chapters, schema_version, site_resources, stage_intros
 
 ### Community 27 - "properties"
-Cohesion: 0.20
-Nodes (10): type, properties, pattern, type, type, caption, path, poster (+2 more)
+Cohesion: 0.11
+Nodes (22): properties, type, pattern, type, content_type, id, release_day, slug (+14 more)
 
 ### Community 28 - "ImageDescriptions.md"
 Cohesion: 0.22
@@ -351,12 +361,12 @@ Cohesion: 0.18
 Nodes (5): Table of Contents, The Journaling Prompts of Clear Light, You Cannot Stay on the Summit, The 90-Minute Sit: The Practice of Adepts, Teaching as Practice: Becoming a Holder of Space
 
 ### Community 30 - "$defs"
-Cohesion: 0.29
-Nodes (7): $defs, site_resource, stage_intro, additionalProperties, type, additionalProperties, type
+Cohesion: 0.31
+Nodes (15): MonkeyPatch, _collect_and_validate(), Path, Gate tests for scripts/build_manifest.py (issue #75).  Run with ``python -m pyte, The real resources/ dir carries the agreed reading order (issue #75)., resources_dir(), test_committed_corpus_is_an_ordered_start_here_list(), test_duplicate_order_fails() (+7 more)
 
 ### Community 31 - "properties"
 Cohesion: 0.17
-Nodes (12): type, items, type, description, media, slug, title, properties (+4 more)
+Nodes (12): additionalProperties, minimum, type, $defs, chapter, site_resource, stage_intro, chapter (+4 more)
 
 ### Community 32 - "add_frontmatter.py"
 Cohesion: 0.39
@@ -399,16 +409,16 @@ Cohesion: 0.43
 Nodes (6): iter_markdown_files(), iter_media_targets(), iter_targets(), main(), Yield (line_number, target) for each inline link/image outside code fences., Yield (label, target) for relative media[] path/poster entries (issue #25).
 
 ### Community 42 - "about.md"
-Cohesion: 0.33
-Nodes (5): Are You Ready?, The Journey: From Liminal Creep to Whole Adept, What Makes APTITUDE Different?, What You Get When You Join, Why APTITUDE? Why Now?
+Cohesion: 0.20
+Nodes (10): type, properties, pattern, type, type, caption, path, poster (+2 more)
 
 ### Community 43 - "wavelength-explainer.md"
-Cohesion: 0.33
-Nodes (5): Compression waves — how you touch other souls, The chord, The rising octaves, The spiral that grows it, Your torus — the auric field
+Cohesion: 0.20
+Nodes (10): type, items, type, description, minimum, type, description, media (+2 more)
 
 ### Community 44 - "order"
-Cohesion: 0.18
-Nodes (12): additionalProperties, minimum, properties, type, chapter, minimum, type, chapter (+4 more)
+Cohesion: 0.25
+Nodes (7): 1. RISING, 2. PEAKING, 3. WITHDRAWAL, 4. DIMINISHING, 5. BOTTOMING OUT, 6. RESTORATION, "EXPRESS (Feel)"—Full 6-Phase Wavelength Breakdown
 
 ### Community 45 - "Yes-And-Ness: A balance between Radical Agency and Radical Acceptance"
 Cohesion: 0.40
@@ -458,29 +468,49 @@ Nodes (4): Contents, Navigation, Source, Stage 10: CLEARLIGHT
 Cohesion: 0.50
 Nodes (3): A Final Note on the Curriculum of the APTITUDE Course, Adepthood Calls You, Who is this for?
 
+### Community 66 - "15-and-then-the-dangerous-temptation-to-repeat.md"
+Cohesion: 0.33
+Nodes (6): If Week One is a wall, The five weeks, The Return Journey: Five Weeks of Metta for When Life Becomes Unmanageable, When to begin one, When your mind wanders, Why it works
+
+### Community 67 - "17-alternative-practice-options.md"
+Cohesion: 0.33
+Nodes (5): Are You Ready?, The Journey: From Liminal Creep to Whole Adept, What Makes APTITUDE Different?, What You Get When You Join, Why APTITUDE? Why Now?
+
+### Community 74 - "04-the-relationship-to-free-will-at-orange-status-seeker.md"
+Cohesion: 0.33
+Nodes (5): Compression waves — how you touch other souls, The chord, The rising octaves, The spiral that grows it, Your torus — the auric field
+
+### Community 83 - "16-why-exercise-is-non-negotiable-for-understanding.md"
+Cohesion: 0.40
+Nodes (4): Looking at Love in Particular, The categories are not a ranking, Which is the real skill, Yes-And-Ness, Love, Understanding, Wisdom: The Broader "Aspect Categories" of APTITUDE
+
+### Community 90 - "26-orange-as-the-theft-of-fire.md"
+Cohesion: 0.50
+Nodes (4): Contents, Navigation, Source, Stage 4: BLUE
+
 ### Community 181 - "15-the-final-integration-all-stages-always-available.md"
 Cohesion: 0.33
 Nodes (5): And then the laundry, The Adept as Shapeshifter, The appropriate response, The Whole Instrument: All Stages, Always Available, Wholeness is a relationship, not a rank
 
 ## Knowledge Gaps
-- **626 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+621 more)
+- **628 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+623 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **135 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **140 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Content Format Specification` connect `Community 13` to `Community 8`?**
   _High betweenness centrality (0.032) - this node is a cross-community bridge._
-- **Why does `Alternative Purple Practices: Eight Five-Minute Receptivity Meditations` connect `Alternative Purple Practices: Eight Five-Minute Receptivity Meditations` to `README.md`?**
-  _High betweenness centrality (0.019) - this node is a cross-community bridge._
+- **Why does `Stage 1: BEIGE` connect `Stage 1: BEIGE` to `README.md`?**
+  _High betweenness centrality (0.014) - this node is a cross-community bridge._
 - **What connects `convert_docs.sh script`, `schema_version`, `chapters` to the rest of the system?**
-  _626 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _628 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
-  _Cohesion score 0.04081632653061224 - nodes in this community are weakly interconnected._
-- **Should `Community 1` be split into smaller, more focused modules?**
-  _Cohesion score 0.12561576354679804 - nodes in this community are weakly interconnected._
-- **Should `Community 3` be split into smaller, more focused modules?**
   _Cohesion score 0.04081632653061224 - nodes in this community are weakly interconnected._
 - **Should `Community 5` be split into smaller, more focused modules?**
   _Cohesion score 0.043478260869565216 - nodes in this community are weakly interconnected._
+- **Should `Community 6` be split into smaller, more focused modules?**
+  _Cohesion score 0.07977207977207977 - nodes in this community are weakly interconnected._
+- **Should `Community 8` be split into smaller, more focused modules?**
+  _Cohesion score 0.0524390243902439 - nodes in this community are weakly interconnected._
