@@ -24,7 +24,7 @@ Your fear? It's teaching you what you care about deeply enough to protect.
 
 Your jealousy? It's teaching you what you long for but haven't claimed.
 
-When you do the work of meeting the shadow—when you sit in the chair, write the letter, feel the feeling all the way through—it loses most of its grip. You catch the projection sooner. It runs less of your life from the basement, and when it grabs the wheel again you notice faster.
+When you do the work of meeting the shadow—when you word through the memory, drink the water, write the letter, feel the feeling all the way through—it loses most of its grip. You catch the projection sooner. It runs less of your life from the basement, and when it grabs the wheel again you notice faster.
 
 And here's the wild part: the things you've most rejected in yourself are often the things you most *need*. The person who's terrified of anger is the one who needs to learn healthy assertion. The person who's ashamed of their neediness is the one who needs to learn to ask for help. The person who's rejected their ambition is the one who needs to step into their power.
 

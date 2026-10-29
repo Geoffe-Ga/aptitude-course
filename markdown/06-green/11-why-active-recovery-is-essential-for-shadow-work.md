@@ -28,7 +28,7 @@ Your nervous system has three states (according to Polyvagal Theory):
 
 3. **Dorsal Vagal (Shutdown):** You've collapsed, numbed out, dissociated. This is where you go when fight/flight didn't work.
 
-Shadow work often activates Sympathetic or Dorsal states. You're touching on old wounds, which your body interprets as threat. Even if you're "just sitting in a chair," your nervous system doesn't know the difference between remembered danger and real danger.
+Shadow work often activates Sympathetic or Dorsal states. You're touching on old wounds, which your body interprets as threat. Even if you're "just sitting with a glass of water," your nervous system doesn't know the difference between remembered danger and real danger.
 
 Active Recovery helps you return to Ventral Vagal. It signals to your body: *The threat is over. You're safe now. You can rest.*
 

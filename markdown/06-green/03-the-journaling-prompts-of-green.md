@@ -28,7 +28,7 @@ Then—and this is the alchemical part—reframe the shadow element as Light. As
 
 For example: If your Shadow element is "anger," write about the first time you were punished for being angry. Then reframe: "My anger was trying to protect my boundaries. It was telling me something important. If I could honor that energy without the violence, what would it become? Clarity. Advocacy. Sacred rage."
 
-This is shadow work. Not eliminating the dark, but *illuminating* it. Seeing it clearly enough to integrate it.
+This is shadow work. Not eliminating the dark, but *illuminating* it. Seeing it clearly enough to integrate it. And it's the raw material for Green's practice: each shadow, memory, and reframe becomes one row of the list you'll carry into the [Coal to Gold ritual](./06-the-practice-of-green-shadow-work-ritual.md).
 
 **Prompt 2: Make a List of Behaviors, Characteristics, and Identities That Comprise Your Shadow**
 

@@ -26,13 +26,13 @@ But the rage didn't go away. It just went underground. And now it leaks out as p
 
 **The Integration:**
 
-You do shadow work. You sit in the chair and invite the rage forward. At first, it terrifies you. But you stay. You let it speak. And it says: "I'm here because your boundaries were violated. I'm here because you were treated unjustly. I'm not the enemy—I'm the part of you that knows what's not okay."
+You do shadow work. You put rage on your list, and the memory column fills itself: the night of the broken plate. You word through it, and at first it terrifies you. But you stay. And somewhere in the meditation that follows, the rage speaks: "I'm here because your boundaries were violated. I'm here because you were treated unjustly. I'm not the enemy—I'm the part of you that knows what's not okay."
 
 You begin to understand: anger itself isn't violence. Anger is *information*. It's your system saying, "This is unacceptable." The violence comes from suppressing the anger until it explodes.
 
 So you start practicing healthy anger. You say "no" without apologizing. You name when something hurts you. You let yourself feel the heat of the rage without acting it out. And over time, the rage transforms. It becomes *clarity*. *Advocacy*. *Sacred boundary-setting*.
 
-Now, when you feel anger, you don't fear it. You listen to it. It's your ally.
+That's what you wrote in the reframe column, and what you said over the water: *I am fierce in defense of what matters.* Now, when you feel anger, you don't fear it. You listen to it. It's your ally.
 
 **Shadow Element: Neediness**
 
@@ -46,7 +46,7 @@ But the need didn't disappear. It just got exiled. And now you're lonely. Isolat
 
 **The Integration:**
 
-You do shadow work. You invite the needy part forward. At first, it's humiliating. But you let it speak. And it says: "I just want to be held. I want someone to say, 'You don't have to do this alone.' I'm not weak—I'm *human*."
+You do shadow work. You put neediness on your list and find the memory: the time you asked for help and got told to figure it out yourself. You word through it. At first, it's humiliating. But you let it come. And the needy part says: "I just want to be held. I want someone to say, 'You don't have to do this alone.' I'm not weak—I'm *human*."
 
 You begin to see: interdependence is not weakness. It's how we're wired. The myth of the self-made person is just that—a myth. Everyone who's ever accomplished anything had support. Community. Help.
 
@@ -68,7 +68,7 @@ Now you oscillate: sometimes you're too humble (refusing to own your gifts), som
 
 **The Integration:**
 
-You do shadow work. You invite the arrogant part forward. It's uncomfortable. But you let it speak. And it says: "I just want to be acknowledged. I worked hard to develop this skill. I'm tired of pretending I'm not good at this."
+You do shadow work. You put arrogance on your list and find the memory: the classroom, the right answer, the eye-roll at the kid who got it wrong. You word through it. It's uncomfortable. But you let it come. And the arrogant part says: "I just want to be acknowledged. I worked hard to develop this skill. I'm tired of pretending I'm not good at this."
 
 You begin to see: there's a difference between arrogance and *confidence*. Arrogance says, "I'm better than you." Confidence says, "I'm good at this." Arrogance diminishes others. Confidence honors your own capacity without needing to compare.
 

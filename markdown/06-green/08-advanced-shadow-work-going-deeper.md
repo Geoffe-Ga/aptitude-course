@@ -20,11 +20,11 @@ Create a visual map of your shadow constellation. Draw a central circle (that's 
 
 **2. Ancestral Shadow Work**
 
-Some of your shadow isn't yours—it's inherited. Patterns passed down through generations. Trauma your parents or grandparents carried that they never processed. In your chair work, invite your ancestors to sit in the shadow chair. Ask them: "What are you carrying that I don't need to carry anymore?" Let them speak. Then consciously release what's not yours.
+Some of your shadow isn't yours—it's inherited. Patterns passed down through generations. Trauma your parents or grandparents carried that they never processed. When a row on your list traces back past your own memories (a family temper, a family silence), give it an ancestral session. In Part 2, picture the family scene where you first saw the pattern in someone else, and word through "any patterns of [Shadow] that I inherited through my family line." Then ask: "What are they carrying that I don't need to carry anymore?" Let the answer come before you meditate, and consciously release what's not yours.
 
 **3. Future Self Integration**
 
-Invite your future self—the version of you who's already integrated this shadow—to sit in the self chair while you sit in the shadow chair. Ask them: "What did you learn about this part of me? How did you make peace with it?" Let their wisdom guide you.
+Using the chair-work alternative, invite your future self—the version of you who's already integrated this shadow—to sit in the self chair while you sit in the shadow chair. Ask them: "What did you learn about this part of me? How did you make peace with it?" Let their wisdom guide you.
 
 **4. Shadow as Ally Ritual**
 
