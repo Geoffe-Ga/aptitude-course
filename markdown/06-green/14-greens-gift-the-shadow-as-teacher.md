@@ -2,7 +2,7 @@
 id: green-14
 stage: 6
 chapter: 14
-order: 14
+order: 15
 slug: greens-gift-the-shadow-as-teacher
 title: "Green's Gift: The Shadow as Teacher"
 content_type: chapter

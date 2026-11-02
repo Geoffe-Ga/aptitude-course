@@ -2,7 +2,7 @@
 id: green-18
 stage: 6
 chapter: 18
-order: 18
+order: 19
 slug: collaborate-feelfull-6-phase-wavelength-breakdown
 title: "\"COLLABORATE (Feel)\"—Full 6-Phase Wavelength Breakdown"
 content_type: chapter

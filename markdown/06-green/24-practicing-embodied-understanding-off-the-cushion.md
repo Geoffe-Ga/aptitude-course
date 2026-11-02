@@ -2,7 +2,7 @@
 id: green-24
 stage: 6
 chapter: 24
-order: 24
+order: 25
 slug: practicing-embodied-understanding-off-the-cushion
 title: "Practicing Embodied Understanding Off the Cushion"
 content_type: chapter
@@ -42,7 +42,7 @@ This is shadow work in real time. You're not suppressing the emotion or intellec
 
 **In Community: Retire First, Then Sit Down**
 
-You're about to walk into a gathering—a circle, a dinner, a group chat that has become a place. The old pattern is to arrive *on*: ready to be the funny one, the intense one, the one who knows. The Green practice is to arrive off-duty.
+You're about to walk into a gathering—the group from Green's core task, a dinner, a group chat that has become a place. The old pattern is to arrive *on*: ready to be the funny one, the intense one, the one who knows. The Green practice is to arrive off-duty.
 
 Retire first. Twenty minutes before you go, put down whatever is stressing your life: close the laptop, take the walk, let your hands do something simple. Then, once you're there, pick one of the three old jobs—entertain, titillate, educate—and don't take it tonight. Sit alongside people rather than in front of them. Let a silence happen. Notice the pull to fill it, and notice what the pull is protecting.
 

@@ -2,7 +2,7 @@
 id: green-17
 stage: 6
 chapter: 17
-order: 17
+order: 18
 slug: greens-shadow-spiritual-bypassing-and-toxic-positivity
 title: "Green's Shadow: Spiritual Bypassing and Toxic Positivity"
 content_type: chapter
