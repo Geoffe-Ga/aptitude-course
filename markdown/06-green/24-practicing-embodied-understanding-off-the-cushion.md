@@ -40,6 +40,14 @@ Excuse yourself if you need to. Go somewhere private. Place your hand on the pla
 
 This is shadow work in real time. You're not suppressing the emotion or intellectualizing it. You're *completing* it. And when you return to the conversation, you'll be clearer.
 
+**In Community: Retire First, Then Sit Down**
+
+You're about to walk into a gathering—a circle, a dinner, a group chat that has become a place. The old pattern is to arrive *on*: ready to be the funny one, the intense one, the one who knows. The Green practice is to arrive off-duty.
+
+Retire first. Twenty minutes before you go, put down whatever is stressing your life: close the laptop, take the walk, let your hands do something simple. Then, once you're there, pick one of the three old jobs—entertain, titillate, educate—and don't take it tonight. Sit alongside people rather than in front of them. Let a silence happen. Notice the pull to fill it, and notice what the pull is protecting.
+
+Afterward, ask the Boring Test question: *was there a moment I could have been boring here, and was that okay?* If yes, that's Belonging, and you don't need to make it a project. If not, that's information—about the room, or about the fee you charge yourself—and you can look at either with curiosity. The first time may feel like nothing happened. That's about right. Belonging often feels less like arrival and more like being a little less tired.
+
 **In Community: Offering and Receiving Feedback**
 
 The circle has conflict. Someone's behavior is affecting others. The Green practice is to address it with compassion *and* clarity.

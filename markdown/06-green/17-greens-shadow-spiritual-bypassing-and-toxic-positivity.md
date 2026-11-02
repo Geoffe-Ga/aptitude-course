@@ -20,6 +20,8 @@ This is Green's trap. It's the person who's done so much inner work that they've
 
 Spiritual bypassing is the shadow side of shadow work. It's using the language of healing to stay stuck.
 
+Remember the sidewalk of frogs from Green's Gift? This is the person walking it with their eyes on the stars. The stars are real, and they'll still be there after you look down. But a view of the heavens used to avoid the pavement is just a prettier way to keep stepping on things.
+
 **Toxic positivity** is related but slightly different. It's the insistence that you must always be "high vibe." That negative emotions are signs of "low consciousness." That if you're struggling, it's because you're "not doing the work." It's the wellness culture that shames you for being human.
 
 You see this in the person who responds to your grief with "But what's the lesson?" or your anger with "You're just creating more negativity." Who can't sit with discomfort—theirs or yours—so they try to positivity-bypass it away.
