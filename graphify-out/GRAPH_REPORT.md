@@ -1,16 +1,16 @@
-# Graph Report - aptitude-course  (2026-10-13)
+# Graph Report - aptitude-course  (2026-11-02)
 
 ## Corpus Check
-- 253 files · ~348,151 words
+- 254 files · ~351,167 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1083 nodes · 1161 edges · 203 communities (63 shown, 140 thin omitted)
+- 1091 nodes · 1169 edges · 202 communities (64 shown, 138 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS · INFERRED: 1 edges (avg confidence: 0.8)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `c9d1fb8e`
+- Built from commit: `1623776c`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -126,7 +126,6 @@
 - 19-the-descent-of-inanna-the-mythic-template-for-shadow-work.md
 - 20-what-the-myth-teaches-about-green.md
 - 21-ereshkigal-the-sister-in-the-shadow.md
-- 22-the-katabasis-descent-as-spiritual-practice.md
 - 24-practicing-embodied-understanding-off-the-cushion.md
 - 01-what-is-yellow.md
 - 02-the-mood-of-yellow-freedomfree-will.md
@@ -238,7 +237,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (203 total, 140 thin omitted)
+## Communities (202 total, 138 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.04
@@ -317,8 +316,8 @@ Cohesion: 0.18
 Nodes (5): Table of Contents, The Relationship to Free Will at Orange: Status Seeker, Why Exercise Does So Much for Understanding, Orange's Divine Gender: Divine Masculine—Achievement and Curiosity, Practicing Understanding Off the Cushion
 
 ### Community 19 - "README.md"
-Cohesion: 0.18
-Nodes (5): Table of Contents, The Journaling Prompts of Green, The Default Habit of Green: Active Recovery, The Rhythm of Yang and Yin, The Compost Heap: Death as Fertilizer
+Cohesion: 0.13
+Nodes (7): Table of Contents, What is Green?, The Relationship to Free Will at Green: Shadow Glorifier, Green's Divine Gender: Divine Feminine—Descent and Integration, Green's Shadow: Spiritual Bypassing and Toxic Positivity, The Katabasis: Descent as Spiritual Practice, The Compost Heap: Death as Fertilizer
 
 ### Community 20 - "README.md"
 Cohesion: 0.15
@@ -488,24 +487,26 @@ Nodes (4): Looking at Love in Particular, The categories are not a ranking, Whic
 Cohesion: 0.50
 Nodes (4): Contents, Navigation, Source, Stage 4: BLUE
 
+### Community 94 - "01-what-is-green.md"
+Cohesion: 0.25
+Nodes (7): Beware of Cults, and of the Other Mistake, Choose a Group, Green's Core Task: Find a Group to Practice Belonging With, The Task, Then Help Yourself Fit In, What *Bowling Alone* Noticed, What It Can Feel Like
+
 ### Community 181 - "15-the-final-integration-all-stages-always-available.md"
 Cohesion: 0.33
 Nodes (5): And then the laundry, The Adept as Shapeshifter, The appropriate response, The Whole Instrument: All Stages, Always Available, Wholeness is a relationship, not a rank
 
 ## Knowledge Gaps
-- **628 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+623 more)
+- **634 isolated node(s):** `convert_docs.sh script`, `schema_version`, `chapters`, `site_resources`, `stage_intros` (+629 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **140 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **138 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Content Format Specification` connect `Community 13` to `Community 8`?**
   _High betweenness centrality (0.032) - this node is a cross-community bridge._
-- **Why does `Stage 1: BEIGE` connect `Stage 1: BEIGE` to `README.md`?**
-  _High betweenness centrality (0.014) - this node is a cross-community bridge._
 - **What connects `convert_docs.sh script`, `schema_version`, `chapters` to the rest of the system?**
-  _628 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _634 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.04081632653061224 - nodes in this community are weakly interconnected._
 - **Should `Community 5` be split into smaller, more focused modules?**
@@ -514,3 +515,5 @@ _Questions this graph is uniquely positioned to answer:_
   _Cohesion score 0.07977207977207977 - nodes in this community are weakly interconnected._
 - **Should `Community 8` be split into smaller, more focused modules?**
   _Cohesion score 0.0524390243902439 - nodes in this community are weakly interconnected._
+- **Should `Community 9` be split into smaller, more focused modules?**
+  _Cohesion score 0.05128205128205128 - nodes in this community are weakly interconnected._
